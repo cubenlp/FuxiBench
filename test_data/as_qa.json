@@ -1,0 +1,2767 @@
+[
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "乌龟落秤盘",
+    "output": "自称自"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "看衣裳行事",
+    "output": "狗眼看人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "夹子上的老鼠",
+    "output": "没跑；跑不了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "亲戚是把锯",
+    "output": "你有来，我有去"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃饭舔碗边",
+    "output": "穷相毕露；吝啬鬼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "黑瞎子捧刺猬",
+    "output": "碰到棘手事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "棺材里放屁",
+    "output": "臭死人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "口吞擀面杖",
+    "output": "横了心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "仙姑思凡",
+    "output": "心野了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蜜糖抹在鼻尖上",
+    "output": "看不到，吃不着"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "佛多香少",
+    "output": "供不应求"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二郎爷的笛子",
+    "output": "神吹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大白天打劫",
+    "output": "明目张胆"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "冬瓜皮做帽子",
+    "output": "滑头；滑头滑脑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "箩筐盛石灰",
+    "output": "处处留迹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "能字添四点",
+    "output": "熊样"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "妹妹穿姐姐的鞋",
+    "output": "一模一样；没什么两样"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "受潮的米花糖",
+    "output": "皮了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛤蟆嘴下落苍蝇",
+    "output": "自送一口肉；送来的口食"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老母猪下棋",
+    "output": "瞧你那笨脑瓜"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "糊涂官判案",
+    "output": "是非不清"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老牛身上拔根毛",
+    "output": "微不足道"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "腰里挂算盘",
+    "output": "光为自己打算"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "恶老婆告状",
+    "output": "有理说不清；讲不清道理"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "元宵掉进糨糊盆",
+    "output": "糊涂蛋"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "捂着鼻子讲卫生",
+    "output": "不闻不问"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "死后谈功过",
+    "output": "盖棺论定"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚊虫遭扇打",
+    "output": "吃了嘴的亏；全坏在嘴上"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "庙小菩萨大",
+    "output": "盛不下"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "牙痛贴膏药",
+    "output": "胡摆治"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二姑娘上轿",
+    "output": "忸忸怩怩"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "灶王爷贴在腿肚子上",
+    "output": "人走家搬；搬家"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "热窝炒豆子",
+    "output": "熟一个，蹦一个"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "脚底长疮",
+    "output": "寸步难行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耗子拱墙根",
+    "output": "没缝打缝"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛤蟆拉车",
+    "output": "没后劲"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老牛掉进深泥潭",
+    "output": "不能自拔"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打破脑袋不喊痛",
+    "output": "充硬汉"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "王八吃秤砣",
+    "output": "铁了心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "戳破了的灯泡",
+    "output": "冒火"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "母猪遛（liu）土豆",
+    "output": "全凭一张嘴；全仗嘴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "不倒翁沏茶",
+    "output": "没水平"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "生铁换豆腐",
+    "output": "吃软不吃硬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "深山的石头",
+    "output": "有的是；多的是"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "卖瓜的夸瓜甜，卖鱼的夸鱼鲜",
+    "output": "自卖自夸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "卖豆芽的抖搂筐",
+    "output": "干净利索"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老虎烧香",
+    "output": "冒充善人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "风里点灯",
+    "output": "不久长；难长久"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "城隍老爷拉胡琴",
+    "output": "鬼扯"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "逗哑巴挨口水",
+    "output": "自找没趣"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瘟神下界",
+    "output": "百姓遭难；四方遭灾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "两口子回门",
+    "output": "成双成对"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "孙猴钻进铁扇公主肚子里",
+    "output": "心腹之患"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "菩萨的胡须",
+    "output": "人造的"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二四六八十",
+    "output": "无独有偶"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃了豹子胆",
+    "output": "胆子大"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "苍蝇找屎克螂做亲",
+    "output": "臭味相投"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穿旗袍跳芭蕾舞",
+    "output": "中西结合"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耳聋鼻塞嘴哑",
+    "output": "一窍不通"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老虎吃蜻蜓",
+    "output": "不过瘾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "小孩子过家家",
+    "output": "一会儿好，一会儿坏"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老太太的鞋",
+    "output": "前紧后松"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "烟囱里屙屎",
+    "output": "臭气熏天；出臭风头"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "兔子扒窝",
+    "output": "安家落户"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "看到草绳就喊蛇",
+    "output": "大惊小怪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "对着墙壁走路",
+    "output": "没门儿；无门"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "小狗娃跌屎坑",
+    "output": "饱餐一顿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "带泥的萝",
+    "output": "有点土气"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡蛋掉油缸",
+    "output": "圆滑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "青蛙闹塘",
+    "output": "吵闹不休"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "强盗过后安弓箭",
+    "output": "没用处；没得用"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃猪肉念佛经",
+    "output": "假善人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瘸驴配破磨",
+    "output": "两将就"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蜈蚣吃蝎子",
+    "output": "以毒攻毒"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "豁子喝米汤",
+    "output": "无耻（齿）下流"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "杀猪不褪毛",
+    "output": "先吹起来看"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "唐僧的龙马",
+    "output": "腾云驾雾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "发了霉的葡萄",
+    "output": "一肚子坏水"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛤蟆被牛踩",
+    "output": "浑身是伤"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "杯水救燎原",
+    "output": "无济于事；微不足道"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "森林里生火",
+    "output": "就地取材（柴）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "当兵的背算盘",
+    "output": "找仗（账）打"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "长衫改夹袄",
+    "output": "取长补短"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耳朵眼里灌稀饭",
+    "output": "混淆视听"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "马蜂窝",
+    "output": "捅不得"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "太阳落在脑袋上",
+    "output": "大难临头"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "歪头看戏怪台斜",
+    "output": "无理取闹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大虫口里夺脆骨，骊龙颌下取明珠",
+    "output": "好大胆；好大的胆子；找死"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "寒暑表里的水银柱",
+    "output": "能上能下"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "唐三藏读佛经",
+    "output": "出口成章"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "金漆马桶",
+    "output": "外面光，里面臭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耗子窟窿",
+    "output": "填不满"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "起重机吊竹篮",
+    "output": "不值一提"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "借钱还债",
+    "output": "堵不完的窟窿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "相声表演",
+    "output": "笑话连篇"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "号手出身",
+    "output": "会吹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "粪堆上长灵芝",
+    "output": "臭得出奇"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "唱戏的拜天地",
+    "output": "一会儿的夫妻"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "眼睛里的沙子",
+    "output": "容不得"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "糊涂老板糊涂账",
+    "output": "难算；算不清"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "腰里拴扁担",
+    "output": "横行一方"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃萝卜喝烧酒",
+    "output": "千干脆脆"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "流水簿做袍子",
+    "output": "浑身是债；满身都是帐"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "媒婆迷了路",
+    "output": "没说的"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "绣花被面补裤子",
+    "output": "大材小用"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "豆腐饨骨头",
+    "output": "不软不硬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "怀揣金子",
+    "output": "心里沉重"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "龙王爷的帮手",
+    "output": "虾兵蟹将"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "花篮里装泥鳅",
+    "output": "跑的跑，溜的溜"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "箅子（bi zi有空隙而能起间隔作用的器具。）上取窝头",
+    "output": "十拿九稳"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "拆房卖瓦",
+    "output": "只顾眼前"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "铁勺子烙饼",
+    "output": "供不上嘴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "牢房里赌博",
+    "output": "一错再错"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "灶门前干活",
+    "output": "煽（扇）风点火"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耗子爬竹竿",
+    "output": "一节节来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "绒球敲锣",
+    "output": "打不响"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大年初一拜年",
+    "output": "你好我也好（比喻不肯得罪人）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "秤砣碰铁蛋",
+    "output": "硬对硬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "城隍庙里朝观音",
+    "output": "走错了门"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "讲课还是老一套",
+    "output": "屡教不改"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "石灰布袋",
+    "output": "处处留迹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "请木匠补锅",
+    "output": "用人不当"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "猛张飞舞刀",
+    "output": "杀气腾腾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大海里吐唾沫",
+    "output": "不显眼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打铁卖糖",
+    "output": "各干一行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "上梁请了箍桶匠",
+    "output": "找错了人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二齿钩子挠痒",
+    "output": "一把硬手；是把硬手"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "半夜鸡叫",
+    "output": "乱了时辰"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "骑马找判官",
+    "output": "马上见鬼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛤蟆的眼睛",
+    "output": "突出"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鱼吞香饵",
+    "output": "不知有钩"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "河南到河北",
+    "output": "两省"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "揍鸡毛",
+    "output": "壮但（装掸）子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "月亮地里晒谷子",
+    "output": "阴干；将就天"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "阎王桌上抓供果",
+    "output": "送死"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "肚子里长笋",
+    "output": "胸有成竹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "过河拆桥",
+    "output": "忘恩负义"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "小两口观灯",
+    "output": "喜气盈盈"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "开水里捞肥皂",
+    "output": "全凭手快"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "电焊的火花",
+    "output": "看不得"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "哈巴狗掉进茅坑里",
+    "output": "饱餐一顿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瘸子爬山",
+    "output": "步步难；东倒西歪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "黑心的萝卜",
+    "output": "坏透了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "冬天的蚂蚁",
+    "output": "不露头"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "十字路口贴告示",
+    "output": "众所周知"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "病人装进棺材",
+    "output": "不可救药"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "三条腿的蛤蟆",
+    "output": "怪物；与众不同"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "漫山的杜鹃",
+    "output": "红火的一片；一片红火"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚂蚁吃萤火虫",
+    "output": "亮在肚里"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "敲山震虎",
+    "output": "瞎咋唬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "病床上摘牡丹",
+    "output": "临死还贪花"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "杨家将出征",
+    "output": "全家都上；一齐出动；男女老少齐上阵"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "光脚丫进冰窖",
+    "output": "凉到底了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "五尺深的浑水潭",
+    "output": "看不透"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "月亮地里晒被单",
+    "output": "白搭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "用斗量糠",
+    "output": "不声不响"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "算卦先生的葫芦",
+    "output": "肚里有鬼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "堵住笼子抓鸡",
+    "output": "稳拿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "原子弹炸鸟",
+    "output": "大材小用"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "新鞋打掌子",
+    "output": "多余"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "中了状元招驸马",
+    "output": "好事成双；喜上加喜"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蜘蛛结网，耗子打洞",
+    "output": "各有各的主意"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "叫牛坐板凳",
+    "output": "办不到；没法办，"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "惊蛰后的青竹索",
+    "output": "越来越凶"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "玉帝讨河神",
+    "output": "尽是天兵天将"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "嘴巴里藏刀子",
+    "output": "出口伤人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "煮坏的饺子",
+    "output": "露馅了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二郎神的慧眼",
+    "output": "有远见"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "马尾穿豆腐",
+    "output": "没法提；提不得；别提了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "额头角上搁扁担",
+    "output": "头挑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "墙上一棵草",
+    "output": "两边倒"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "矮子放屁",
+    "output": "低声下气"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "猪八戒西天取经",
+    "output": "三心二意"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "不是鱼死，就是网破",
+    "output": "有你无我"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "木刻的苦罗汉",
+    "output": "难得一笑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "遇到老翁叫大哥",
+    "output": "没大没小"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "筛子做锅盖",
+    "output": "心眼多；气不打一处来；到处泄气"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "满口镶金牙",
+    "output": "嘴里漂亮"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "石崖压着嫩枝芽",
+    "output": "抬不起头来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "董存瑞炸碉堡",
+    "output": "视死如归"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "拖拉机犁大田",
+    "output": "直来直去"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "饭桌上的盘子",
+    "output": "没把柄"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穿袜子没底",
+    "output": "装面子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "新打的剪刀",
+    "output": "难开口"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "缄门头上挂猪肝",
+    "output": "少心没肺"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "厕所里照镜子",
+    "output": "臭美（比喻做事太过分，使人厌恶和憎恨。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "爷爷的长相",
+    "output": "老样子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "南天门上打伞",
+    "output": "一跳邪气"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "何家的姑娘嫁郑家",
+    "output": "正合适（郑何氏）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "春天的竹笋",
+    "output": "节节向上；无依"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "补锅匠揽瓷器活",
+    "output": "充内行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "夫妻俩唱小调",
+    "output": "一唱一和"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "梁山伯与祝英台",
+    "output": "生死相依；生死不离"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "黄鼠狼戴花",
+    "output": "臭美"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "敲开的木鱼",
+    "output": "合不拢嘴（比喻高兴地合不上嘴。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "刑场上跳舞",
+    "output": "死中作乐"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穿木屐（mu ji木板拖鞋）干活",
+    "output": "拖拖拉拉"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛇吞象",
+    "output": "不自量；好大的胃口"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "油画里卷国画",
+    "output": "话（画）里有话（画）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吹鼓手坐宴席",
+    "output": "顾吃不顾吹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "小尼姑看嫁妆",
+    "output": "今世无缘"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穆桂英和杨宗保",
+    "output": "恰好一对"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "竹林里放纸鸢",
+    "output": "胡搅蛮缠"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "水塘里挖藕",
+    "output": "心眼多；心眼不少"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "乌龟买鳖价",
+    "output": "不上算；不合算"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "天要下雨鸟要飞",
+    "output": "各随其便"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "寿星老儿的脑袋",
+    "output": "宝贝疙瘩"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "三分钱买烧还看厚簿",
+    "output": "小气得很"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "牛吃笋子",
+    "output": "胸有成竹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "世界地图吞肚里",
+    "output": "胸怀全球"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "城隍庙里的小鬼",
+    "output": "老瞪眼睛不开腔"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "抱木偶打狗",
+    "output": "把你不当人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "姜太公钓鱼",
+    "output": "愿者上钩"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "百年松树，五月芭蕉",
+    "output": "粗枝大叶"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "掌钳的敲小锤",
+    "output": "正在火候上"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "侦察员破案",
+    "output": "暗中活动"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鹅卵石掉酱缸",
+    "output": "一个糊涂蛋"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "给死人送医",
+    "output": "枉费功夫"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "筷子里拔旗杆",
+    "output": "没高的"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大雾天放鸭子",
+    "output": "有去无回"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "歪歪嘴跌跤",
+    "output": "上错下错；错上错下"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "炒咸菜放盐巴",
+    "output": "太闲（咸）了·"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "屋檐下挂猪胆",
+    "output": "苦水滴滴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "茶杯掉在地上",
+    "output": "净蹦（崩）词（瓷）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "疯狗咬日",
+    "output": "白费工夫；白费劲；枉费工"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "土做的人儿",
+    "output": "实心眼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "八仙桌上摆夜壶",
+    "output": "不是个（家）伙；不是个成就（盛酒）的家伙"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "客气碰着老实",
+    "output": "虚情当成真意（比喻把假的当成了真的。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一个萝卜一个坑",
+    "output": "一个顶一个"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鲜鱼烂虾一锅煮",
+    "output": "不知好歹；好歹不分"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "舞台上的皮影戏",
+    "output": "幕后操纵"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "竹竿打月亮",
+    "output": "挨不上"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "断了翅膀的鸟",
+    "output": "飞不高"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "寒流来了吹暖气",
+    "output": "冷嘲（潮）热讽（风）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "王小二敲锣",
+    "output": "穷得丁当响"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "隔墙丢西瓜",
+    "output": "给别人解渴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "海底栽葱",
+    "output": "根底深"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "人多主意强",
+    "output": "集思广益"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "年近古稀嗅觉低",
+    "output": "老鼻子啦"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "张飞讨债",
+    "output": "气势汹汹"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "才出壳的鸡子",
+    "output": "嫩的很"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "癞蛤蟆的脊梁",
+    "output": "点子多"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "骑兵败阵",
+    "output": "兵荒马乱"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "麦场上挂马灯",
+    "output": "照常（场）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "热水瓶脾气",
+    "output": "外面冷，里头热"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "骑在房梁上吹喇叭",
+    "output": "名（鸣）声在外"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "头发上擦火柴",
+    "output": "划不着"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鞋子里洒香水",
+    "output": "过分讲究"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "卖了犬褂买裤衩",
+    "output": "短得见不了人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "得陇望蜀",
+    "output": "贪心不足"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "落雨天担禾草",
+    "output": "担子越来越重"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "河心搁跳板",
+    "output": "两头脱空"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "麦田捉田鸡",
+    "output": "手到擒来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "河里赶大车",
+    "output": "没辙"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "阴沟里荡舟船",
+    "output": "寸步难行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "寿星看太医",
+    "output": "老毛病"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "猫守鼠洞",
+    "output": "不动声色"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "秋天的木棉花",
+    "output": "老来红"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "葫芦锯了把儿",
+    "output": "没嘴儿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "刚出山的太阳",
+    "output": "红光满面"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡斗黄鼠狼",
+    "output": "自己找死；寻死；送死"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "风化石磨刀",
+    "output": "快不了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "长毛驴儿推磨",
+    "output": "兜圈子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "泥佛爷的眼珠儿",
+    "output": "动不得"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "森林失火",
+    "output": "尽光棍；全是光棍"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "放羊娃拾粪",
+    "output": "两不耽误；两得其便"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老虎驾辕",
+    "output": "没人敢（赶）；谁敢（赶）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "三十晚上逼债",
+    "output": "年关难过"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "墨里藏针",
+    "output": "难找寻"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "半斤对八两（旧制八两为半斤）",
+    "output": "一码事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "峨眉山上的佛光",
+    "output": "看得见，摸不着；可望而不可及"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚂蚁讲话",
+    "output": "碰头（比喻见面、相遇。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一个世纪才盘点",
+    "output": "百年大计"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "烂柿子落地",
+    "output": "软瘫了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡婆抱鸭子",
+    "output": "舍己为人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一屁股壿（dun 重重往下放）在锣鼓上",
+    "output": "音不正；没正音"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老婆婆抱孙子",
+    "output": "喜笑颜开"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "嚼烂舌头当肉吃",
+    "output": "自吃自；自欺欺人；自己哄自己"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "三伏天喝凉茶",
+    "output": "正是时候"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穿着高跟鞋上山",
+    "output": "自己跟自己过不去"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "逼公鸡下蛋",
+    "output": "故意刁难；办不到"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛤蟆长毛",
+    "output": "不可能的事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "空中飞人",
+    "output": "上不着天，下不着地"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "叫你上坡，你偏下河",
+    "output": "成心闹别扭；专找别扭；故意捣乱"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "皮球掉在油缸里",
+    "output": "又圆又滑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "程咬金做皇帝",
+    "output": "当不得真"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一斤霉面做个馍",
+    "output": "废物点心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "同床异梦",
+    "output": "有二心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "娶媳妇穿孝衫",
+    "output": "十里乡情不一般"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "铁路警察",
+    "output": "各管一段"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "清水染白布",
+    "output": "空过一场"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃了筐烂杏",
+    "output": "心酸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老牛拉稀屎",
+    "output": "接连不断"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "娃娃玩肥皂泡",
+    "output": "吹起来了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "站在河岸捞月亮",
+    "output": "白搭工"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃冰棍拉（排泄）冰棍",
+    "output": "没话（化）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "开局摆开拦河车",
+    "output": "严阵以待"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "牛鼻绳落人手",
+    "output": "身不由己；不由自主"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "少时衣裳老来穿",
+    "output": "过时货"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "肚脐眼里藏书",
+    "output": "满腹经文"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "赶集走亲戚",
+    "output": "顺路的事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "没罪找枷戴",
+    "output": "自寻烦恼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "骑马观灯",
+    "output": "走着瞧"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "和尚庙里借梳子",
+    "output": "走错了门；找错了门"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "睡梦坐朝廷",
+    "output": "高兴一时是一时；快活一时算一时"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "巫婆和鬼打架",
+    "output": "病人跟着受难"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "春天的柳树枝",
+    "output": "落地生根"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "破皮球，烂轮胎",
+    "output": "到处泄气"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "麻雀掉到面缸里",
+    "output": "煳（糊）嘴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "玩把势的绝技",
+    "output": "耍花招"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "耗子生儿",
+    "output": "喂猫的货"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "纺纱厂的烂线团",
+    "output": "头绪太乱；千头万绪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "乌龟遭棒打",
+    "output": "缩头缩脑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瞎子看书",
+    "output": "观点不明"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "当差放私骆驼",
+    "output": "假公营私"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蛇遭蝎子蜇",
+    "output": "一个比一个毒"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "千年槐下乘凉",
+    "output": "托前人的福"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "黑瞎子坐月子",
+    "output": "吓（下）熊了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "捂着鼻子闭着嘴",
+    "output": "憋气；憋得难受"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "独木桥上睡觉",
+    "output": "翻不了身"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚕宝宝牵蜘蛛",
+    "output": "私（丝）连私（丝）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "风前蜡烛",
+    "output": "说灭就灭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "飞机翻跟头",
+    "output": "倒栽葱"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "石头子孵小鸡",
+    "output": "一成不变"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "机器人讲情话",
+    "output": "有口无心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "年过花甲不成才",
+    "output": "虚度年华；枉活了大半辈子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "临阵磨枪",
+    "output": "迟了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "唐伯虎进宁王府",
+    "output": "装疯卖傻"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大草原上吹喇叭",
+    "output": "想（响）得宽"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "得了雨衣还要伞",
+    "output": "贪得无厌；贪心不足"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "泥鳅过鱼网",
+    "output": "无孔不入"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "披蓑衣上朝",
+    "output": "献丑；自己献丑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃罢黄连劝儿媳",
+    "output": "苦口婆心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "驴子下只象",
+    "output": "怪胎"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老母猪啃瓷砖",
+    "output": "满嘴词（瓷）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蜻蜓吃尾巴",
+    "output": "白吃自；一连串"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "对着镜子伸拳头",
+    "output": "自己吓唬自己"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "头上砍一刀",
+    "output": "伤脑筋"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "按着脑袋往火炕里钻",
+    "output": "憋气窝火"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "烂脑瓜戴上新毡帽",
+    "output": "冒充好人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "旱天的井",
+    "output": "水平低"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二姑娘架老鹰",
+    "output": "招架不住"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "机器人看戏",
+    "output": "无动于衷"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瞎子打灯笼",
+    "output": "看不到前程"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打开棺材喊捉贼",
+    "output": "冤枉死人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "搭人梯过城墙",
+    "output": "踩着别人的肩膀往上爬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "飞了鸭子打了蛋",
+    "output": "两落空；两头空"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "小孩掰竹笋",
+    "output": "拔尖"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "米汤炒莲藕",
+    "output": "糊了眼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "斗篷烂边",
+    "output": "顶好"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "钝刀子杀鸡",
+    "output": "靠手劲"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "孔夫子念文章",
+    "output": "咬文嚼字"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "驴头上长角",
+    "output": "怪事；怪事一桩"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "不栽果树吃桃子",
+    "output": "坐享其成"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "案板底下放风筝",
+    "output": "飞不起来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡蛋炒韭黄",
+    "output": "色货"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "临刑唱大曲",
+    "output": "视死如归"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "炒面捏娃娃",
+    "output": "熟人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "叫花子走人户（走亲戚）",
+    "output": "两手空"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "霜打茄子",
+    "output": "软不拉耷"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "和尚枕着门槛睡",
+    "output": "突（秃）出"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "池塘里的泥鳅",
+    "output": "掀不起大浪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡屎蛋子塑神像",
+    "output": "胎里坏；坏了胎"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "煤面子捏的人",
+    "output": "黑心肝"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老鼠跌进铁桶里",
+    "output": "无缝可钻"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "跪着养猪",
+    "output": "看在钱份上"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "外婆待外甥",
+    "output": "诚心实意"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "少林寺的高僧",
+    "output": "身手不凡"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鬼子兵逃命",
+    "output": "屁滚尿流"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "夜壶摆在床底下",
+    "output": "见不得人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "袖子里的火",
+    "output": "抖落不了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "傻二哥算账",
+    "output": "糊糊涂涂；糊里糊涂"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "扁嘴子（鸭子）过河",
+    "output": "摸不着底"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瞎子吃鱼",
+    "output": "摸不着头尾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "苦豆子煮黄连",
+    "output": "一个更比一个苦"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "嗓子眼里长骨头",
+    "output": "有口难言"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "黄连拌苦瓜",
+    "output": "苦上加苦"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老太太补衣服",
+    "output": "东拼西凑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "让张飞绣花",
+    "output": "滥用人才"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "出土笋子逢春雨",
+    "output": "节节高"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "两股脏水汇一起",
+    "output": "同流合污"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "河边放崖炮",
+    "output": "无地容身；无处藏身"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "芦柴秆做门闩",
+    "output": "难撑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "唐僧遇见白骨精",
+    "output": "敌我不分"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "雨花台的石子",
+    "output": "五光十色"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "竹筒倒豌豆",
+    "output": "一干二净"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "船上打伞",
+    "output": "没天没地"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "远路人蹬水",
+    "output": "不知深浅"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "跳大神的翻白眼",
+    "output": "没咒念"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "面筋粘知了",
+    "output": "没跑；跑不了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "房梁上逮鸟",
+    "output": "不好捉摸；难捉摸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "豆腐架子",
+    "output": "碰不得；不牢"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "狗尾巴草长在墙逢里",
+    "output": "根子不正"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "马蜂口丁屁股",
+    "output": "痛不可言"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "和尚的袈裟",
+    "output": "东拼西凑；七拼八凑"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃着冰棍拉家常",
+    "output": "冷言冷语"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "捣蒜槌子",
+    "output": "独根儿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "牛鼻子上的跳蚤",
+    "output": "自高自大"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "乌龟摔在石板上",
+    "output": "碰上硬的了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "白天打灯笼",
+    "output": "白搭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "烧香砸菩萨",
+    "output": "不知好歹；好歹不分"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "戴红缨帽上树",
+    "output": "红到顶上"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "脚脖子上把脉",
+    "output": "瞎摸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "平民百姓见玉帝",
+    "output": "一步登天"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "屋檐上挂马桶",
+    "output": "臭名在外"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打饱嗝带放屁",
+    "output": "两头没好气；气不打一处来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "山羊见了老虎皮",
+    "output": "望而生畏"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "绸子包鸡笼",
+    "output": "外面好看里面空"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "山腰里一片云",
+    "output": "成不了气候；不成气候"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "坐飞机吹喇叭",
+    "output": "响得高"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "两个槌敲一面锣",
+    "output": "想（响）到一块了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "穿绸缎吃粗糠",
+    "output": "外光里不光"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "煤炭下水",
+    "output": "一辈子洗不清"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "核桃树旁种棉花",
+    "output": "软硬兼施"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "扛着鸟枪上疆场",
+    "output": "抵挡一阵"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瘸子跳高",
+    "output": "早晚有他的好看"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃屎狗难断吃屎路",
+    "output": "本性难移"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "染布不均",
+    "output": "料不到"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "桅杆上的螺狮",
+    "output": "靠天吃饭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "狼窝里养孩子",
+    "output": "性命难保"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "咸鸡蛋",
+    "output": "老腌（淹）哪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "青芭蕉",
+    "output": "有棱有角"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "司务长买饭票",
+    "output": "公私分明；公是公来私是私"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "癞蛤蟆吞月亮",
+    "output": "痴心妄想"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "发面馒头送闺女",
+    "output": "实心实意"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "孔夫子面前讲《孝经》",
+    "output": "假斯文；冒充斯文"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二小做梦娶媳妇",
+    "output": "白高兴一场"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "灯草拐棍",
+    "output": "飘飘然；难撑；靠不住"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "刽子手烧香",
+    "output": "假慈悲；假慈善"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸡头伸进猪食槽",
+    "output": "插不上嘴；难插嘴"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "泥娃娃遭雨淋",
+    "output": "软瘫了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "煤粉石灰搀一起",
+    "output": "黑白不分；混淆黑白"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "地道里卖门神",
+    "output": "看出来的好活（画）儿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "臭媚眼做给瞎子看",
+    "output": "莫名其妙"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "圣人盗书",
+    "output": "文明人不做文明事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "疯狗咬刺猥",
+    "output": "无处下口"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "笼屉上抓馒头",
+    "output": "稳拿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "斗笠出烟",
+    "output": "冒（帽）火"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "饿狗舔盘子",
+    "output": "一干二净"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "说起风便扯帆",
+    "output": "说干就干"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "坟头儿不叫坟头儿",
+    "output": "土包子"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "饿狼吞食",
+    "output": "一副贪相"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "羊肠小道",
+    "output": "绕来绕去"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "拉着何仙姑叫舅妈",
+    "output": "五百年前是一家"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "恶老雕吃死耗子",
+    "output": "对口味"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "画里的大饼",
+    "output": "不能充饥"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "肚子里打灯笼",
+    "output": "自己心里明白"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "半天云里写文章",
+    "output": "空话连"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "卤煮寒鸭子",
+    "output": "肉烂嘴不烂"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二郎神的钢叉",
+    "output": "两面三刀"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "红萝卜雕花",
+    "output": "中看不中吃；好看不好吃"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "脚上戴帽子",
+    "output": "乱了套"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "正月初一卖门神",
+    "output": "过时货；没人过问"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大街得信小街传",
+    "output": "道听途说"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "短木搭桥",
+    "output": "难到岸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "猴子滚绣球",
+    "output": "滚的滚，爬的爬；连滚带爬"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打伞披雨衣",
+    "output": "多此一举"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "秫秫秸（shu shu jie 高梁秆）做栏杆",
+    "output": "不牢靠；不可靠"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚂蚱爬在鞭梢上",
+    "output": "经不起摔打"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "上树打跟头",
+    "output": "爬得高；跌得重；登高必跌重"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "蚊子的力气",
+    "output": "大不了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "东家起火，西家冒烟",
+    "output": "一波未平，一波又起"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "歪戴帽子斜穿袄",
+    "output": "不成体统"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大网捕小鱼",
+    "output": "劳而无功；有劳无功"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "苦水里泡大的杏核儿",
+    "output": "苦人（仁）儿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "花公鸡的尾巴",
+    "output": "翘得高"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "旗杆顶上拉胡琴",
+    "output": "唱高调儿"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "热锅爆米花",
+    "output": "乱蹦乱跳"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "冰滩上的鱼",
+    "output": "由（游）不得了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "喉头上长疔疮",
+    "output": "痛不可言，"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "背死人过河",
+    "output": "吃力不讨好；费劲不落好"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鳝鱼的脑袋",
+    "output": "又奸（尖）又猾（滑）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "做梦拾元宝",
+    "output": "空欢喜；欢喜不尽；一场空欢喜；想得美"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "泥菩萨掉在汤锅里",
+    "output": "浑身酥软"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "肚脐眼安雷管",
+    "output": "心惊肉跳"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "臼鼠拖南瓜",
+    "output": "咋办"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "校场里的土地",
+    "output": "管得宽"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "冬天的扇子",
+    "output": "没用处；尽受冷落"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "肚里吞金",
+    "output": "有内才（财）；心里沉重；心里负担太重"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "泥人吃饺子",
+    "output": "难言（咽）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "河滩里盖房子",
+    "output": "靠不住；不可靠"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老和尚讲佛经",
+    "output": "说的说，听的听"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "照相的底片",
+    "output": "颠倒黑白"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "盐老板抱琵琶",
+    "output": "闲谈（咸弹）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "袜子当帽子",
+    "output": "臭出头了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大粪车出村",
+    "output": "装死（屎）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老驴噙本《三字经》",
+    "output": "咬文嚼字"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "补锅匠的脊梁",
+    "output": "背黑锅"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打柴人回山庄",
+    "output": "两头担心（薪）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "屋里放风筝",
+    "output": "高也有限"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大闺女上轿",
+    "output": "慢慢蹭"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "猴子爬板凳",
+    "output": "各想一头"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "漫地里烤火",
+    "output": "一面热"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "捏住鼻子喝木哩",
+    "output": "一声儿不响"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "脱了旧鞋换新鞋",
+    "output": "改邪（鞋）归正"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "铁匠死在宝剑下",
+    "output": "自作自受"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老太婆啃窝头",
+    "output": "细嚼慢咽"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "扎鞋不拴绳结",
+    "output": "半途而废"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "坟头上耍大刀",
+    "output": "吓鬼（比喻吓唬不了人。）；吓死人"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "老太太走路",
+    "output": "慢腾腾"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "染缸里落白布",
+    "output": "再也洗不清（比喻永远去不掉身上的污点。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "俊女嫁痴汉",
+    "output": "可惜；真可惜"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "踩着麻绳当蛇",
+    "output": "大惊小怪"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二月去了八月来",
+    "output": "不冷不热；热不着也凉不着"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "傻小子爬墙头",
+    "output": "四下无门；四路无门"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "晴天带伞",
+    "output": "有备无患"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "破网打鱼",
+    "output": "瞎张罗"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "狗眼看人",
+    "output": "咬穷不咬富"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "隔年的馒头",
+    "output": "早发的"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "麝香的味",
+    "output": "包不住"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "讨口的掉醋坛",
+    "output": "穷酸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一枪打死个苍蝇",
+    "output": "得不偿失"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "马勺碰锅沿",
+    "output": "常有的事（比喻屡见不鲜。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "无头的苍蝇",
+    "output": "瞎碰；瞎撞"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "呆子不识走马灯",
+    "output": "来的来，去的去"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "苞谷面做元宵",
+    "output": "捏不拢"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "哑巴求医",
+    "output": "说不出的毛病"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "盲人纺纱",
+    "output": "瞎扯"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "电线杆子剔牙",
+    "output": "太粗"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "一锅子混汤面",
+    "output": "糊涂到一块"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "失踪的飞机",
+    "output": "下落不明；不知下落"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "口咽黄连",
+    "output": "心里苦"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "口吃黄连",
+    "output": "苦在心"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "磅秤上放粒芝麻",
+    "output": "无足轻重"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "吃了鸟枪药",
+    "output": "火气冲天"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "鸭子吃糠壳",
+    "output": "白欢喜；空喜一场"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "刀尖上跳舞",
+    "output": "凶多吉少"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "请小姨子作伴",
+    "output": "不安好心眼"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "没牙老婆嚼牛筋",
+    "output": "白磨嘴皮"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "衙门口打警察",
+    "output": "没事找事"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "裁缝铺扯筋（有纠纷闹矛盾）",
+    "output": "争长论短"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "瞎子吃羊肉",
+    "output": "块块好"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "二郎神的天犬",
+    "output": "恶狗一条"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "警察当扒手",
+    "output": "知法犯法"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "闭着眼睛下围棋",
+    "output": "黑白不分；混淆黑白"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "打好的鱼网",
+    "output": "心眼儿多（比喻很有心计。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "山洪冲石子",
+    "output": "不滚也得滚"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "恶狼和疯狗作伴",
+    "output": "脾气相投"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "月下老人绣鸳鸯",
+    "output": "穿针引线"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "刀削铅笔",
+    "output": "要的就是尖"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "八十岁站柜台",
+    "output": "老在行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "拉了弦的手榴弹",
+    "output": "给谁谁不要"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "布机上的梭子",
+    "output": "直来直去；去了又来"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "木匠的折尺",
+    "output": "能屈能伸"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "棉花人救火",
+    "output": "自身难保"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "绒球打锣",
+    "output": "没有回音（比喻没有回答或没有音信。）"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "大姑娘穿花鞋",
+    "output": "走着瞧"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "属寒号鸟的",
+    "output": "得过且过"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "拍一下肩膀屁股痛",
+    "output": "浑身是病"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "飞机的尾日",
+    "output": "翘得高；翘到天上去了"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "壁虎掀门帘",
+    "output": "露一小手"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "长虫过街",
+    "output": "井（蟒）行"
+  },
+  {
+    "instruction": "给出以下歇后语的后半句谜底。",
+    "input": "墙头草随风倒",
+    "output": "两面装好人"
+  }
+]

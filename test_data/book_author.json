@@ -1,0 +1,1922 @@
+[
+  {
+    "instruction": "",
+    "input": "请问《雅堂文集》的作者是谁？",
+    "output": "连横"
+  },
+  {
+    "instruction": "",
+    "input": "请问《周易口义》的作者是谁？",
+    "output": "胡瑗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-肿胀门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《谥法》的作者是谁？",
+    "output": "苏洵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编宫闱典皇孙部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《永安县志 顺治本》的作者是谁？",
+    "output": "陈廷枢"
+  },
+  {
+    "instruction": "",
+    "input": "请问《鹿门子》的作者是谁？",
+    "output": "皮日休"
+  },
+  {
+    "instruction": "",
+    "input": "请问《绿牡丹》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编宫闱典东宫部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《两汉开国中兴传志》的作者是谁？",
+    "output": "黄化宇"
+  },
+  {
+    "instruction": "",
+    "input": "请问《梁启超文集》的作者是谁？",
+    "output": "梁启超"
+  },
+  {
+    "instruction": "",
+    "input": "请问《满清入关暴政》的作者是谁？",
+    "output": "韩菼"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明水陈先生文集》的作者是谁？",
+    "output": "陈九川"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述大小乘释经部华严部疏-华严悬谈会玄记》的作者是谁？",
+    "output": "普瑞"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说杂藏经》的作者是谁？",
+    "output": "法显"
+  },
+  {
+    "instruction": "",
+    "input": "请问《牧民政要》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《乐府余论》的作者是谁？",
+    "output": "宋翔凤"
+  },
+  {
+    "instruction": "",
+    "input": "请问《砚谱》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《圣观自在菩萨功德赞》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《伤科补要》的作者是谁？",
+    "output": "钱秀昌"
+  },
+  {
+    "instruction": "",
+    "input": "请问《临臯文集》的作者是谁？",
+    "output": "杨寅秋"
+  },
+  {
+    "instruction": "",
+    "input": "请问《读书说》的作者是谁？",
+    "output": "胡承诺"
+  },
+  {
+    "instruction": "",
+    "input": "请问《贵耳集》的作者是谁？",
+    "output": "张端义"
+  },
+  {
+    "instruction": "",
+    "input": "请问《四明它山水利备览》的作者是谁？",
+    "output": "魏岘"
+  },
+  {
+    "instruction": "",
+    "input": "请问《儿科要略》的作者是谁？",
+    "output": "吴克潜"
+  },
+  {
+    "instruction": "",
+    "input": "请问《齐民要术》的作者是谁？",
+    "output": "贾思勰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《海南杂着》的作者是谁？",
+    "output": "蔡廷兰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述史传部禅宗-联灯会要》的作者是谁？",
+    "output": "悟明"
+  },
+  {
+    "instruction": "",
+    "input": "请问《医林琐语》的作者是谁？",
+    "output": "陆九芝"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞玄部众术类-玄珠心镜注》的作者是谁？",
+    "output": "长孙滋元"
+  },
+  {
+    "instruction": "",
+    "input": "请问《伤寒六书》的作者是谁？",
+    "output": "陶华"
+  },
+  {
+    "instruction": "",
+    "input": "请问《纪丰润张学士马江战事本末》的作者是谁？",
+    "output": "赵增禹"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编交谊典结义部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《外科枢要》的作者是谁？",
+    "output": "薛己"
+  },
+  {
+    "instruction": "",
+    "input": "请问《入蜀记》的作者是谁？",
+    "output": "陆游"
+  },
+  {
+    "instruction": "",
+    "input": "请问《戴东原先生轶事》的作者是谁？",
+    "output": "戴清泉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《密咒圆因往生集》的作者是谁？",
+    "output": "知广"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-运气门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大哀经》的作者是谁？",
+    "output": "竺法护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《地理辨惑》的作者是谁？",
+    "output": "马泰清"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大乘起信论义记》的作者是谁？",
+    "output": "法藏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述礼忏部-供诸天科仪》的作者是谁？",
+    "output": "弘赞"
+  },
+  {
+    "instruction": "",
+    "input": "请问《法华玄赞义决》的作者是谁？",
+    "output": "慧沼"
+  },
+  {
+    "instruction": "",
+    "input": "请问《梅华问答》的作者是谁？",
+    "output": "薛阳桂"
+  },
+  {
+    "instruction": "",
+    "input": "请问《杨时诗话》的作者是谁？",
+    "output": "杨时"
+  },
+  {
+    "instruction": "",
+    "input": "请问《两湖麈谈录》的作者是谁？",
+    "output": "许浩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《神机妙算一掌经》的作者是谁？",
+    "output": "张遂"
+  },
+  {
+    "instruction": "",
+    "input": "请问《国宝新编》的作者是谁？",
+    "output": "顾璘"
+  },
+  {
+    "instruction": "",
+    "input": "请问《十住毗婆沙论》的作者是谁？",
+    "output": "鸠摩罗什"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大阿罗汉难提蜜多罗所说法住记》的作者是谁？",
+    "output": "玄奘"
+  },
+  {
+    "instruction": "",
+    "input": "请问《台湾志略》的作者是谁？",
+    "output": "李元春"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗杂著-祖庭事苑》的作者是谁？",
+    "output": "善卿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《十门辩惑论》的作者是谁？",
+    "output": "复礼"
+  },
+  {
+    "instruction": "",
+    "input": "请问《天仙道戒忌须知》的作者是谁？",
+    "output": "闵一得"
+  },
+  {
+    "instruction": "",
+    "input": "请问《内炼金丹心法》的作者是谁？",
+    "output": "沖虛子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛临涅槃记法住经》的作者是谁？",
+    "output": "玄奘"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-皇极经世》的作者是谁？",
+    "output": "邵雍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《贤博编》的作者是谁？",
+    "output": "叶权"
+  },
+  {
+    "instruction": "",
+    "input": "请问《彰化县志》的作者是谁？",
+    "output": "周玺"
+  },
+  {
+    "instruction": "",
+    "input": "请问《阴持入经注》的作者是谁？",
+    "output": "陈慧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《禽星易见》的作者是谁？",
+    "output": "池本理"
+  },
+  {
+    "instruction": "",
+    "input": "请问《北斗七星念诵仪轨》的作者是谁？",
+    "output": "金刚智"
+  },
+  {
+    "instruction": "",
+    "input": "请问《唐文续拾》的作者是谁？",
+    "output": "陆心源"
+  },
+  {
+    "instruction": "",
+    "input": "请问《医中一得》的作者是谁？",
+    "output": "顾尔元"
+  },
+  {
+    "instruction": "",
+    "input": "请问《一贯问答》的作者是谁？",
+    "output": "方以智"
+  },
+  {
+    "instruction": "",
+    "input": "请问《苕溪渔隐词话》的作者是谁？",
+    "output": "胡仔"
+  },
+  {
+    "instruction": "",
+    "input": "请问《西游记传》的作者是谁？",
+    "output": "杨致和"
+  },
+  {
+    "instruction": "",
+    "input": "请问《山静居画论》的作者是谁？",
+    "output": "方熏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《张卿子伤寒论》的作者是谁？",
+    "output": "张卿子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《回诤论》的作者是谁？",
+    "output": "毗目智仙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-瘟疫门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《金刚顶经瑜伽十八会指归》的作者是谁？",
+    "output": "不空"
+  },
+  {
+    "instruction": "",
+    "input": "请问《易纂言外翼洛书说》的作者是谁？",
+    "output": "吴澄"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明珠缘》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编皇极典帝纪部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《春明退朝录》的作者是谁？",
+    "output": "宋敏求"
+  },
+  {
+    "instruction": "",
+    "input": "请问《漫叟诗话》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明心宝鉴》的作者是谁？",
+    "output": "范立本"
+  },
+  {
+    "instruction": "",
+    "input": "请问《宋季三朝政要》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说诸德福田经》的作者是谁？",
+    "output": "法立"
+  },
+  {
+    "instruction": "",
+    "input": "请问《极玄集》的作者是谁？",
+    "output": "姚合"
+  },
+  {
+    "instruction": "",
+    "input": "请问《请观音经疏》的作者是谁？",
+    "output": "智顗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《御制官箴》的作者是谁？",
+    "output": "朱瞻基"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说文殊师利净律经》的作者是谁？",
+    "output": "竺法护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大方广佛华严经入法界品》的作者是谁？",
+    "output": "地婆诃罗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《热血痕》的作者是谁？",
+    "output": "李亮丞"
+  },
+  {
+    "instruction": "",
+    "input": "请问《论语学案》的作者是谁？",
+    "output": "刘宗周"
+  },
+  {
+    "instruction": "",
+    "input": "请问《啰嚩拏说救疗小儿疾》的作者是谁？",
+    "output": "法贤"
+  },
+  {
+    "instruction": "",
+    "input": "请问《奏定学堂章程学务纲要》的作者是谁？",
+    "output": "张百熙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《赞扬圣德多罗菩萨一百八名经》的作者是谁？",
+    "output": "天息灾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明亡述略》的作者是谁？",
+    "output": "锁绿山人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《异辞录》的作者是谁？",
+    "output": "刘体仁"
+  },
+  {
+    "instruction": "",
+    "input": "请问《幼学求源幼学须知》的作者是谁？",
+    "output": "程登吉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《端溪砚史》的作者是谁？",
+    "output": "吴兰修"
+  },
+  {
+    "instruction": "",
+    "input": "请问《神农书》的作者是谁？",
+    "output": "李悝"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说转女身经》的作者是谁？",
+    "output": "昙摩蜜多"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说大吉祥天女十二名号经》的作者是谁？",
+    "output": "不空"
+  },
+  {
+    "instruction": "",
+    "input": "请问《范文正集》的作者是谁？",
+    "output": "范仲淹"
+  },
+  {
+    "instruction": "",
+    "input": "请问《梵语千字文》的作者是谁？",
+    "output": "义净"
+  },
+  {
+    "instruction": "",
+    "input": "请问《警寤钟》的作者是谁？",
+    "output": "嗤嗤道人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《新学伪经考》的作者是谁？",
+    "output": "康有为"
+  },
+  {
+    "instruction": "",
+    "input": "请问《端溪砚谱》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-道禅集》的作者是谁？",
+    "output": "王真人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛为年少比丘说正事经》的作者是谁？",
+    "output": "法炬"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说须摩提菩萨经》的作者是谁？",
+    "output": "鸠摩罗什"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部净土宗-修西辑要》的作者是谁？",
+    "output": "信庵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《因明正理门论本》的作者是谁？",
+    "output": "玄奘"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部玉诀类-冲虚至德真经鬳斋口义》的作者是谁？",
+    "output": "林希逸"
+  },
+  {
+    "instruction": "",
+    "input": "请问《荡寇志》的作者是谁？",
+    "output": "俞万春"
+  },
+  {
+    "instruction": "",
+    "input": "请问《汉魏六朝百三家集杜预集》的作者是谁？",
+    "output": "张溥"
+  },
+  {
+    "instruction": "",
+    "input": "请问《桐谱》的作者是谁？",
+    "output": "陈翥"
+  },
+  {
+    "instruction": "",
+    "input": "请问《提纲释义》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-黄帝素问灵枢集注》的作者是谁？",
+    "output": "史崧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述礼忏部-得遇龙华修证忏仪》的作者是谁？",
+    "output": "如惺"
+  },
+  {
+    "instruction": "",
+    "input": "请问《续夷坚志》的作者是谁？",
+    "output": "元好问"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗杂著-心赋注》的作者是谁？",
+    "output": "延寿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部华严宗-注同教问答》的作者是谁？",
+    "output": "师会"
+  },
+  {
+    "instruction": "",
+    "input": "请问《宝章待访录》的作者是谁？",
+    "output": "米芾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《摩诃般若波罗蜜大明咒经》的作者是谁？",
+    "output": "鸠摩罗什"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-上清太玄集》的作者是谁？",
+    "output": "侯善渊"
+  },
+  {
+    "instruction": "",
+    "input": "请问《历代兵制》的作者是谁？",
+    "output": "陈傅良"
+  },
+  {
+    "instruction": "",
+    "input": "请问《分隶偶存》的作者是谁？",
+    "output": "万经"
+  },
+  {
+    "instruction": "",
+    "input": "请问《词余丛话》的作者是谁？",
+    "output": "杨恩寿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大唐创业起居注》的作者是谁？",
+    "output": "温大雅"
+  },
+  {
+    "instruction": "",
+    "input": "请问《天台风俗志》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《随园诗话》的作者是谁？",
+    "output": "袁枚"
+  },
+  {
+    "instruction": "",
+    "input": "请问《龙筋凤髓判》的作者是谁？",
+    "output": "张鷟"
+  },
+  {
+    "instruction": "",
+    "input": "请问《重定授菩萨戒法》的作者是谁？",
+    "output": "释智旭"
+  },
+  {
+    "instruction": "",
+    "input": "请问《房内记》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编官常典行人司部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《太极通书》的作者是谁？",
+    "output": "周敦颐"
+  },
+  {
+    "instruction": "",
+    "input": "请问《华严一乘教义分齐章》的作者是谁？",
+    "output": "法藏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编人事典三十一岁至四十岁部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《东西汉演义》的作者是谁？",
+    "output": "甄伟"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明医杂着》的作者是谁？",
+    "output": "王纶"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞真部方法类-谷神篇》的作者是谁？",
+    "output": "林辕"
+  },
+  {
+    "instruction": "",
+    "input": "请问《开原县志》的作者是谁？",
+    "output": "刘起凡"
+  },
+  {
+    "instruction": "",
+    "input": "请问《非烟传》的作者是谁？",
+    "output": "皇甫枚"
+  },
+  {
+    "instruction": "",
+    "input": "请问《丹道吕洞宾》的作者是谁？",
+    "output": "傅金铨"
+  },
+  {
+    "instruction": "",
+    "input": "请问《证契大乘经》的作者是谁？",
+    "output": "地婆诃罗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-周易参同契分章通真义》的作者是谁？",
+    "output": "彭晓"
+  },
+  {
+    "instruction": "",
+    "input": "请问《平吴录》的作者是谁？",
+    "output": "孙旭"
+  },
+  {
+    "instruction": "",
+    "input": "请问《伤寒心法要诀》的作者是谁？",
+    "output": "吴谦"
+  },
+  {
+    "instruction": "",
+    "input": "请问《医学衷中参西录》的作者是谁？",
+    "output": "张锡纯"
+  },
+  {
+    "instruction": "",
+    "input": "请问《清代琉球纪录续辑》的作者是谁？",
+    "output": "姚文栋"
+  },
+  {
+    "instruction": "",
+    "input": "请问《搜神记》的作者是谁？",
+    "output": "干宝"
+  },
+  {
+    "instruction": "",
+    "input": "请问《志怪》的作者是谁？",
+    "output": "祖台之"
+  },
+  {
+    "instruction": "",
+    "input": "请问《阮籍集》的作者是谁？",
+    "output": "阮籍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《摩利支菩萨略念诵法》的作者是谁？",
+    "output": "不空"
+  },
+  {
+    "instruction": "",
+    "input": "请问《国雅品》的作者是谁？",
+    "output": "顾起纶"
+  },
+  {
+    "instruction": "",
+    "input": "请问《墨子城守各篇简注》的作者是谁？",
+    "output": "岑仲勉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《周易尚占》的作者是谁？",
+    "output": "李道纯"
+  },
+  {
+    "instruction": "",
+    "input": "请问《解人颐》的作者是谁？",
+    "output": "钱德苍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《周易口诀义》的作者是谁？",
+    "output": "史徵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞真部本文类-高上玉皇本行集经》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《禅秘要法经》的作者是谁？",
+    "output": "鸠摩罗什"
+  },
+  {
+    "instruction": "",
+    "input": "请问《九章算术》的作者是谁？",
+    "output": "张苍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《胜军化世百瑜伽他经》的作者是谁？",
+    "output": "天息灾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《唐朝开国演义》的作者是谁？",
+    "output": "诸圣邻"
+  },
+  {
+    "instruction": "",
+    "input": "请问《燕游吟》的作者是谁？",
+    "output": "陈应元"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部玉诀类-南华真经义海纂微》的作者是谁？",
+    "output": "褚伯秀"
+  },
+  {
+    "instruction": "",
+    "input": "请问《般若波罗蜜多心经略疏》的作者是谁？",
+    "output": "法藏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《林泉随笔》的作者是谁？",
+    "output": "张纶"
+  },
+  {
+    "instruction": "",
+    "input": "请问《碧山乐府》的作者是谁？",
+    "output": "王九思"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说三品弟子经》的作者是谁？",
+    "output": "支谦"
+  },
+  {
+    "instruction": "",
+    "input": "请问《海壑吟稿》的作者是谁？",
+    "output": "赵完璧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大乘宝月童子问法经》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《七佛赞呗伽他》的作者是谁？",
+    "output": "法天"
+  },
+  {
+    "instruction": "",
+    "input": "请问《就正录》的作者是谁？",
+    "output": "高攀龙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《六壬拃河棹》的作者是谁？",
+    "output": "张松源"
+  },
+  {
+    "instruction": "",
+    "input": "请问《弥沙塞羯磨本》的作者是谁？",
+    "output": "爱同录"
+  },
+  {
+    "instruction": "",
+    "input": "请问《几策》的作者是谁？",
+    "output": "苏洵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《二酉缀遗》的作者是谁？",
+    "output": "胡应麟"
+  },
+  {
+    "instruction": "",
+    "input": "请问《永定县志康熙本》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《张协状元》的作者是谁？",
+    "output": "九山书会才人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《樗隠集》的作者是谁？",
+    "output": "胡行简"
+  },
+  {
+    "instruction": "",
+    "input": "请问《百家姓》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说庄严王陀罗尼咒经》的作者是谁？",
+    "output": "义净"
+  },
+  {
+    "instruction": "",
+    "input": "请问《续书谱》的作者是谁？",
+    "output": "姜夔"
+  },
+  {
+    "instruction": "",
+    "input": "请问《留东外史续集》的作者是谁？",
+    "output": "不肖生"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说鸯崛髻经》的作者是谁？",
+    "output": "法炬"
+  },
+  {
+    "instruction": "",
+    "input": "请问《般若波罗蜜多心经释要》的作者是谁？",
+    "output": "释智旭"
+  },
+  {
+    "instruction": "",
+    "input": "请问《玉烛宝典》的作者是谁？",
+    "output": "杜台卿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《卫生宝鉴》的作者是谁？",
+    "output": "罗天益"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-外科热疮痤痱汤火灸冻漆疮门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《拟两晋南北史乐府》的作者是谁？",
+    "output": "洪亮吉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说圣曜母陀罗尼经》的作者是谁？",
+    "output": "法天"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部净土宗-彻悟禅师语录》的作者是谁？",
+    "output": "了亮"
+  },
+  {
+    "instruction": "",
+    "input": "请问《世说新语笺疏》的作者是谁？",
+    "output": "余嘉锡"
+  },
+  {
+    "instruction": "",
+    "input": "请问《雅述》的作者是谁？",
+    "output": "王廷相"
+  },
+  {
+    "instruction": "",
+    "input": "请问《广大宝楼阁善住秘密陀罗尼经》的作者是谁？",
+    "output": "菩提流志"
+  },
+  {
+    "instruction": "",
+    "input": "请问《孔子弟子考》的作者是谁？",
+    "output": "朱彝尊"
+  },
+  {
+    "instruction": "",
+    "input": "请问《香宋杂记》的作者是谁？",
+    "output": "赵熙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《华严经关脉义记》的作者是谁？",
+    "output": "法藏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述史传部杂传-高僧摘要》的作者是谁？",
+    "output": "徐昌治"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部天台宗-圆顿宗眼》的作者是谁？",
+    "output": "法登"
+  },
+  {
+    "instruction": "",
+    "input": "请问《二程粹言》的作者是谁？",
+    "output": "程颢"
+  },
+  {
+    "instruction": "",
+    "input": "请问《稼轩先生年谱》的作者是谁？",
+    "output": "陈思"
+  },
+  {
+    "instruction": "",
+    "input": "请问《龙凤再生缘》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《急就篇》的作者是谁？",
+    "output": "史游"
+  },
+  {
+    "instruction": "",
+    "input": "请问《青宫译语》的作者是谁？",
+    "output": "王成棣"
+  },
+  {
+    "instruction": "",
+    "input": "请问《铁树记》的作者是谁？",
+    "output": "邓志谟"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部赞颂类-道德经篇章玄颂》的作者是谁？",
+    "output": "宋鸾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞玄部众术类-贯斗忠孝五雷武侯秘法》的作者是谁？",
+    "output": "张晖齐"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗杂著-禅林宝训音义》的作者是谁？",
+    "output": "大建"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说迦叶禁戒经》的作者是谁？",
+    "output": "沮渠京声"
+  },
+  {
+    "instruction": "",
+    "input": "请问《慈氏菩萨所说大乘缘生稻干喻经》的作者是谁？",
+    "output": "不空"
+  },
+  {
+    "instruction": "",
+    "input": "请问《诗法家数》的作者是谁？",
+    "output": "杨载"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗语录通集-宗门拈古汇集》的作者是谁？",
+    "output": "净符"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞真部灵图类-修真太极混元图》的作者是谁？",
+    "output": "萧道冉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《经验丹方汇编》的作者是谁？",
+    "output": "钱峻"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部戒律宗-沙弥学戒仪轨颂注》的作者是谁？",
+    "output": "弘赞"
+  },
+  {
+    "instruction": "",
+    "input": "请问《南越笔记》的作者是谁？",
+    "output": "李调元"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述史传净土宗-净土圣贤录续编》的作者是谁？",
+    "output": "胡王延"
+  },
+  {
+    "instruction": "",
+    "input": "请问《等集众德三昧经》的作者是谁？",
+    "output": "竺法护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今刀剑录》的作者是谁？",
+    "output": "陶宏景"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说维摩诘经》的作者是谁？",
+    "output": "支谦"
+  },
+  {
+    "instruction": "",
+    "input": "请问《行素斋杂记》的作者是谁？",
+    "output": "继昌"
+  },
+  {
+    "instruction": "",
+    "input": "请问《北征事迹》的作者是谁？",
+    "output": "袁彬"
+  },
+  {
+    "instruction": "",
+    "input": "请问《明通鉴》的作者是谁？",
+    "output": "夏燮"
+  },
+  {
+    "instruction": "",
+    "input": "请问《开元释教录》的作者是谁？",
+    "output": "智升"
+  },
+  {
+    "instruction": "",
+    "input": "请问《圣金刚手菩萨一百八名梵赞》的作者是谁？",
+    "output": "法贤"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞真部方法类-修真十书玉隆集》的作者是谁？",
+    "output": "白玉蟾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《咸淳毗陵志》的作者是谁？",
+    "output": "史能之"
+  },
+  {
+    "instruction": "",
+    "input": "请问《息除中夭陀罗尼经》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《盐铁论》的作者是谁？",
+    "output": "桓宽"
+  },
+  {
+    "instruction": "",
+    "input": "请问《听秋声馆词话》的作者是谁？",
+    "output": "丁绍仪"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中山诗话》的作者是谁？",
+    "output": "刘攽"
+  },
+  {
+    "instruction": "",
+    "input": "请问《关窍要旨》的作者是谁？",
+    "output": "闵一得"
+  },
+  {
+    "instruction": "",
+    "input": "请问《玉堂丛语》的作者是谁？",
+    "output": "焦竑"
+  },
+  {
+    "instruction": "",
+    "input": "请问《南湖集》的作者是谁？",
+    "output": "贡性之"
+  },
+  {
+    "instruction": "",
+    "input": "请问《周易尚氏学》的作者是谁？",
+    "output": "尚秉和"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太平部-勿斋先生文集》的作者是谁？",
+    "output": "杨至质"
+  },
+  {
+    "instruction": "",
+    "input": "请问《杂纂之义山杂纂》的作者是谁？",
+    "output": "李义山"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛顶最胜陀罗尼经》的作者是谁？",
+    "output": "地婆诃罗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《娱目醒心编》的作者是谁？",
+    "output": "玉山草亭老人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《读例存疑》的作者是谁？",
+    "output": "薛允升"
+  },
+  {
+    "instruction": "",
+    "input": "请问《宛署杂记》的作者是谁？",
+    "output": "沈榜"
+  },
+  {
+    "instruction": "",
+    "input": "请问《宋学渊源记》的作者是谁？",
+    "output": "江藩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《金楼子》的作者是谁？",
+    "output": "萧绎"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说普贤菩萨陀罗尼经》的作者是谁？",
+    "output": "法天"
+  },
+  {
+    "instruction": "",
+    "input": "请问《三无性论》的作者是谁？",
+    "output": "真谛"
+  },
+  {
+    "instruction": "",
+    "input": "请问《二谛义》的作者是谁？",
+    "output": "吉藏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《涅槃论》的作者是谁？",
+    "output": "达磨菩提"
+  },
+  {
+    "instruction": "",
+    "input": "请问《割台记》的作者是谁？",
+    "output": "罗惇曧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说申日经》的作者是谁？",
+    "output": "竺法护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《景定严州续志》的作者是谁？",
+    "output": "郑瑶"
+  },
+  {
+    "instruction": "",
+    "input": "请问《蕲黄四十八砦纪事》的作者是谁？",
+    "output": "王葆心"
+  },
+  {
+    "instruction": "",
+    "input": "请问《稗史集传》的作者是谁？",
+    "output": "徐显"
+  },
+  {
+    "instruction": "",
+    "input": "请问《泄天机》的作者是谁？",
+    "output": "闵一得"
+  },
+  {
+    "instruction": "",
+    "input": "请问《优婆塞五戒威仪经》的作者是谁？",
+    "output": "求那跋摩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《禽经》的作者是谁？",
+    "output": "张华"
+  },
+  {
+    "instruction": "",
+    "input": "请问《紫金光耀大仙修真演义》的作者是谁？",
+    "output": "邓希贤"
+  },
+  {
+    "instruction": "",
+    "input": "请问《琅琊漫抄》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《圭塘小稿》的作者是谁？",
+    "output": "许有壬"
+  },
+  {
+    "instruction": "",
+    "input": "请问《无量义经》的作者是谁？",
+    "output": "伽陀耶舍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《内经知要》的作者是谁？",
+    "output": "李中梓"
+  },
+  {
+    "instruction": "",
+    "input": "请问《女科精要》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太平部-三洞珠囊》的作者是谁？",
+    "output": "王悬河"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说一切诸如来心光明加持普贤菩萨延命金刚最胜陀罗尼经》的作者是谁？",
+    "output": "不空"
+  },
+  {
+    "instruction": "",
+    "input": "请问《临安集》的作者是谁？",
+    "output": "钱宰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《集神州三宝感通录》的作者是谁？",
+    "output": "道宣"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编人事典行旅部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《异域志》的作者是谁？",
+    "output": "周致中"
+  },
+  {
+    "instruction": "",
+    "input": "请问《异闻记》的作者是谁？",
+    "output": "陈寔"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大方广佛华严经愿行观门骨目》的作者是谁？",
+    "output": "湛然"
+  },
+  {
+    "instruction": "",
+    "input": "请问《海纪辑要》的作者是谁？",
+    "output": "夏琳"
+  },
+  {
+    "instruction": "",
+    "input": "请问《风月鉴》的作者是谁？",
+    "output": "吴贻棠"
+  },
+  {
+    "instruction": "",
+    "input": "请问《六一诗话》的作者是谁？",
+    "output": "欧阳修"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗语录通集-佛果击节录》的作者是谁？",
+    "output": "重显"
+  },
+  {
+    "instruction": "",
+    "input": "请问《六十种曲狮吼记》的作者是谁？",
+    "output": "汪廷讷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《东林列传》的作者是谁？",
+    "output": "陈鼎"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编人事典年齿部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《海忠介公集》的作者是谁？",
+    "output": "海瑞"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大同书》的作者是谁？",
+    "output": "康有为"
+  },
+  {
+    "instruction": "",
+    "input": "请问《广大发愿颂》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《桂林风土记》的作者是谁？",
+    "output": "莫休符"
+  },
+  {
+    "instruction": "",
+    "input": "请问《旧晋书九家辑本》的作者是谁？",
+    "output": "汤球"
+  },
+  {
+    "instruction": "",
+    "input": "请问《痧疹辑要》的作者是谁？",
+    "output": "叶霖"
+  },
+  {
+    "instruction": "",
+    "input": "请问《袁中郎全集》的作者是谁？",
+    "output": "袁宏道"
+  },
+  {
+    "instruction": "",
+    "input": "请问《天平天国御制千字诏》的作者是谁？",
+    "output": "洪秀全"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说八大灵塔名号经》的作者是谁？",
+    "output": "法贤"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部净土宗-净土全书》的作者是谁？",
+    "output": "俞行敏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《本草易读》的作者是谁？",
+    "output": "汪讱庵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《本草乘雅半偈》的作者是谁？",
+    "output": "卢之颐"
+  },
+  {
+    "instruction": "",
+    "input": "请问《任光禄竹溪记》的作者是谁？",
+    "output": "唐顺之"
+  },
+  {
+    "instruction": "",
+    "input": "请问《辽小史》的作者是谁？",
+    "output": "杨循吉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《儒言》的作者是谁？",
+    "output": "晁说之"
+  },
+  {
+    "instruction": "",
+    "input": "请问《稽山承语》的作者是谁？",
+    "output": "王守仁"
+  },
+  {
+    "instruction": "",
+    "input": "请问《建炎以來朝野杂记》的作者是谁？",
+    "output": "李心传"
+  },
+  {
+    "instruction": "",
+    "input": "请问《六壬存验》的作者是谁？",
+    "output": "吴师青"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部天台宗-十不二门指要钞详解》的作者是谁？",
+    "output": "可度"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说大爱道般泥洹经》的作者是谁？",
+    "output": "白法祖"
+  },
+  {
+    "instruction": "",
+    "input": "请问《辛亥宫驼记》的作者是谁？",
+    "output": "叶楚伧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏正一部-庄列十论》的作者是谁？",
+    "output": "李元卓"
+  },
+  {
+    "instruction": "",
+    "input": "请问《性理字训》的作者是谁？",
+    "output": "程端蒙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《闪电窗》的作者是谁？",
+    "output": "酌玄亭主人"
+  },
+  {
+    "instruction": "",
+    "input": "请问《辛巳泣蕲录》的作者是谁？",
+    "output": "赵与容"
+  },
+  {
+    "instruction": "",
+    "input": "请问《钤山堂集》的作者是谁？",
+    "output": "严嵩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《往生礼赞偈》的作者是谁？",
+    "output": "善导"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-小儿疟门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部玉诀类-道德真经口义》的作者是谁？",
+    "output": "林希逸"
+  },
+  {
+    "instruction": "",
+    "input": "请问《在官法戒录》的作者是谁？",
+    "output": "陈弘谋"
+  },
+  {
+    "instruction": "",
+    "input": "请问《灵药秘方》的作者是谁？",
+    "output": "师成子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说拔除罪障咒王经》的作者是谁？",
+    "output": "义净"
+  },
+  {
+    "instruction": "",
+    "input": "请问《达生编》的作者是谁？",
+    "output": "亟斋居士"
+  },
+  {
+    "instruction": "",
+    "input": "请问《岘泉集》的作者是谁？",
+    "output": "张宇初"
+  },
+  {
+    "instruction": "",
+    "input": "请问《东皋录》的作者是谁？",
+    "output": "释妙声"
+  },
+  {
+    "instruction": "",
+    "input": "请问《治世余闻》的作者是谁？",
+    "output": "陈洪谟"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编交谊典规谏部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《道院集要》的作者是谁？",
+    "output": "晁逈"
+  },
+  {
+    "instruction": "",
+    "input": "请问《内功四经》的作者是谁？",
+    "output": "王南溪"
+  },
+  {
+    "instruction": "",
+    "input": "请问《外科启玄》的作者是谁？",
+    "output": "申斗垣"
+  },
+  {
+    "instruction": "",
+    "input": "请问《奉天录》的作者是谁？",
+    "output": "赵元一"
+  },
+  {
+    "instruction": "",
+    "input": "请问《异闻总录》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《艺苑雌黄》的作者是谁？",
+    "output": "严有翼"
+  },
+  {
+    "instruction": "",
+    "input": "请问《庚子国变记》的作者是谁？",
+    "output": "罗惇曧"
+  },
+  {
+    "instruction": "",
+    "input": "请问《金川妖姬志》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《洞天清录》的作者是谁？",
+    "output": "赵希鹄"
+  },
+  {
+    "instruction": "",
+    "input": "请问《新安志》的作者是谁？",
+    "output": "罗愿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部禅宗杂著-正行集》的作者是谁？",
+    "output": "清觉"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部天台宗-摩诃止观义例随释》的作者是谁？",
+    "output": "处元"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部玉诀类-道德真经衍义手钞》的作者是谁？",
+    "output": "王守正"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编人事典形貌部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《清朝柔远记选录》的作者是谁？",
+    "output": "王之春"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大威力乌枢瑟摩明王经》的作者是谁？",
+    "output": "阿质达霰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《疠疡机要》的作者是谁？",
+    "output": "薛己"
+  },
+  {
+    "instruction": "",
+    "input": "请问《宁古塔地方乡土志》的作者是谁？",
+    "output": "岳西本"
+  },
+  {
+    "instruction": "",
+    "input": "请问《外科理例》的作者是谁？",
+    "output": "汪机"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述史传部禅宗-大光明藏》的作者是谁？",
+    "output": "宝昙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《六十种曲精忠记》的作者是谁？",
+    "output": "佚名"
+  },
+  {
+    "instruction": "",
+    "input": "请问《志怪录》的作者是谁？",
+    "output": "祝允明"
+  },
+  {
+    "instruction": "",
+    "input": "请问《庄子注》的作者是谁？",
+    "output": "向秀"
+  },
+  {
+    "instruction": "",
+    "input": "请问《洪秀全演义》的作者是谁？",
+    "output": "黄小配"
+  },
+  {
+    "instruction": "",
+    "input": "请问《清代名人轶事》的作者是谁？",
+    "output": "葛虚存"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述史传部编年通史-释门正统》的作者是谁？",
+    "output": "宗鉴"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏太玄部-上阳子金丹大要仙派》的作者是谁？",
+    "output": "陈致虚"
+  },
+  {
+    "instruction": "",
+    "input": "请问《脉象统类》的作者是谁？",
+    "output": "沈金鰲"
+  },
+  {
+    "instruction": "",
+    "input": "请问《番社采风图考》的作者是谁？",
+    "output": "黄叔璥"
+  },
+  {
+    "instruction": "",
+    "input": "请问《新五代史》的作者是谁？",
+    "output": "欧阳修"
+  },
+  {
+    "instruction": "",
+    "input": "请问《庚子销夏记》的作者是谁？",
+    "output": "孙承泽"
+  },
+  {
+    "instruction": "",
+    "input": "请问《粉妆楼全传》的作者是谁？",
+    "output": "罗贯中"
+  },
+  {
+    "instruction": "",
+    "input": "请问《御览诗》的作者是谁？",
+    "output": "令狐楚"
+  },
+  {
+    "instruction": "",
+    "input": "请问《冰鉴》的作者是谁？",
+    "output": "曾国藩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说大方广未曾有经善巧方便品》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《弘明集》的作者是谁？",
+    "output": "僧祐"
+  },
+  {
+    "instruction": "",
+    "input": "请问《风俗通义校注》的作者是谁？",
+    "output": "应劭"
+  },
+  {
+    "instruction": "",
+    "input": "请问《金刚峰楼阁一切瑜伽瑜祇经》的作者是谁？",
+    "output": "金刚智"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说未曾有正法经》的作者是谁？",
+    "output": "法天"
+  },
+  {
+    "instruction": "",
+    "input": "请问《炮炙大法》的作者是谁？",
+    "output": "缪希雍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《海岳名言》的作者是谁？",
+    "output": "米芾"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部戒律宗-终南家业》的作者是谁？",
+    "output": "守一"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部谱箓类-混元圣记》的作者是谁？",
+    "output": "谢守灏"
+  },
+  {
+    "instruction": "",
+    "input": "请问《备倭记》的作者是谁？",
+    "output": "卜大同"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说观佛三昧海经》的作者是谁？",
+    "output": "佛陀跋陀罗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《神童诗》的作者是谁？",
+    "output": "汪洙"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编宫闱典皇子部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《尧山堂偶隽》的作者是谁？",
+    "output": "蒋一葵"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编人事典祸福部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《寿世传真》的作者是谁？",
+    "output": "徐文弼"
+  },
+  {
+    "instruction": "",
+    "input": "请问《印章考》的作者是谁？",
+    "output": "方以智"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部玉诀类-南华真经直音》的作者是谁？",
+    "output": "贾善翔"
+  },
+  {
+    "instruction": "",
+    "input": "请问《九云记》的作者是谁？",
+    "output": "无名子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《武昌纪事》的作者是谁？",
+    "output": "陈徽言"
+  },
+  {
+    "instruction": "",
+    "input": "请问《乐府传声》的作者是谁？",
+    "output": "徐大椿"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部法相宗-唯识开蒙问答》的作者是谁？",
+    "output": "云峰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《法书通释》的作者是谁？",
+    "output": "张绅"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-明伦汇编官常典州牧部》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《贩书偶记》的作者是谁？",
+    "output": "孙殿起"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞神部方法类-神仙炼丹点铸三元宝照法》的作者是谁？",
+    "output": "归耕子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《中国撰述诸宗著述部净土宗-莲邦消息》的作者是谁？",
+    "output": "妙空子"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大明水记》的作者是谁？",
+    "output": "欧阳修"
+  },
+  {
+    "instruction": "",
+    "input": "请问《随手杂录》的作者是谁？",
+    "output": "王巩"
+  },
+  {
+    "instruction": "",
+    "input": "请问《三十国春秋辑本》的作者是谁？",
+    "output": "汤球"
+  },
+  {
+    "instruction": "",
+    "input": "请问《蒙求》的作者是谁？",
+    "output": "李翰"
+  },
+  {
+    "instruction": "",
+    "input": "请问《汉武帝内传》的作者是谁？",
+    "output": "班固"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大方广佛华严经》的作者是谁？",
+    "output": "般若"
+  },
+  {
+    "instruction": "",
+    "input": "请问《养疴漫笔》的作者是谁？",
+    "output": "赵溍"
+  },
+  {
+    "instruction": "",
+    "input": "请问《古今图书集成-咽喉门》的作者是谁？",
+    "output": "陈梦雷"
+  },
+  {
+    "instruction": "",
+    "input": "请问《正统道藏洞玄部方法类-太极祭炼内法》的作者是谁？",
+    "output": "郑思肯"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说鞞摩肃经》的作者是谁？",
+    "output": "求那跋陀罗"
+  },
+  {
+    "instruction": "",
+    "input": "请问《佛说莲华眼陀罗尼经》的作者是谁？",
+    "output": "施护"
+  },
+  {
+    "instruction": "",
+    "input": "请问《裴子语林》的作者是谁？",
+    "output": "裴启"
+  },
+  {
+    "instruction": "",
+    "input": "请问《大方等大集经贤护分》的作者是谁？",
+    "output": "阇那崛多"
+  }
+]
