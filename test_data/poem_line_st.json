@@ -2,2001 +2,2401 @@
   {
     "instruction": "请给出以下句子的出处。",
     "input": "杏花时节雨纷纷。山绕孤村。水绕孤村。",
-    "output": "刘仙伦《一剪梅·唱到阳关第四声》"
+    "output": "刘仙伦《一剪梅·唱到阳关第四声》",
+    "sample_id": "fuxi_PLST_0"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "宝书长剑挂高阁，金鞍骏马散故人。",
-    "output": "李白《猛虎行》"
+    "output": "李白《猛虎行》",
+    "sample_id": "fuxi_PLST_1"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "采采芣苢，薄言有之。",
-    "output": "佚名《芣苢》"
+    "output": "佚名《芣苢》",
+    "sample_id": "fuxi_PLST_2"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "粉河不语堕秋晓。",
-    "output": "吴文英《秋蕊香·七夕》"
+    "output": "吴文英《秋蕊香·七夕》",
+    "sample_id": "fuxi_PLST_3"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "名园依绿水，野竹上青霄。",
-    "output": "杜甫《陪郑广文游何将军山林》"
+    "output": "杜甫《陪郑广文游何将军山林》",
+    "sample_id": "fuxi_PLST_4"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "西风乱叶溪桥树。秋在黄花羞涩处。",
-    "output": "张榘《青玉案·被檄出郊题陈氏山居》"
+    "output": "张榘《青玉案·被檄出郊题陈氏山居》",
+    "sample_id": "fuxi_PLST_5"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "黯然销魂者，唯别而已矣！",
-    "output": "江淹《别赋》"
+    "output": "江淹《别赋》",
+    "sample_id": "fuxi_PLST_6"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "我来圯桥上，怀古钦英风。",
-    "output": "李白《经下邳圯桥怀张子房》"
+    "output": "李白《经下邳圯桥怀张子房》",
+    "sample_id": "fuxi_PLST_7"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "我当二十不得意，一心愁谢如枯兰。",
-    "output": "李贺《开愁歌》"
+    "output": "李贺《开愁歌》",
+    "sample_id": "fuxi_PLST_8"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "三饮便得道，何须苦心破烦恼。",
-    "output": "皎然《饮茶歌诮崔石使君》"
+    "output": "皎然《饮茶歌诮崔石使君》",
+    "sample_id": "fuxi_PLST_9"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "春思乱，芳心碎。",
-    "output": "惠洪《千秋岁·半身屏外》"
+    "output": "惠洪《千秋岁·半身屏外》",
+    "sample_id": "fuxi_PLST_10"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "同云深处望三关，断肠山又山。",
-    "output": "向子諲《阮郎归·绍兴乙卯大雪行鄱阳道中》"
+    "output": "向子諲《阮郎归·绍兴乙卯大雪行鄱阳道中》",
+    "sample_id": "fuxi_PLST_11"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "涨西湖、半篙新雨，麯尘波外风软。",
-    "output": "张翥《摸鱼儿·送春》"
+    "output": "张翥《摸鱼儿·送春》",
+    "sample_id": "fuxi_PLST_12"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "高楼谁与上？长记秋晴望。",
-    "output": "李煜《子夜歌·人生愁恨何能免》"
+    "output": "李煜《子夜歌·人生愁恨何能免》",
+    "sample_id": "fuxi_PLST_13"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "遥知独听灯前雨，转忆同看雪后山。",
-    "output": "纳兰性德《于中好·送梁汾南还为题小影》"
+    "output": "纳兰性德《于中好·送梁汾南还为题小影》",
+    "sample_id": "fuxi_PLST_14"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "千古江山，英雄无觅，孙仲谋处。",
-    "output": "辛弃疾《永遇乐·京口北固亭怀古》"
+    "output": "辛弃疾《永遇乐·京口北固亭怀古》",
+    "sample_id": "fuxi_PLST_15"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "率履不越，遂视既发。",
-    "output": "佚名《商颂·长发》"
+    "output": "佚名《商颂·长发》",
+    "sample_id": "fuxi_PLST_16"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "兴亡百变物自闲，富贵一朝名不朽。",
-    "output": "苏轼《石鼓歌》"
+    "output": "苏轼《石鼓歌》",
+    "sample_id": "fuxi_PLST_17"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "长风万里送秋雁，对此可以酣高楼。",
-    "output": "李白《宣州谢脁楼饯别校书叔云 / 陪侍御叔华登楼歌》"
+    "output": "李白《宣州谢脁楼饯别校书叔云 / 陪侍御叔华登楼歌》",
+    "sample_id": "fuxi_PLST_18"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "此恨难平君知否，似琼台、涌起弹棋局。",
-    "output": "蒋捷《贺新郎·梦冷黄金屋》"
+    "output": "蒋捷《贺新郎·梦冷黄金屋》",
+    "sample_id": "fuxi_PLST_19"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "偶学念奴声调，有时高遏行云。",
-    "output": "晏殊《山亭柳·赠歌者》"
+    "output": "晏殊《山亭柳·赠歌者》",
+    "sample_id": "fuxi_PLST_20"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君安游兮西入秦，愿为影兮随君身。",
-    "output": "傅玄《车遥遥篇》"
+    "output": "傅玄《车遥遥篇》",
+    "sample_id": "fuxi_PLST_21"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "玄鹤降浮云，鱏鱼跃中河。",
-    "output": "张华《轻薄篇》"
+    "output": "张华《轻薄篇》",
+    "sample_id": "fuxi_PLST_22"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "鸟无声兮山寂寂，夜正长兮风淅淅。",
-    "output": "李华《吊古战场文》"
+    "output": "李华《吊古战场文》",
+    "sample_id": "fuxi_PLST_23"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "红颜未老恩先断，斜倚薰笼坐到明。",
-    "output": "白居易《后宫词》"
+    "output": "白居易《后宫词》",
+    "sample_id": "fuxi_PLST_24"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "波澜誓不起，妾心古井水。",
-    "output": "孟郊《列女操 / 烈女操》"
+    "output": "孟郊《列女操 / 烈女操》",
+    "sample_id": "fuxi_PLST_25"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "飞絮飞花何处是，层冰积雪摧残，疏疏一树五更寒。",
-    "output": "纳兰性德《临江仙·寒柳》"
+    "output": "纳兰性德《临江仙·寒柳》",
+    "sample_id": "fuxi_PLST_26"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "落木千山天远大，澄江一道月分明。",
-    "output": "黄庭坚《登快阁》"
+    "output": "黄庭坚《登快阁》",
+    "sample_id": "fuxi_PLST_27"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "乱点碎红山杏发，平铺新绿水蘋生。",
-    "output": "白居易《南湖早春》"
+    "output": "白居易《南湖早春》",
+    "sample_id": "fuxi_PLST_28"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "多君骋逸藻，掩映当时人。",
-    "output": "李白《陈情赠友人》"
+    "output": "李白《陈情赠友人》",
+    "sample_id": "fuxi_PLST_29"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "蔽芾甘棠，勿翦勿拜，召伯所说。",
-    "output": "佚名《甘棠》"
+    "output": "佚名《甘棠》",
+    "sample_id": "fuxi_PLST_30"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "梅子青，梅子黄，菜肥麦熟养蚕忙。",
-    "output": "祝允明《首夏山中行吟》"
+    "output": "祝允明《首夏山中行吟》",
+    "sample_id": "fuxi_PLST_31"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "碧罗衣上蹙金绣，睹对对鸳鸯，空裛泪痕透。",
-    "output": "欧阳炯《贺明朝·忆昔花间相见后》"
+    "output": "欧阳炯《贺明朝·忆昔花间相见后》",
+    "sample_id": "fuxi_PLST_32"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "只有关山今夜月，千里外，素光同。",
-    "output": "谢逸《江神子·杏花村馆酒旗风》"
+    "output": "谢逸《江神子·杏花村馆酒旗风》",
+    "sample_id": "fuxi_PLST_33"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "翠幕深庭，露红晚、闲花自发。",
-    "output": "吴文英《满江红·翠幕深庭》"
+    "output": "吴文英《满江红·翠幕深庭》",
+    "sample_id": "fuxi_PLST_34"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "居人匹马映林嘶，行人去棹依波转。",
-    "output": "晏殊《踏莎行·祖席离歌》"
+    "output": "晏殊《踏莎行·祖席离歌》",
+    "sample_id": "fuxi_PLST_35"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "渭北春天树，江东日暮云。",
-    "output": "杜甫《春日忆李白》"
+    "output": "杜甫《春日忆李白》",
+    "sample_id": "fuxi_PLST_36"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "社下烧钱鼓似雷，日斜扶得醉翁回。",
-    "output": "范成大《春日田园杂兴》"
+    "output": "范成大《春日田园杂兴》",
+    "sample_id": "fuxi_PLST_37"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "雨落不上天，水覆难再收。",
-    "output": "李白《妾薄命》"
+    "output": "李白《妾薄命》",
+    "sample_id": "fuxi_PLST_38"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "木欣欣以向荣，泉涓涓而始流。",
-    "output": "陶渊明《归去来兮辞·并序》"
+    "output": "陶渊明《归去来兮辞·并序》",
+    "sample_id": "fuxi_PLST_39"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "去日儿童皆长大，昔年亲友半凋零。",
-    "output": "窦叔向《夏夜宿表兄话旧》"
+    "output": "窦叔向《夏夜宿表兄话旧》",
+    "sample_id": "fuxi_PLST_40"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "黄昏鼓角似边州，三十年前上此楼。",
-    "output": "李益《上汝州郡楼》"
+    "output": "李益《上汝州郡楼》",
+    "sample_id": "fuxi_PLST_41"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "土花曾染湘娥黛，铅泪难消。",
-    "output": "纳兰性德《采桑子·土花曾染湘娥黛》"
+    "output": "纳兰性德《采桑子·土花曾染湘娥黛》",
+    "sample_id": "fuxi_PLST_42"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "蛱蝶飞来过墙去，却疑春色在邻家。",
-    "output": "王驾《雨晴》"
+    "output": "王驾《雨晴》",
+    "sample_id": "fuxi_PLST_43"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "高余冠之岌岌兮，长余佩之陆离。",
-    "output": "屈原《离骚》"
+    "output": "屈原《离骚》",
+    "sample_id": "fuxi_PLST_44"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "燕雁无心，太湖西畔随云去。",
-    "output": "姜夔《点绛唇·丁未冬过吴松作》"
+    "output": "姜夔《点绛唇·丁未冬过吴松作》",
+    "sample_id": "fuxi_PLST_45"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "日夕怀空意，人谁感至精？",
-    "output": "张九龄《感遇十二首》"
+    "output": "张九龄《感遇十二首》",
+    "sample_id": "fuxi_PLST_46"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "马蹄踏水乱明霞，醉袖迎风受落花。",
-    "output": "刘因《山家·马蹄踏水乱明霞》"
+    "output": "刘因《山家·马蹄踏水乱明霞》",
+    "sample_id": "fuxi_PLST_47"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "南昌仙人赵夫子，妙年历落青云士。",
-    "output": "李白《当涂赵炎少府粉图山水歌》"
+    "output": "李白《当涂赵炎少府粉图山水歌》",
+    "sample_id": "fuxi_PLST_48"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "绿叶阴阴占得春，草满莺啼处。",
-    "output": "徐俯《卜算子·天生百种愁》"
+    "output": "徐俯《卜算子·天生百种愁》",
+    "sample_id": "fuxi_PLST_49"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "却将万字平戎策，换得东家种树书。",
-    "output": "辛弃疾《鹧鸪天·有客慨然谈功名因追念少年时事戏作》"
+    "output": "辛弃疾《鹧鸪天·有客慨然谈功名因追念少年时事戏作》",
+    "sample_id": "fuxi_PLST_50"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "见耶背面啼，垢腻脚不袜。",
-    "output": "杜甫《北征》"
+    "output": "杜甫《北征》",
+    "sample_id": "fuxi_PLST_51"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "旋开旋落旋成空，白发多情人更惜。",
-    "output": "司空图《酒泉子·买得杏花》"
+    "output": "司空图《酒泉子·买得杏花》",
+    "sample_id": "fuxi_PLST_52"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "烦君最相警，我亦举家清。",
-    "output": "李商隐《蝉》"
+    "output": "李商隐《蝉》",
+    "sample_id": "fuxi_PLST_53"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "可怜九月初三夜，露似真珠月似弓。",
-    "output": "白居易《暮江吟》"
+    "output": "白居易《暮江吟》",
+    "sample_id": "fuxi_PLST_54"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "自恨志不遂，泣涕如涌泉。",
-    "output": "徐干《室思》"
+    "output": "徐干《室思》",
+    "sample_id": "fuxi_PLST_55"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "傥归免相失，见日敢辞迟。",
-    "output": "杜甫《遣兴》"
+    "output": "杜甫《遣兴》",
+    "sample_id": "fuxi_PLST_56"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "羁鸟恋旧林，池鱼思故渊。",
-    "output": "陶渊明《归园田居·其一》"
+    "output": "陶渊明《归园田居·其一》",
+    "sample_id": "fuxi_PLST_57"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "鼓吹助清赏，鸿雁起汀洲。",
-    "output": "苏辙《水调歌头·徐州中秋》"
+    "output": "苏辙《水调歌头·徐州中秋》",
+    "sample_id": "fuxi_PLST_58"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "昔时人已没，今日水犹寒。",
-    "output": "骆宾王《于易水送人 / 于易水送别》"
+    "output": "骆宾王《于易水送人 / 于易水送别》",
+    "sample_id": "fuxi_PLST_59"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "大漠孤烟直，长河落日圆。",
-    "output": "王维《使至塞上》"
+    "output": "王维《使至塞上》",
+    "sample_id": "fuxi_PLST_60"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "早知恁么。悔当初、不把雕鞍锁。",
-    "output": "柳永《定风波·自春来》"
+    "output": "柳永《定风波·自春来》",
+    "sample_id": "fuxi_PLST_61"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "仁者如射，射者正己而后发。发而不中，不怨胜己者，反求诸己而已矣。",
-    "output": "《孟子·公孙丑章句上·第七节》"
+    "output": "《孟子·公孙丑章句上·第七节》",
+    "sample_id": "fuxi_PLST_62"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "喧啾百鸟群，忽见孤凤凰。",
-    "output": "韩愈《听颖师弹琴》"
+    "output": "韩愈《听颖师弹琴》",
+    "sample_id": "fuxi_PLST_63"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "世间行乐亦如此，古来万事东流水。",
-    "output": "李白《梦游天姥吟留别 / 别东鲁诸公》"
+    "output": "李白《梦游天姥吟留别 / 别东鲁诸公》",
+    "sample_id": "fuxi_PLST_64"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "将子无怒，秋以为期。",
-    "output": "佚名《氓》"
+    "output": "佚名《氓》",
+    "sample_id": "fuxi_PLST_65"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "屈盘戏白马，大笑上青山。",
-    "output": "李白《登敬亭北二小山余时送客逢崔侍御并登此地》"
+    "output": "李白《登敬亭北二小山余时送客逢崔侍御并登此地》",
+    "sample_id": "fuxi_PLST_66"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "春云吹散湘帘雨，絮黏蝴蝶飞还住。",
-    "output": "纳兰性德《菩萨蛮·春云吹散湘帘雨》"
+    "output": "纳兰性德《菩萨蛮·春云吹散湘帘雨》",
+    "sample_id": "fuxi_PLST_67"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "剑河风急雪片阔，沙口石冻马蹄脱。",
-    "output": "岑参《轮台歌奉送封大夫出师西征》"
+    "output": "岑参《轮台歌奉送封大夫出师西征》",
+    "sample_id": "fuxi_PLST_68"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "欲笺心事，独语斜阑。",
-    "output": "唐婉《钗头凤·世情薄》"
+    "output": "唐婉《钗头凤·世情薄》",
+    "sample_id": "fuxi_PLST_69"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "想当时，周郎年少，气吞区宇。",
-    "output": "戴复古《满江红·赤壁怀古》"
+    "output": "戴复古《满江红·赤壁怀古》",
+    "sample_id": "fuxi_PLST_70"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "愿书万本诵万遍，口角流沫右手胝。",
-    "output": "李商隐《韩碑》"
+    "output": "李商隐《韩碑》",
+    "sample_id": "fuxi_PLST_71"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "寂寂闻猿愁，行行见云收。",
-    "output": "李白《寻高凤石门山中元丹丘》"
+    "output": "李白《寻高凤石门山中元丹丘》",
+    "sample_id": "fuxi_PLST_72"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "酒醒梦回愁几许。",
-    "output": "苏轼《谒金门·秋感》"
+    "output": "苏轼《谒金门·秋感》",
+    "sample_id": "fuxi_PLST_73"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "纷纷暮雪下辕门，风掣红旗冻不翻。",
-    "output": "岑参《白雪歌送武判官归京》"
+    "output": "岑参《白雪歌送武判官归京》",
+    "sample_id": "fuxi_PLST_74"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "今日乐相乐，别后莫相忘。",
-    "output": "曹植《怨歌行》"
+    "output": "曹植《怨歌行》",
+    "sample_id": "fuxi_PLST_75"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "玉楼歌吹，声断已随风。",
-    "output": "鹿虔扆《临江仙·金锁重门荒苑静》"
+    "output": "鹿虔扆《临江仙·金锁重门荒苑静》",
+    "sample_id": "fuxi_PLST_76"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "无限春风来海上。便与春工。染得桃红似肉红。",
-    "output": "苏轼《减字木兰花·立春》"
+    "output": "苏轼《减字木兰花·立春》",
+    "sample_id": "fuxi_PLST_77"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "草枯鹰眼疾，雪尽马蹄轻。",
-    "output": "王维《观猎》"
+    "output": "王维《观猎》",
+    "sample_id": "fuxi_PLST_78"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "独立雕栏，谁怜枉度华年。",
-    "output": "王沂孙《高阳台·残萼梅酸》"
+    "output": "王沂孙《高阳台·残萼梅酸》",
+    "sample_id": "fuxi_PLST_79"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "关西老将不胜愁，驻马听之双泪流。",
-    "output": "王维《陇头吟》"
+    "output": "王维《陇头吟》",
+    "sample_id": "fuxi_PLST_80"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "晚来翠眉宫样，巧把远山学。",
-    "output": "晏几道《六幺令·绿阴春尽》"
+    "output": "晏几道《六幺令·绿阴春尽》",
+    "sample_id": "fuxi_PLST_81"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "十年愁眼泪巴巴。今日思家。明日思家。",
-    "output": "汪元量《一剪梅·怀旧》"
+    "output": "汪元量《一剪梅·怀旧》",
+    "sample_id": "fuxi_PLST_82"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "说和说战都难，算未必江沱堪宴安。",
-    "output": "陈人杰《沁园春·丁酉岁感事》"
+    "output": "陈人杰《沁园春·丁酉岁感事》",
+    "sample_id": "fuxi_PLST_83"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "风鸣两岸叶，月照一孤舟。",
-    "output": "孟浩然《宿桐庐江寄广陵旧游》"
+    "output": "孟浩然《宿桐庐江寄广陵旧游》",
+    "sample_id": "fuxi_PLST_84"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "伤情处，高城望断，灯火已黄昏。",
-    "output": "秦观《满庭芳·山抹微云》"
+    "output": "秦观《满庭芳·山抹微云》",
+    "sample_id": "fuxi_PLST_85"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "丹阳郭里送行舟，一别心知两地秋。",
-    "output": "严维《丹阳送韦参军》"
+    "output": "严维《丹阳送韦参军》",
+    "sample_id": "fuxi_PLST_86"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "抽刀断水水更流，举杯销愁愁更愁。",
-    "output": "李白《宣州谢脁楼饯别校书叔云》"
+    "output": "李白《宣州谢脁楼饯别校书叔云》",
+    "sample_id": "fuxi_PLST_87"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "鱼泽滩头嘶猎马，省嵬城畔看黄河。",
-    "output": "石茂华《九月九日登长城关》"
+    "output": "石茂华《九月九日登长城关》",
+    "sample_id": "fuxi_PLST_88"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "盛事惟忠，庸则自从。",
-    "output": "《罗织经·控权卷第四》"
+    "output": "《罗织经·控权卷第四》",
+    "sample_id": "fuxi_PLST_89"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "乃知柳子语不妄，病嗜土炭如珍羞。",
-    "output": "苏轼《石苍舒醉墨堂》"
+    "output": "苏轼《石苍舒醉墨堂》",
+    "sample_id": "fuxi_PLST_90"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "纱厨藤簟，玉人罗扇轻缣。",
-    "output": "白朴《天净沙·夏》"
+    "output": "白朴《天净沙·夏》",
+    "sample_id": "fuxi_PLST_91"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "为谢西园车马客，定悲摇落尽成空。",
-    "output": "李商隐《题小松》"
+    "output": "李商隐《题小松》",
+    "sample_id": "fuxi_PLST_92"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "忽蒙白日回景光，直上青云生羽翼。",
-    "output": "李白《驾去温泉后赠杨山人》"
+    "output": "李白《驾去温泉后赠杨山人》",
+    "sample_id": "fuxi_PLST_93"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "南陵水面漫悠悠，风紧云轻欲变秋。",
-    "output": "杜牧《南陵道中 / 寄远》"
+    "output": "杜牧《南陵道中 / 寄远》",
+    "sample_id": "fuxi_PLST_94"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "长安重桃李，徒染六街尘！",
-    "output": "于武陵《赠卖松人》"
+    "output": "于武陵《赠卖松人》",
+    "sample_id": "fuxi_PLST_95"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "三日入厨下，洗手作羹汤。",
-    "output": "王建《新嫁娘词三首》"
+    "output": "王建《新嫁娘词三首》",
+    "sample_id": "fuxi_PLST_96"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "翠蛾轻敛意沉吟，沾襟，无人知此心。",
-    "output": "孙光宪《河传·花落》"
+    "output": "孙光宪《河传·花落》",
+    "sample_id": "fuxi_PLST_97"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "笑怕蔷薇罥，行忧宝瑟僵。",
-    "output": "苏轼《南歌子·有感》"
+    "output": "苏轼《南歌子·有感》",
+    "sample_id": "fuxi_PLST_98"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "施惠无念，受恩莫忘。",
-    "output": "《朱子家训·全文》"
+    "output": "《朱子家训·全文》",
+    "sample_id": "fuxi_PLST_99"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "娅姹含情娇不语，纤玉手，抚郎衣。",
-    "output": "和凝《江城子·迎得郎来入绣闱》"
+    "output": "和凝《江城子·迎得郎来入绣闱》",
+    "sample_id": "fuxi_PLST_100"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "荷叶生时春恨生，荷叶枯时秋恨成。",
-    "output": "李商隐《暮秋独游曲江》"
+    "output": "李商隐《暮秋独游曲江》",
+    "sample_id": "fuxi_PLST_101"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "中心藏之，何日忘之！",
-    "output": "佚名《隰桑》"
+    "output": "佚名《隰桑》",
+    "sample_id": "fuxi_PLST_102"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "呦呦鹿鸣，食野之苹。",
-    "output": "佚名《小雅·鹿鸣》"
+    "output": "佚名《小雅·鹿鸣》",
+    "sample_id": "fuxi_PLST_103"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "陆机雄才岂自保？李斯税驾苦不早。",
-    "output": "李白《行路难三首》"
+    "output": "李白《行路难三首》",
+    "sample_id": "fuxi_PLST_104"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "人生有情泪沾臆，江水江花岂终极！",
-    "output": "杜甫《哀江头》"
+    "output": "杜甫《哀江头》",
+    "sample_id": "fuxi_PLST_105"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "过沙溪急，霜溪冷，月溪明。",
-    "output": "苏轼《行香子·过七里濑》"
+    "output": "苏轼《行香子·过七里濑》",
+    "sample_id": "fuxi_PLST_106"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "朱弦凄切，云散碧天长。",
-    "output": "毛文锡《临江仙·暮蝉声尽落斜阳》"
+    "output": "毛文锡《临江仙·暮蝉声尽落斜阳》",
+    "sample_id": "fuxi_PLST_107"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "识时务者为俊杰，昧先几者非明哲。",
-    "output": "《幼学琼林·卷三·人事》"
+    "output": "《幼学琼林·卷三·人事》",
+    "sample_id": "fuxi_PLST_108"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "朱雀桥边野草花，乌衣巷口夕阳斜。",
-    "output": "刘禹锡《乌衣巷》"
+    "output": "刘禹锡《乌衣巷》",
+    "sample_id": "fuxi_PLST_109"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "灼灼野花香，依依金柳黄。",
-    "output": "佚名《菩萨蛮·霏霏点点回塘雨》"
+    "output": "佚名《菩萨蛮·霏霏点点回塘雨》",
+    "sample_id": "fuxi_PLST_110"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "树头幽鸟，对调新语，语罢双飞却。",
-    "output": "顾德辉《青玉案·春寒恻恻春阴薄》"
+    "output": "顾德辉《青玉案·春寒恻恻春阴薄》",
+    "sample_id": "fuxi_PLST_111"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "多情却被无情恼。",
-    "output": "苏轼《蝶恋花·春景》"
+    "output": "苏轼《蝶恋花·春景》",
+    "sample_id": "fuxi_PLST_112"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "寒夜客来茶当酒，竹炉汤沸火初红。",
-    "output": "杜耒《寒夜》"
+    "output": "杜耒《寒夜》",
+    "sample_id": "fuxi_PLST_113"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "双燕双飞绕画梁，罗帷翠被郁金香。",
-    "output": "卢照邻《长安古意》"
+    "output": "卢照邻《长安古意》",
+    "sample_id": "fuxi_PLST_114"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "风蒲猎猎小池塘。过雨荷花满院香。",
-    "output": "李重元《忆王孙·夏词》"
+    "output": "李重元《忆王孙·夏词》",
+    "sample_id": "fuxi_PLST_115"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "五更疏欲断，一树碧无情。",
-    "output": "李商隐《蝉》"
+    "output": "李商隐《蝉》",
+    "sample_id": "fuxi_PLST_116"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "苏小门前柳万条，毵毵金线拂平桥。",
-    "output": "温庭筠《杨柳八首·其三》"
+    "output": "温庭筠《杨柳八首·其三》",
+    "sample_id": "fuxi_PLST_117"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "归去来兮，吾归何处？",
-    "output": "苏轼《满庭芳·归去来兮》"
+    "output": "苏轼《满庭芳·归去来兮》",
+    "sample_id": "fuxi_PLST_118"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "钟陵醉别十余春，重见云英掌上身。",
-    "output": "罗隐《赠妓云英 / 嘲钟陵妓云英》"
+    "output": "罗隐《赠妓云英 / 嘲钟陵妓云英》",
+    "sample_id": "fuxi_PLST_119"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "拟把疏狂图一醉，对酒当歌，强乐还无味。",
-    "output": "柳永《蝶恋花·伫倚危楼风细细》"
+    "output": "柳永《蝶恋花·伫倚危楼风细细》",
+    "sample_id": "fuxi_PLST_120"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "虽然不如延年妹，亦是当时绝世人。",
-    "output": "李白《中山孺子妾歌》"
+    "output": "李白《中山孺子妾歌》",
+    "sample_id": "fuxi_PLST_121"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "江上楚歌最哀怨，招魂不独为灵均。",
-    "output": "严遂成《乌江项王庙》"
+    "output": "严遂成《乌江项王庙》",
+    "sample_id": "fuxi_PLST_122"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "乱山深处水萦回，可惜一枝如画为谁开？",
-    "output": "秦观《虞美人·碧桃天上栽和露》"
+    "output": "秦观《虞美人·碧桃天上栽和露》",
+    "sample_id": "fuxi_PLST_123"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "鱼离水则身枯，心离书则神索。",
-    "output": "《格言联璧·学问类》"
+    "output": "《格言联璧·学问类》",
+    "sample_id": "fuxi_PLST_124"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "俯临秦山川，高会汉公卿。",
-    "output": "李泌《奉和圣制重阳赐会聊示所怀》"
+    "output": "李泌《奉和圣制重阳赐会聊示所怀》",
+    "sample_id": "fuxi_PLST_125"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "是处红衰翠减，苒苒物华休。",
-    "output": "柳永《八声甘州·对潇潇暮雨洒江天》"
+    "output": "柳永《八声甘州·对潇潇暮雨洒江天》",
+    "sample_id": "fuxi_PLST_126"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "行到水穷处，坐看云起时。",
-    "output": "王维《终南别业 / 初至山中 / 入山寄城中故人》"
+    "output": "王维《终南别业 / 初至山中 / 入山寄城中故人》",
+    "sample_id": "fuxi_PLST_127"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "倏若异鹏抟，吾当学蝉蜕。",
-    "output": "高适《赠别王十七管记》"
+    "output": "高适《赠别王十七管记》",
+    "sample_id": "fuxi_PLST_128"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "虎竹救边急，戎车森已行。",
-    "output": "李白《出自蓟北门行》"
+    "output": "李白《出自蓟北门行》",
+    "sample_id": "fuxi_PLST_129"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "乃幽武置大窖中，绝不饮食。天雨雪。",
-    "output": "班固《苏武传(节选)》"
+    "output": "班固《苏武传(节选)》",
+    "sample_id": "fuxi_PLST_130"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "杏花红处青山缺，山畔行人山下歇。",
-    "output": "欧阳修《玉楼春·洛阳正值芳菲节》"
+    "output": "欧阳修《玉楼春·洛阳正值芳菲节》",
+    "sample_id": "fuxi_PLST_131"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "天时人事日相催，冬至阳生春又来。",
-    "output": "杜甫《小至》"
+    "output": "杜甫《小至》",
+    "sample_id": "fuxi_PLST_132"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "箫鼓喧，人影参差，满路飘香麝。",
-    "output": "周邦彦《解语花·上元》"
+    "output": "周邦彦《解语花·上元》",
+    "sample_id": "fuxi_PLST_133"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "长鲸喷涌不可涉，抚心茫茫泪如珠。",
-    "output": "李白《有所思》"
+    "output": "李白《有所思》",
+    "sample_id": "fuxi_PLST_134"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "庶曰式臧，覆出为恶。",
-    "output": "佚名《雨无正》"
+    "output": "佚名《雨无正》",
+    "sample_id": "fuxi_PLST_135"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "暗数十年湖上路，能几度，著娉婷。",
-    "output": "卢祖皋《江城子·画楼帘暮卷新晴》"
+    "output": "卢祖皋《江城子·画楼帘暮卷新晴》",
+    "sample_id": "fuxi_PLST_136"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "云中乱拍禄山舞，风过重峦下笑声。",
-    "output": "杜牧《过华清宫绝句三首》"
+    "output": "杜牧《过华清宫绝句三首》",
+    "sample_id": "fuxi_PLST_137"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "记得武陵相见日，六年往事堪惊。",
-    "output": "周紫芝《临江仙·送光州曾使君》"
+    "output": "周紫芝《临江仙·送光州曾使君》",
+    "sample_id": "fuxi_PLST_138"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "莺归燕去长悄然，春往秋来不记年。",
-    "output": "白居易《上阳白发人》"
+    "output": "白居易《上阳白发人》",
+    "sample_id": "fuxi_PLST_139"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "欢娱未终朝，秩满归咸阳。",
-    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》"
+    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》",
+    "sample_id": "fuxi_PLST_140"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "团扇，团扇，美人病来遮面。",
-    "output": "王建《宫中调笑·团扇》"
+    "output": "王建《宫中调笑·团扇》",
+    "sample_id": "fuxi_PLST_141"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "古之人无斁，誉髦斯士。",
-    "output": "佚名《思齐》"
+    "output": "佚名《思齐》",
+    "sample_id": "fuxi_PLST_142"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "天清一雁远，海阔孤帆迟。",
-    "output": "李白《送张舍人之江东》"
+    "output": "李白《送张舍人之江东》",
+    "sample_id": "fuxi_PLST_143"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君子处小人，必平其气以待之，不可稍形激切也。",
-    "output": "《围炉夜话·第三三则》"
+    "output": "《围炉夜话·第三三则》",
+    "sample_id": "fuxi_PLST_144"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "池塘过雨急鸣蛙。酒醒明月照窗纱。",
-    "output": "夏言《浣溪沙·庭院沉沉白日斜》"
+    "output": "夏言《浣溪沙·庭院沉沉白日斜》",
+    "sample_id": "fuxi_PLST_145"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "祗残邺城不日得，独任朔方无限功。",
-    "output": "杜甫《洗兵马》"
+    "output": "杜甫《洗兵马》",
+    "sample_id": "fuxi_PLST_146"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "早知恁地难拚，悔不当时留住。",
-    "output": "柳永《昼夜乐·洞房记得初相遇》"
+    "output": "柳永《昼夜乐·洞房记得初相遇》",
+    "sample_id": "fuxi_PLST_147"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "翠袖争浮大白，皂罗半插斜红。",
-    "output": "苏轼《西江月·坐客见和复次韵》"
+    "output": "苏轼《西江月·坐客见和复次韵》",
+    "sample_id": "fuxi_PLST_148"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "散尽空掉臂，高歌赋还邛。",
-    "output": "李白《魏郡别苏明府因北游》"
+    "output": "李白《魏郡别苏明府因北游》",
+    "sample_id": "fuxi_PLST_149"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "我所思兮在雁门。",
-    "output": "张衡《四愁诗》"
+    "output": "张衡《四愁诗》",
+    "sample_id": "fuxi_PLST_150"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不似海棠阴下，按《凉州》时节。",
-    "output": "魏夫人《好事近·雨后晓寒轻》"
+    "output": "魏夫人《好事近·雨后晓寒轻》",
+    "sample_id": "fuxi_PLST_151"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "桃花落。闲池阁。山盟虽在，锦书难托。",
-    "output": "陆游《钗头凤·红酥手》"
+    "output": "陆游《钗头凤·红酥手》",
+    "sample_id": "fuxi_PLST_152"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一寸柔肠情几许？薄衾孤枕，梦回人静，彻晓潇潇雨。",
-    "output": "惠洪《青玉案·丝槐烟柳长亭路》"
+    "output": "惠洪《青玉案·丝槐烟柳长亭路》",
+    "sample_id": "fuxi_PLST_153"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "长恨人心不如水，等闲平地起波澜。",
-    "output": "刘禹锡《竹枝词九首》"
+    "output": "刘禹锡《竹枝词九首》",
+    "sample_id": "fuxi_PLST_154"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "笙歌散尽游人去，始觉春空。",
-    "output": "欧阳修《采桑子·群芳过后西湖好》"
+    "output": "欧阳修《采桑子·群芳过后西湖好》",
+    "sample_id": "fuxi_PLST_155"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "梨花院落溶溶月，柳絮池塘淡淡风。",
-    "output": "晏殊《无题·油壁香车不再逢》"
+    "output": "晏殊《无题·油壁香车不再逢》",
+    "sample_id": "fuxi_PLST_156"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "登车宿迁北，万顷铺琼田。",
-    "output": "陆文圭《宿迁道中遇雪》"
+    "output": "陆文圭《宿迁道中遇雪》",
+    "sample_id": "fuxi_PLST_157"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不剪春衫愁意态。过收灯、有些寒在。",
-    "output": "史达祖《夜行船·正月十八日闻卖杏花有感》"
+    "output": "史达祖《夜行船·正月十八日闻卖杏花有感》",
+    "sample_id": "fuxi_PLST_158"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "禁火天、已是试新妆，岁华到、三分佳处。",
-    "output": "万俟咏《三台·清明应制》"
+    "output": "万俟咏《三台·清明应制》",
+    "sample_id": "fuxi_PLST_159"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "行人莫上长堤望，风起杨花愁杀人。",
-    "output": "李益《汴河曲》"
+    "output": "李益《汴河曲》",
+    "sample_id": "fuxi_PLST_160"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "饮散离亭西去，浮生长恨飘蓬。",
-    "output": "徐昌图《临江仙·饮散离亭西去》"
+    "output": "徐昌图《临江仙·饮散离亭西去》",
+    "sample_id": "fuxi_PLST_161"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "春雨断桥人不渡，小舟撑出柳阴来。",
-    "output": "徐俯《春游湖》"
+    "output": "徐俯《春游湖》",
+    "sample_id": "fuxi_PLST_162"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "恨人间、会少离多，万古千秋今夕。",
-    "output": "张埜《夺锦标·七夕》"
+    "output": "张埜《夺锦标·七夕》",
+    "sample_id": "fuxi_PLST_163"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "犹有渔人数家住，不成村落夕阳边。",
-    "output": "许棠《洞庭阻风》"
+    "output": "许棠《洞庭阻风》",
+    "sample_id": "fuxi_PLST_164"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "之子于归，百两将之。",
-    "output": "佚名《鹊巢》"
+    "output": "佚名《鹊巢》",
+    "sample_id": "fuxi_PLST_165"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "秋菊有佳色，裛露掇其英。",
-    "output": "陶渊明《饮酒·其四》"
+    "output": "陶渊明《饮酒·其四》",
+    "sample_id": "fuxi_PLST_166"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "天生丽质难自弃，一朝选在君王侧。",
-    "output": "白居易《长恨歌》"
+    "output": "白居易《长恨歌》",
+    "sample_id": "fuxi_PLST_167"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "春日游，杏花吹满头。",
-    "output": "韦庄《思帝乡·春日游》"
+    "output": "韦庄《思帝乡·春日游》",
+    "sample_id": "fuxi_PLST_168"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "露坐久，疏萤时度，乌鹊正南飞。",
-    "output": "晁端礼《绿头鸭·咏月》"
+    "output": "晁端礼《绿头鸭·咏月》",
+    "sample_id": "fuxi_PLST_169"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "陌上谁家年少足风流？",
-    "output": "韦庄《思帝乡·春日游》"
+    "output": "韦庄《思帝乡·春日游》",
+    "sample_id": "fuxi_PLST_170"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "锦里烟尘外，江村八九家。",
-    "output": "杜甫《为农》"
+    "output": "杜甫《为农》",
+    "sample_id": "fuxi_PLST_171"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "庐山东南五老峰，青天削出金芙蓉。",
-    "output": "李白《登庐山五老峰》"
+    "output": "李白《登庐山五老峰》",
+    "sample_id": "fuxi_PLST_172"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "千载休谈南渡错，当时自怕中原复。",
-    "output": "文征明《满江红·拂拭残碑》"
+    "output": "文征明《满江红·拂拭残碑》",
+    "sample_id": "fuxi_PLST_173"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "迢递嵩高下，归来且闭关。",
-    "output": "王维《归嵩山作》"
+    "output": "王维《归嵩山作》",
+    "sample_id": "fuxi_PLST_174"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "可怜无定河边骨，犹是春闺梦里人。",
-    "output": "陈陶《陇西行四首》"
+    "output": "陈陶《陇西行四首》",
+    "sample_id": "fuxi_PLST_175"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "濯锦江边两岸花，春风吹浪正淘沙。",
-    "output": "刘禹锡《浪淘沙九首》"
+    "output": "刘禹锡《浪淘沙九首》",
+    "sample_id": "fuxi_PLST_176"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "风前欲劝春光住。春在城南芳草路。",
-    "output": "辛弃疾《玉楼春·风前欲劝春光住》"
+    "output": "辛弃疾《玉楼春·风前欲劝春光住》",
+    "sample_id": "fuxi_PLST_177"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "苑方秦地少，山似洛阳多。",
-    "output": "李白《金陵三首》"
+    "output": "李白《金陵三首》",
+    "sample_id": "fuxi_PLST_178"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "清水出芙蓉，天然去雕饰。",
-    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》"
+    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》",
+    "sample_id": "fuxi_PLST_179"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君子之心事，天青日白，不可使人不知",
-    "output": "《菜根谭·概论》"
+    "output": "《菜根谭·概论》",
+    "sample_id": "fuxi_PLST_180"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "五更钟动笙歌散，十里月明灯火稀。",
-    "output": "贺铸《思越人·紫府东风放夜时》"
+    "output": "贺铸《思越人·紫府东风放夜时》",
+    "sample_id": "fuxi_PLST_181"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "西宫南内多秋草，落叶满阶红不扫。",
-    "output": "白居易《长恨歌》"
+    "output": "白居易《长恨歌》",
+    "sample_id": "fuxi_PLST_182"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "雨雪瀌瀌，见晛曰消。",
-    "output": "佚名《角弓》"
+    "output": "佚名《角弓》",
+    "sample_id": "fuxi_PLST_183"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "有缘千里来相会，无缘对面不相逢。",
-    "output": "《水浒传·第十四回》"
+    "output": "《水浒传·第十四回》",
+    "sample_id": "fuxi_PLST_184"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "拟泛烟中片叶，但两湖佳处，任风吹泊。",
-    "output": "徐灿《念奴娇·西湖雨感次素庵韵》"
+    "output": "徐灿《念奴娇·西湖雨感次素庵韵》",
+    "sample_id": "fuxi_PLST_185"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "苟利国家生死以，岂因祸福避趋之！",
-    "output": "林则徐《赴戍登程口占示家人·其二》"
+    "output": "林则徐《赴戍登程口占示家人·其二》",
+    "sample_id": "fuxi_PLST_186"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "旅力方刚，经营四方。",
-    "output": "佚名《北山》"
+    "output": "佚名《北山》",
+    "sample_id": "fuxi_PLST_187"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "感君缠绵意，系在红罗襦。",
-    "output": "张籍《节妇吟·寄东平李司空师道》"
+    "output": "张籍《节妇吟·寄东平李司空师道》",
+    "sample_id": "fuxi_PLST_188"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "眉尖早识愁滋味，娇羞未解论心事。",
-    "output": "黄公度《菩萨蛮·眉尖早识愁滋味》"
+    "output": "黄公度《菩萨蛮·眉尖早识愁滋味》",
+    "sample_id": "fuxi_PLST_189"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "妾身未分明，何以拜姑嫜？",
-    "output": "杜甫《新婚别》"
+    "output": "杜甫《新婚别》",
+    "sample_id": "fuxi_PLST_190"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "昔别君未婚，儿女忽成行。",
-    "output": "杜甫《赠卫八处士》"
+    "output": "杜甫《赠卫八处士》",
+    "sample_id": "fuxi_PLST_191"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "习习谷风，维山崔嵬。",
-    "output": "佚名《小雅·谷风》"
+    "output": "佚名《小雅·谷风》",
+    "sample_id": "fuxi_PLST_192"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一尺深红胜曲尘，天生旧物不如新。",
-    "output": "温庭筠《南歌子词二首 / 新添声杨柳枝词》"
+    "output": "温庭筠《南歌子词二首 / 新添声杨柳枝词》",
+    "sample_id": "fuxi_PLST_193"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "楚人悲屈原，千载意未歇。",
-    "output": "苏轼《屈原塔》"
+    "output": "苏轼《屈原塔》",
+    "sample_id": "fuxi_PLST_194"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "云里帝城双凤阙，雨中春树万人家。",
-    "output": "王维《奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制》"
+    "output": "王维《奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制》",
+    "sample_id": "fuxi_PLST_195"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "白首相知犹按剑，朱门先达笑弹冠。",
-    "output": "王维《酌酒与裴迪》"
+    "output": "王维《酌酒与裴迪》",
+    "sample_id": "fuxi_PLST_196"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "中秋谁与共孤光。把盏凄然北望。",
-    "output": "苏轼《西江月·世事一场大梦》"
+    "output": "苏轼《西江月·世事一场大梦》",
+    "sample_id": "fuxi_PLST_197"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "玉帛朝回望帝乡，乌孙归去不称王。",
-    "output": "常建《塞下曲四首·其一》"
+    "output": "常建《塞下曲四首·其一》",
+    "sample_id": "fuxi_PLST_198"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "矢于牧野，维予侯兴。",
-    "output": "佚名《大明》"
+    "output": "佚名《大明》",
+    "sample_id": "fuxi_PLST_199"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "蜗角虚名，蝇头微利，算来著甚干忙。",
-    "output": "苏轼《满庭芳·蜗角虚名》"
+    "output": "苏轼《满庭芳·蜗角虚名》",
+    "sample_id": "fuxi_PLST_200"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "床前明月光，疑是地上霜。",
-    "output": "李白《静夜思》"
+    "output": "李白《静夜思》",
+    "sample_id": "fuxi_PLST_201"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "树阴满地日当午，梦觉流莺时一声。",
-    "output": "苏舜钦《夏意》"
+    "output": "苏舜钦《夏意》",
+    "sample_id": "fuxi_PLST_202"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "首夏犹清和，芳草亦未歇。",
-    "output": "谢灵运《游赤石进帆海》"
+    "output": "谢灵运《游赤石进帆海》",
+    "sample_id": "fuxi_PLST_203"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "有情终古似无情，别语悔分明。",
-    "output": "纳兰性德《荷叶杯·知己一人谁是》"
+    "output": "纳兰性德《荷叶杯·知己一人谁是》",
+    "sample_id": "fuxi_PLST_204"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "只座上、已无老兵。",
-    "output": "姚云文《紫萸香慢·近重阳》"
+    "output": "姚云文《紫萸香慢·近重阳》",
+    "sample_id": "fuxi_PLST_205"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "野店桃花红粉姿，陌头杨柳绿烟丝。",
-    "output": "赵孟頫《东城》"
+    "output": "赵孟頫《东城》",
+    "sample_id": "fuxi_PLST_206"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "人心似铁，官法如炉。",
-    "output": "《增广贤文·上集》"
+    "output": "《增广贤文·上集》",
+    "sample_id": "fuxi_PLST_207"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "百啭千声随意移，山花红紫树高低。",
-    "output": "欧阳修《画眉鸟》"
+    "output": "欧阳修《画眉鸟》",
+    "sample_id": "fuxi_PLST_208"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "阑干倒、千红妆靥，铅香不断。",
-    "output": "吴文英《瑞龙吟·德清清明竞渡》"
+    "output": "吴文英《瑞龙吟·德清清明竞渡》",
+    "sample_id": "fuxi_PLST_209"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "长剑既照曜，高冠何赩赫。",
-    "output": "李白《君马黄》"
+    "output": "李白《君马黄》",
+    "sample_id": "fuxi_PLST_210"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "先生醉也，童子扶者。",
-    "output": "曹德《三棒鼓声频·题渊明醉归图》"
+    "output": "曹德《三棒鼓声频·题渊明醉归图》",
+    "sample_id": "fuxi_PLST_211"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "沙上并禽池上暝。云破月来花弄影。",
-    "output": "张先《天仙子·水调数声持酒听》"
+    "output": "张先《天仙子·水调数声持酒听》",
+    "sample_id": "fuxi_PLST_212"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "渐老多忧百事忙，天寒日短更心伤。",
-    "output": "李觏《秋晚悲怀》"
+    "output": "李觏《秋晚悲怀》",
+    "sample_id": "fuxi_PLST_213"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "远梦归侵晓，家书到隔年。",
-    "output": "杜牧《旅宿》"
+    "output": "杜牧《旅宿》",
+    "sample_id": "fuxi_PLST_214"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "又疑瑶台镜，飞在青云端。",
-    "output": "李白《古朗月行》"
+    "output": "李白《古朗月行》",
+    "sample_id": "fuxi_PLST_215"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "三月残花落更开，小檐日日燕飞来。",
-    "output": "王令《送春》"
+    "output": "王令《送春》",
+    "sample_id": "fuxi_PLST_216"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "小园几许，收尽春光。",
-    "output": "秦观《行香子·树绕村庄》"
+    "output": "秦观《行香子·树绕村庄》",
+    "sample_id": "fuxi_PLST_217"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "赳赳武夫，公侯好仇。",
-    "output": "佚名《兔罝》"
+    "output": "佚名《兔罝》",
+    "sample_id": "fuxi_PLST_218"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "把酒祝东风。且共从容。",
-    "output": "欧阳修《浪淘沙·把酒祝东风》"
+    "output": "欧阳修《浪淘沙·把酒祝东风》",
+    "sample_id": "fuxi_PLST_219"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "关河底事空留客？岁月无情不贷人。",
-    "output": "于谦《立春日感怀》"
+    "output": "于谦《立春日感怀》",
+    "sample_id": "fuxi_PLST_220"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "郁陶思君未敢言，寄声浮云往不还。",
-    "output": "曹丕《燕歌行》"
+    "output": "曹丕《燕歌行》",
+    "sample_id": "fuxi_PLST_221"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "忆梅下西洲，折梅寄江北。",
-    "output": "佚名《西洲曲》"
+    "output": "佚名《西洲曲》",
+    "sample_id": "fuxi_PLST_222"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "回日楼台非甲帐，去时冠剑是丁年。",
-    "output": "温庭筠《苏武庙》"
+    "output": "温庭筠《苏武庙》",
+    "sample_id": "fuxi_PLST_223"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "澹然离言说，悟悦心自足。",
-    "output": "柳宗元《晨诣超师院读禅经》"
+    "output": "柳宗元《晨诣超师院读禅经》",
+    "sample_id": "fuxi_PLST_224"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "如梦，如梦，残月落花烟重。",
-    "output": "李存勖《如梦令·曾宴桃源深洞》"
+    "output": "李存勖《如梦令·曾宴桃源深洞》",
+    "sample_id": "fuxi_PLST_225"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "三杯两盏淡酒，怎敌他、晚来风急？",
-    "output": "李清照《声声慢·寻寻觅觅》"
+    "output": "李清照《声声慢·寻寻觅觅》",
+    "sample_id": "fuxi_PLST_226"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "冬夜夜寒觉夜长，沉吟久坐坐北堂。",
-    "output": "李白《夜坐吟》"
+    "output": "李白《夜坐吟》",
+    "sample_id": "fuxi_PLST_227"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "壮岁旌旗拥万夫，锦襜突骑渡江初。",
-    "output": "辛弃疾《鹧鸪天·有客慨然谈功名因追念少年时事戏作》"
+    "output": "辛弃疾《鹧鸪天·有客慨然谈功名因追念少年时事戏作》",
+    "sample_id": "fuxi_PLST_228"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "烟柳画桥，风帘翠幕，参差十万人家。",
-    "output": "柳永《望海潮·东南形胜》"
+    "output": "柳永《望海潮·东南形胜》",
+    "sample_id": "fuxi_PLST_229"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "今夜鄜州月，闺中只独看。",
-    "output": "杜甫《月夜》"
+    "output": "杜甫《月夜》",
+    "sample_id": "fuxi_PLST_230"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "试问江南诸伴侣，谁似我，醉扬州。",
-    "output": "苏轼《江城子》"
+    "output": "苏轼《江城子》",
+    "sample_id": "fuxi_PLST_231"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "明月楼高休独倚。酒入愁肠，化作相思泪。",
-    "output": "范仲淹《苏幕遮·怀旧》"
+    "output": "范仲淹《苏幕遮·怀旧》",
+    "sample_id": "fuxi_PLST_232"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "功被天下，守之以让。",
-    "output": "《荀子·宥坐》"
+    "output": "《荀子·宥坐》",
+    "sample_id": "fuxi_PLST_233"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "拟泛烟中片叶，但两湖佳处，任风吹泊。",
-    "output": "徐灿《念奴娇·西湖雨感次素庵韵》"
+    "output": "徐灿《念奴娇·西湖雨感次素庵韵》",
+    "sample_id": "fuxi_PLST_234"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "深知身在情长在，怅望江头江水声。",
-    "output": "李商隐《暮秋独游曲江》"
+    "output": "李商隐《暮秋独游曲江》",
+    "sample_id": "fuxi_PLST_235"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "梅花大庾岭头发，柳絮章台街里飞。",
-    "output": "李商隐《对雪二首》"
+    "output": "李商隐《对雪二首》",
+    "sample_id": "fuxi_PLST_236"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "西园有分，断柳凄花，似曾相识。",
-    "output": "吴文英《瑞鹤仙·秋感》"
+    "output": "吴文英《瑞鹤仙·秋感》",
+    "sample_id": "fuxi_PLST_237"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君记取、封侯事在。",
-    "output": "陆游《汉宫春·初自南郑来成都作》"
+    "output": "陆游《汉宫春·初自南郑来成都作》",
+    "sample_id": "fuxi_PLST_238"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "借问游方士，焉测尘嚣外。",
-    "output": "陶渊明《桃花源诗》"
+    "output": "陶渊明《桃花源诗》",
+    "sample_id": "fuxi_PLST_239"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "洞庭之东江水西，帘旌不动夕阳迟。",
-    "output": "陈与义《登岳阳楼》"
+    "output": "陈与义《登岳阳楼》",
+    "sample_id": "fuxi_PLST_240"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "问欢情几许？早收拾、新愁重织。",
-    "output": "张埜《夺锦标·七夕》"
+    "output": "张埜《夺锦标·七夕》",
+    "sample_id": "fuxi_PLST_241"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "狎浪儿童，横江士女，笑指渔翁一叶轻。",
-    "output": "吴伟业《沁园春·观潮》"
+    "output": "吴伟业《沁园春·观潮》",
+    "sample_id": "fuxi_PLST_242"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "独坐幽篁里，弹琴复长啸。",
-    "output": "王维《竹里馆》"
+    "output": "王维《竹里馆》",
+    "sample_id": "fuxi_PLST_243"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "白雁乱飞秋似雪，清露生凉夜。",
-    "output": "吴西逸《清江引·秋居》"
+    "output": "吴西逸《清江引·秋居》",
+    "sample_id": "fuxi_PLST_244"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "嫣然幽谷，只愁又听啼鴃。",
-    "output": "陈子龙《念奴娇·春雪咏兰》"
+    "output": "陈子龙《念奴娇·春雪咏兰》",
+    "sample_id": "fuxi_PLST_245"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "催花未歇花奴鼓，酒醒已见残红舞。",
-    "output": "纳兰性德《菩萨蛮·催花未歇花奴鼓》"
+    "output": "纳兰性德《菩萨蛮·催花未歇花奴鼓》",
+    "sample_id": "fuxi_PLST_246"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "时人不识农家苦，将谓田中谷自生。",
-    "output": "颜仁郁《农家》"
+    "output": "颜仁郁《农家》",
+    "sample_id": "fuxi_PLST_247"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "小令尊前见玉箫。",
-    "output": "晏几道《鹧鸪天·小令尊前见玉箫》"
+    "output": "晏几道《鹧鸪天·小令尊前见玉箫》",
+    "sample_id": "fuxi_PLST_248"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "佳节清明桃李笑，野田荒冢只生愁。",
-    "output": "黄庭坚《清明》"
+    "output": "黄庭坚《清明》",
+    "sample_id": "fuxi_PLST_249"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "欲出鸿都门，阴云蔽城阙。",
-    "output": "温庭筠《侠客行》"
+    "output": "温庭筠《侠客行》",
+    "sample_id": "fuxi_PLST_250"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "莫唱阳关，风流公子方终宴。",
-    "output": "苏轼《点绛唇·再和送钱公永》"
+    "output": "苏轼《点绛唇·再和送钱公永》",
+    "sample_id": "fuxi_PLST_251"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "凡与敌战，若我胜彼负，不可骄惰，当日夜严备以待之。",
-    "output": "《百战奇略·第六卷·胜战》"
+    "output": "《百战奇略·第六卷·胜战》",
+    "sample_id": "fuxi_PLST_252"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "樽前一曲歌，歌里千重意。",
-    "output": "杜安世《卜算子·樽前一曲歌》"
+    "output": "杜安世《卜算子·樽前一曲歌》",
+    "sample_id": "fuxi_PLST_253"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "敕赐镜湖水，为君台沼荣。",
-    "output": "李白《对酒忆贺监二首》"
+    "output": "李白《对酒忆贺监二首》",
+    "sample_id": "fuxi_PLST_254"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "身无彩凤双飞翼，心有灵犀一点通。",
-    "output": "李商隐《无题·昨夜星辰昨夜风》"
+    "output": "李商隐《无题·昨夜星辰昨夜风》",
+    "sample_id": "fuxi_PLST_255"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "繁枝容易纷纷落，嫩叶商量细细开。",
-    "output": "杜甫《江畔独步寻花七绝句》"
+    "output": "杜甫《江畔独步寻花七绝句》",
+    "sample_id": "fuxi_PLST_256"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "阁道步行月，美人愁烟空。",
-    "output": "李白《上之回》"
+    "output": "李白《上之回》",
+    "sample_id": "fuxi_PLST_257"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "多情只有春庭月，犹为离人照落花。",
-    "output": "张泌《寄人》"
+    "output": "张泌《寄人》",
+    "sample_id": "fuxi_PLST_258"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "拔剑捎罗网，黄雀得飞飞。",
-    "output": "曹植《野田黄雀行》"
+    "output": "曹植《野田黄雀行》",
+    "sample_id": "fuxi_PLST_259"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "明日潮来无定准。",
-    "output": "苏轼《渔家傲·送台守江郎中》"
+    "output": "苏轼《渔家傲·送台守江郎中》",
+    "sample_id": "fuxi_PLST_260"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "帘幕风轻双语燕。",
-    "output": "晏殊《蝶恋花·帘幕风轻双语燕》"
+    "output": "晏殊《蝶恋花·帘幕风轻双语燕》",
+    "sample_id": "fuxi_PLST_261"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "无人知此意，歌罢满帘风。",
-    "output": "陈与义《临江仙·高咏楚词酬午日》"
+    "output": "陈与义《临江仙·高咏楚词酬午日》",
+    "sample_id": "fuxi_PLST_262"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "岸柳垂金线，雨晴莺百啭。",
-    "output": "顾敻《醉公子·岸柳垂金线》"
+    "output": "顾敻《醉公子·岸柳垂金线》",
+    "sample_id": "fuxi_PLST_263"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "既张我弓，既挟我矢。",
-    "output": "佚名《吉日》"
+    "output": "佚名《吉日》",
+    "sample_id": "fuxi_PLST_264"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "琵琶金翠羽，弦上黄莺语。",
-    "output": "韦庄《菩萨蛮》"
+    "output": "韦庄《菩萨蛮》",
+    "sample_id": "fuxi_PLST_265"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "我李百万叶，柯条布中州。",
-    "output": "李白《赠清漳明府侄聿》"
+    "output": "李白《赠清漳明府侄聿》",
+    "sample_id": "fuxi_PLST_266"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "风情渐老见春羞，到处消魂感旧游。",
-    "output": "李煜《赐宫人庆奴》"
+    "output": "李煜《赐宫人庆奴》",
+    "sample_id": "fuxi_PLST_267"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "夜深风竹敲秋韵。万叶千声皆是恨。",
-    "output": "欧阳修《玉楼春·别后不知君远近》"
+    "output": "欧阳修《玉楼春·别后不知君远近》",
+    "sample_id": "fuxi_PLST_268"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "欲笺心事，独语斜阑。",
-    "output": "唐婉《钗头凤·世情薄》"
+    "output": "唐婉《钗头凤·世情薄》",
+    "sample_id": "fuxi_PLST_269"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "酒酣胸胆尚开张，鬓微霜，又何妨！",
-    "output": "苏轼《江城子·密州出猎》"
+    "output": "苏轼《江城子·密州出猎》",
+    "sample_id": "fuxi_PLST_270"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "心地无非自性戒，心地无痴自性慧，心地无乱自性定",
-    "output": "《六祖坛经·顿渐·第一节》"
+    "output": "《六祖坛经·顿渐·第一节》",
+    "sample_id": "fuxi_PLST_271"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "相对真成泣楚囚，遂无末策到神州。",
-    "output": "曾几《寓居吴兴》"
+    "output": "曾几《寓居吴兴》",
+    "sample_id": "fuxi_PLST_272"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "迎新在此岁，唯恐踵前迹。",
-    "output": "柳宗元《田家三首》"
+    "output": "柳宗元《田家三首》",
+    "sample_id": "fuxi_PLST_273"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "衡门之下，可以栖迟。",
-    "output": "佚名《衡门》"
+    "output": "佚名《衡门》",
+    "sample_id": "fuxi_PLST_274"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "九曲黄河万里沙，浪淘风簸自天涯。",
-    "output": "刘禹锡《浪淘沙·九曲黄河万里沙》"
+    "output": "刘禹锡《浪淘沙·九曲黄河万里沙》",
+    "sample_id": "fuxi_PLST_275"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "当年志气俱消尽，白发新添四五茎。",
-    "output": "薛逢《长安夜雨》"
+    "output": "薛逢《长安夜雨》",
+    "sample_id": "fuxi_PLST_276"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一年好景君须记，最是橙黄橘绿时。",
-    "output": "苏轼《赠刘景文 / 冬景》"
+    "output": "苏轼《赠刘景文 / 冬景》",
+    "sample_id": "fuxi_PLST_277"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "手捻香笺忆小莲。欲将遗恨倩谁传。",
-    "output": "晏几道《鹧鸪天·手捻香笺忆小莲》"
+    "output": "晏几道《鹧鸪天·手捻香笺忆小莲》",
+    "sample_id": "fuxi_PLST_278"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "迟迟好景烟花媚，曲渚鸳鸯眠锦翅。",
-    "output": "魏承班《木兰花·小芙蓉》"
+    "output": "魏承班《木兰花·小芙蓉》",
+    "sample_id": "fuxi_PLST_279"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "忽如朝玉皇，天冕垂前旒。",
-    "output": "柳宗元《界围岩水帘》"
+    "output": "柳宗元《界围岩水帘》",
+    "sample_id": "fuxi_PLST_280"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "浦边清水明素足，别有浣沙吴女郎。",
-    "output": "李白《和卢侍御通塘曲》"
+    "output": "李白《和卢侍御通塘曲》",
+    "sample_id": "fuxi_PLST_281"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "孤城向水闭，独鸟背人飞。",
-    "output": "刘长卿《馀干旅舍》"
+    "output": "刘长卿《馀干旅舍》",
+    "sample_id": "fuxi_PLST_282"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "母别子，子别母，白日无光哭声苦。",
-    "output": "白居易《母别子》"
+    "output": "白居易《母别子》",
+    "sample_id": "fuxi_PLST_283"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "梧桐叶上，点点露珠零。",
-    "output": "尹鹗《临江仙·深秋寒夜银河静》"
+    "output": "尹鹗《临江仙·深秋寒夜银河静》",
+    "sample_id": "fuxi_PLST_284"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "楼外垂杨千万缕。欲系青春，少住春还去。",
-    "output": "朱淑真《蝶恋花·送春》"
+    "output": "朱淑真《蝶恋花·送春》",
+    "sample_id": "fuxi_PLST_285"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "中原父老莫空谈，逢着王人诉不堪。",
-    "output": "杨万里《初入淮河四绝句》"
+    "output": "杨万里《初入淮河四绝句》",
+    "sample_id": "fuxi_PLST_286"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "如何亡国恨，尽在大江东！",
-    "output": "屈大均《秣陵》"
+    "output": "屈大均《秣陵》",
+    "sample_id": "fuxi_PLST_287"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "身当恩遇常轻敌，力尽关山未解围。",
-    "output": "高适《燕歌行》"
+    "output": "高适《燕歌行》",
+    "sample_id": "fuxi_PLST_288"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不惜红罗裂，何论轻贱躯。",
-    "output": "辛延年《羽林郎》"
+    "output": "辛延年《羽林郎》",
+    "sample_id": "fuxi_PLST_289"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "问何物、能令公喜？",
-    "output": "辛弃疾《贺新郎·甚矣吾衰矣》"
+    "output": "辛弃疾《贺新郎·甚矣吾衰矣》",
+    "sample_id": "fuxi_PLST_290"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "谈兵究弊又何益，万口不谓儒者知。",
-    "output": "梅尧臣《醉中留别永叔子履》"
+    "output": "梅尧臣《醉中留别永叔子履》",
+    "sample_id": "fuxi_PLST_291"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "倬彼甫田，岁取十千。",
-    "output": "佚名《小雅·甫田》"
+    "output": "佚名《小雅·甫田》",
+    "sample_id": "fuxi_PLST_292"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "空对着，山中高士晶莹雪；",
-    "output": "曹雪芹《终身误》"
+    "output": "曹雪芹《终身误》",
+    "sample_id": "fuxi_PLST_293"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "魂梦断，愁听漏更长。",
-    "output": "薛昭蕴《小重山·秋到长门秋草黄》"
+    "output": "薛昭蕴《小重山·秋到长门秋草黄》",
+    "sample_id": "fuxi_PLST_294"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "斜拔玉钗灯影畔，剔开红焰救飞蛾。",
-    "output": "张祜《赠内人》"
+    "output": "张祜《赠内人》",
+    "sample_id": "fuxi_PLST_295"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "暖风熏得游人醉，直把杭州作汴州。",
-    "output": "林升《题临安邸》"
+    "output": "林升《题临安邸》",
+    "sample_id": "fuxi_PLST_296"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "此情无计可消除，才下眉头，却上心头。",
-    "output": "李清照《一剪梅·红藕香残玉簟秋》"
+    "output": "李清照《一剪梅·红藕香残玉簟秋》",
+    "sample_id": "fuxi_PLST_297"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "碧毯线头抽早稻，青罗裙带展新蒲。",
-    "output": "白居易《春题湖上》"
+    "output": "白居易《春题湖上》",
+    "sample_id": "fuxi_PLST_298"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "九日龙山饮，黄花笑逐臣。",
-    "output": "李白《九日龙山饮》"
+    "output": "李白《九日龙山饮》",
+    "sample_id": "fuxi_PLST_299"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "应是北堂增寿考，一阳旋复占先梅。",
-    "output": "高鹗《赏海棠花妖诗》"
+    "output": "高鹗《赏海棠花妖诗》",
+    "sample_id": "fuxi_PLST_300"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "怕上层楼，十日九风雨。",
-    "output": "辛弃疾《祝英台近·晚春》"
+    "output": "辛弃疾《祝英台近·晚春》",
+    "sample_id": "fuxi_PLST_301"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "落叶满空山，何处寻行迹。",
-    "output": "韦应物《寄全椒山中道士》"
+    "output": "韦应物《寄全椒山中道士》",
+    "sample_id": "fuxi_PLST_302"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "思君若汶水，浩荡寄南征。",
-    "output": "李白《沙丘城下寄杜甫》"
+    "output": "李白《沙丘城下寄杜甫》",
+    "sample_id": "fuxi_PLST_303"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "千古兴亡多少事？悠悠。不尽长江滚滚流。",
-    "output": "辛弃疾《南乡子·登京口北固亭有怀》"
+    "output": "辛弃疾《南乡子·登京口北固亭有怀》",
+    "sample_id": "fuxi_PLST_304"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "好风胧月清明夜，碧砌红轩刺史家。",
-    "output": "白居易《清明夜》"
+    "output": "白居易《清明夜》",
+    "sample_id": "fuxi_PLST_305"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "最是仓皇辞庙日，教坊犹奏别离歌，垂泪对宫娥。",
-    "output": "李煜《破阵子·四十年来家国》"
+    "output": "李煜《破阵子·四十年来家国》",
+    "sample_id": "fuxi_PLST_306"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "想得玉人情，也合思量我。",
-    "output": "孙光宪《生查子·窗雨阻佳期》"
+    "output": "孙光宪《生查子·窗雨阻佳期》",
+    "sample_id": "fuxi_PLST_307"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不据山河据平地，长戈利矛日可麾。",
-    "output": "李商隐《韩碑》"
+    "output": "李商隐《韩碑》",
+    "sample_id": "fuxi_PLST_308"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "来时浦口花迎入，采罢江头月送归。",
-    "output": "王昌龄《采莲曲二首》"
+    "output": "王昌龄《采莲曲二首》",
+    "sample_id": "fuxi_PLST_309"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "渭水银河清，横天流不息。",
-    "output": "李白《君子有所思行》"
+    "output": "李白《君子有所思行》",
+    "sample_id": "fuxi_PLST_310"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "感君绸缪逐君去，成君家计良辛苦。",
-    "output": "王安石《君难托》"
+    "output": "王安石《君难托》",
+    "sample_id": "fuxi_PLST_311"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "雁过也，正伤心，却是旧时相识。",
-    "output": "李清照《声声慢·寻寻觅觅》"
+    "output": "李清照《声声慢·寻寻觅觅》",
+    "sample_id": "fuxi_PLST_312"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "山无陵，江水为竭。",
-    "output": "佚名《上邪》"
+    "output": "佚名《上邪》",
+    "sample_id": "fuxi_PLST_313"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "绿蚁新醅酒，红泥小火炉。",
-    "output": "白居易《问刘十九》"
+    "output": "白居易《问刘十九》",
+    "sample_id": "fuxi_PLST_314"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一曲高歌一樽酒，一人独钓一江秋。",
-    "output": "王士祯《题秋江独钓图》"
+    "output": "王士祯《题秋江独钓图》",
+    "sample_id": "fuxi_PLST_315"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "今日山城对垂泪，伤心不独为悲秋。",
-    "output": "李益《上汝州郡楼》"
+    "output": "李益《上汝州郡楼》",
+    "sample_id": "fuxi_PLST_316"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "剑外忽传收蓟北，初闻涕泪满衣裳。",
-    "output": "杜甫《闻官军收河南河北》"
+    "output": "杜甫《闻官军收河南河北》",
+    "sample_id": "fuxi_PLST_317"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一节见则百节知矣。",
-    "output": "《说苑·尊贤》"
+    "output": "《说苑·尊贤》",
+    "sample_id": "fuxi_PLST_318"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "鸟下绿芜秦苑夕，蝉鸣黄叶汉宫秋。",
-    "output": "许浑《咸阳城东楼 / 咸阳城西楼晚眺 / 西门》"
+    "output": "许浑《咸阳城东楼 / 咸阳城西楼晚眺 / 西门》",
+    "sample_id": "fuxi_PLST_319"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "一别隔千里，荣枯异炎凉。",
-    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》"
+    "output": "李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》",
+    "sample_id": "fuxi_PLST_320"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。",
-    "output": "辛弃疾《青玉案·元夕》"
+    "output": "辛弃疾《青玉案·元夕》",
+    "sample_id": "fuxi_PLST_321"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "无思远人，劳心怛怛。",
-    "output": "佚名《甫田》"
+    "output": "佚名《甫田》",
+    "sample_id": "fuxi_PLST_322"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "猿啼客散暮江头，人自伤心水自流。",
-    "output": "刘长卿《重送裴郎中贬吉州》"
+    "output": "刘长卿《重送裴郎中贬吉州》",
+    "sample_id": "fuxi_PLST_323"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "楚楚者茨，言抽其棘。",
-    "output": "佚名《楚茨》"
+    "output": "佚名《楚茨》",
+    "sample_id": "fuxi_PLST_324"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "少年听雨歌楼上。红烛昏罗帐。",
-    "output": "蒋捷《虞美人·听雨》"
+    "output": "蒋捷《虞美人·听雨》",
+    "sample_id": "fuxi_PLST_325"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "昨夜斗回北，今朝岁起东。",
-    "output": "孟浩然《田家元日》"
+    "output": "孟浩然《田家元日》",
+    "sample_id": "fuxi_PLST_326"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "晴川历历汉阳树，芳草萋萋鹦鹉洲。",
-    "output": "崔颢《黄鹤楼 / 登黄鹤楼》"
+    "output": "崔颢《黄鹤楼 / 登黄鹤楼》",
+    "sample_id": "fuxi_PLST_327"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "北方有佳人，绝世而独立。",
-    "output": "李延年《李延年歌》"
+    "output": "李延年《李延年歌》",
+    "sample_id": "fuxi_PLST_328"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "忆对中秋丹桂丛。花在杯中。月在杯中。",
-    "output": "辛弃疾《一剪梅·中秋元月》"
+    "output": "辛弃疾《一剪梅·中秋元月》",
+    "sample_id": "fuxi_PLST_329"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "绿竹入幽径，青萝拂行衣。",
-    "output": "李白《下终南山过斛斯山人宿置酒》"
+    "output": "李白《下终南山过斛斯山人宿置酒》",
+    "sample_id": "fuxi_PLST_330"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "肠断江春欲尽头，杖藜徐步立芳洲。",
-    "output": "杜甫《绝句漫兴九首》"
+    "output": "杜甫《绝句漫兴九首》",
+    "sample_id": "fuxi_PLST_331"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "硕人敖敖，说于农郊。",
-    "output": "佚名《硕人》"
+    "output": "佚名《硕人》",
+    "sample_id": "fuxi_PLST_332"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "短篱残菊一枝黄。正是乱山深处、过重阳。",
-    "output": "吕本中《南歌子·驿路侵斜月》"
+    "output": "吕本中《南歌子·驿路侵斜月》",
+    "sample_id": "fuxi_PLST_333"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "夕阳下，酒旆闲，两三航未曾着岸。",
-    "output": "马致远《寿阳曲·远浦帆归》"
+    "output": "马致远《寿阳曲·远浦帆归》",
+    "sample_id": "fuxi_PLST_334"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "欲轻肠断声，心绪乱已久。",
-    "output": "杜甫《前出塞九首》"
+    "output": "杜甫《前出塞九首》",
+    "sample_id": "fuxi_PLST_335"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "有子七人，莫慰母心。",
-    "output": "佚名《凯风》"
+    "output": "佚名《凯风》",
+    "sample_id": "fuxi_PLST_336"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "深涧饮渴虹，邃河生秋雷。",
-    "output": "惟凤《姑射山诗题曾山人壁》"
+    "output": "惟凤《姑射山诗题曾山人壁》",
+    "sample_id": "fuxi_PLST_337"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "相逢处，自有暗尘随马。",
-    "output": "周邦彦《解语花·上元》"
+    "output": "周邦彦《解语花·上元》",
+    "sample_id": "fuxi_PLST_338"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君子务知大者、远者，小人务知小者、近者。",
-    "output": "《左传·襄公·襄公三十一年》"
+    "output": "《左传·襄公·襄公三十一年》",
+    "sample_id": "fuxi_PLST_339"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "采幽香，巡古苑，竹冷翠微路。",
-    "output": "吴文英《祝英台近·春日客龟溪游废园》"
+    "output": "吴文英《祝英台近·春日客龟溪游废园》",
+    "sample_id": "fuxi_PLST_340"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不得乎亲，不可以为人；不顺乎亲，不可以为子。",
-    "output": "《孟子·离娄章句上·第二十八节》"
+    "output": "《孟子·离娄章句上·第二十八节》",
+    "sample_id": "fuxi_PLST_341"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "山泉散漫绕阶流，万树桃花映小楼。",
-    "output": "元稹《离思五首》"
+    "output": "元稹《离思五首》",
+    "sample_id": "fuxi_PLST_342"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "秋而载尝，夏而楅衡，白牡骍刚。",
-    "output": "佚名《鲁颂·閟宫》"
+    "output": "佚名《鲁颂·閟宫》",
+    "sample_id": "fuxi_PLST_343"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "残月出门时，美人和泪辞。",
-    "output": "韦庄《菩萨蛮·红楼别夜堪惆怅》"
+    "output": "韦庄《菩萨蛮·红楼别夜堪惆怅》",
+    "sample_id": "fuxi_PLST_344"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "虽不周于今之人兮，愿依彭咸之遗则。",
-    "output": "屈原《离骚》"
+    "output": "屈原《离骚》",
+    "sample_id": "fuxi_PLST_345"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "静绕珍丛底，成叹息。",
-    "output": "周邦彦《六丑·落花》"
+    "output": "周邦彦《六丑·落花》",
+    "sample_id": "fuxi_PLST_346"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "想当年，金戈铁马，气吞万里如虎。",
-    "output": "辛弃疾《永遇乐·京口北固亭怀古》"
+    "output": "辛弃疾《永遇乐·京口北固亭怀古》",
+    "sample_id": "fuxi_PLST_347"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "游子春衫已试单，桃花飞尽野梅酸。",
-    "output": "吴涛《绝句·游子春衫已试单》"
+    "output": "吴涛《绝句·游子春衫已试单》",
+    "sample_id": "fuxi_PLST_348"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "百战沙场碎铁衣，城南已合数重围。",
-    "output": "李白《从军行》"
+    "output": "李白《从军行》",
+    "sample_id": "fuxi_PLST_349"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "海阔山遥，未知何处是潇湘。",
-    "output": "柳永《玉蝴蝶·望处雨收云断》"
+    "output": "柳永《玉蝴蝶·望处雨收云断》",
+    "sample_id": "fuxi_PLST_350"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "南朝四百八十寺，多少楼台烟雨中。",
-    "output": "杜牧《江南春》"
+    "output": "杜牧《江南春》",
+    "sample_id": "fuxi_PLST_351"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "两岸人家微雨后，收红豆，树底纤纤抬素手。",
-    "output": "欧阳炯《南乡子·路入南中》"
+    "output": "欧阳炯《南乡子·路入南中》",
+    "sample_id": "fuxi_PLST_352"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "窗竹影摇书案上，野泉声入砚池中。",
-    "output": "杜荀鹤《题弟侄书堂》"
+    "output": "杜荀鹤《题弟侄书堂》",
+    "sample_id": "fuxi_PLST_353"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "谷雨清明空屈指。",
-    "output": "苏轼《天仙子·走马探花花发未》"
+    "output": "苏轼《天仙子·走马探花花发未》",
+    "sample_id": "fuxi_PLST_354"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "梅花南北路，风雨湿征衣。",
-    "output": "文天祥《南安军》"
+    "output": "文天祥《南安军》",
+    "sample_id": "fuxi_PLST_355"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "初惊河汉落，半洒云天里。",
-    "output": "李白《望庐山瀑布水二首》"
+    "output": "李白《望庐山瀑布水二首》",
+    "sample_id": "fuxi_PLST_356"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "千虚不如一实。",
-    "output": "《警世通言·卷三》"
+    "output": "《警世通言·卷三》",
+    "sample_id": "fuxi_PLST_357"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "霸业成空，遗恨无穷。",
-    "output": "查德卿《蟾宫曲·怀古》"
+    "output": "查德卿《蟾宫曲·怀古》",
+    "sample_id": "fuxi_PLST_358"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "孤城暮角，引胡笳怨。",
-    "output": "柳永《迷神引·一叶扁舟轻帆卷》"
+    "output": "柳永《迷神引·一叶扁舟轻帆卷》",
+    "sample_id": "fuxi_PLST_359"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "春草明年绿，王孙归不归？",
-    "output": "王维《送别 / 山中送别 / 送友》"
+    "output": "王维《送别 / 山中送别 / 送友》",
+    "sample_id": "fuxi_PLST_360"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "暗暗淡淡紫，融融冶冶黄。",
-    "output": "李商隐《菊花》"
+    "output": "李商隐《菊花》",
+    "sample_id": "fuxi_PLST_361"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "料浅雪、黄昏驿路，飞香遗冻草。",
-    "output": "吴文英《花犯·谢黄复庵除夜寄古梅枝》"
+    "output": "吴文英《花犯·谢黄复庵除夜寄古梅枝》",
+    "sample_id": "fuxi_PLST_362"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "零落江南不自由。两绸缪。料得吟鸾夜夜愁。",
-    "output": "姜夔《忆王孙·番阳彭氏小楼作》"
+    "output": "姜夔《忆王孙·番阳彭氏小楼作》",
+    "sample_id": "fuxi_PLST_363"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "洞房昨夜停红烛，待晓堂前拜舅姑。",
-    "output": "朱庆馀《近试上张籍水部 / 近试上张水部 / 闺意献张水部》"
+    "output": "朱庆馀《近试上张籍水部 / 近试上张水部 / 闺意献张水部》",
+    "sample_id": "fuxi_PLST_364"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "造化钟神秀，阴阳割昏晓。",
-    "output": "杜甫《望岳》"
+    "output": "杜甫《望岳》",
+    "sample_id": "fuxi_PLST_365"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "锦江春色来天地，玉垒浮云变古今。",
-    "output": "杜甫《登楼》"
+    "output": "杜甫《登楼》",
+    "sample_id": "fuxi_PLST_366"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "路不周以左转兮，指西海以为期。",
-    "output": "屈原《离骚》"
+    "output": "屈原《离骚》",
+    "sample_id": "fuxi_PLST_367"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "惟有醉将醽醁，任他柔橹轻移。",
-    "output": "董士锡《木兰花慢·武林归舟中作》"
+    "output": "董士锡《木兰花慢·武林归舟中作》",
+    "sample_id": "fuxi_PLST_368"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "共粉泪，两簌簌。",
-    "output": "苏轼《贺新郎·夏景》"
+    "output": "苏轼《贺新郎·夏景》",
+    "sample_id": "fuxi_PLST_369"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "乘我大宛马，抚我繁弱弓。",
-    "output": "张华《壮士篇》"
+    "output": "张华《壮士篇》",
+    "sample_id": "fuxi_PLST_370"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "桑之未落，其叶沃若。",
-    "output": "佚名《氓》"
+    "output": "佚名《氓》",
+    "sample_id": "fuxi_PLST_371"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "西园何限相思树，辛苦梅花候海棠。",
-    "output": "元好问《鹧鸪天·候馆灯昏雨送凉》"
+    "output": "元好问《鹧鸪天·候馆灯昏雨送凉》",
+    "sample_id": "fuxi_PLST_372"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "黄四娘家花满蹊，千朵万朵压枝低。",
-    "output": "杜甫《江畔独步寻花七绝句》"
+    "output": "杜甫《江畔独步寻花七绝句》",
+    "sample_id": "fuxi_PLST_373"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "绿杨芳草几时休，泪眼愁肠先已断。",
-    "output": "钱惟演《木兰花·城上风光莺语乱》"
+    "output": "钱惟演《木兰花·城上风光莺语乱》",
+    "sample_id": "fuxi_PLST_374"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "多情管定烟和雨。",
-    "output": "张鎡《菩萨蛮·芭蕉》"
+    "output": "张鎡《菩萨蛮·芭蕉》",
+    "sample_id": "fuxi_PLST_375"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "妻孥怪我在，惊定还拭泪。",
-    "output": "杜甫《羌村》"
+    "output": "杜甫《羌村》",
+    "sample_id": "fuxi_PLST_376"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "荷叶五寸荷花娇，贴波不碍画船摇；",
-    "output": "石涛《荷花》"
+    "output": "石涛《荷花》",
+    "sample_id": "fuxi_PLST_377"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "唯有门前镜湖水，春风不改旧时波。",
-    "output": "贺知章《回乡偶书二首》"
+    "output": "贺知章《回乡偶书二首》",
+    "sample_id": "fuxi_PLST_378"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不辞山路远，踏雪也相过。",
-    "output": "张九龄《答陆澧》"
+    "output": "张九龄《答陆澧》",
+    "sample_id": "fuxi_PLST_379"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "胜败兵家事不期，包羞忍耻是男儿。",
-    "output": "杜牧《题乌江亭》"
+    "output": "杜牧《题乌江亭》",
+    "sample_id": "fuxi_PLST_380"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "兰红波碧忆潇湘。",
-    "output": "孙光宪《浣溪沙·蓼岸风多橘柚香》"
+    "output": "孙光宪《浣溪沙·蓼岸风多橘柚香》",
+    "sample_id": "fuxi_PLST_381"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "不是望金山，我自思量禹。",
-    "output": "辛弃疾《生查子·题京口郡治尘表亭》"
+    "output": "辛弃疾《生查子·题京口郡治尘表亭》",
+    "sample_id": "fuxi_PLST_382"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "吹到一片秋香，清辉了如雪。",
-    "output": "纳兰性德《琵琶仙·中秋》"
+    "output": "纳兰性德《琵琶仙·中秋》",
+    "sample_id": "fuxi_PLST_383"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "浮天水送无穷树，带雨云埋一半山。",
-    "output": "辛弃疾《鹧鸪天·送人》"
+    "output": "辛弃疾《鹧鸪天·送人》",
+    "sample_id": "fuxi_PLST_384"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "午梦初回，卷帘尽放春愁去。",
-    "output": "周晋《点绛唇·访牟存叟南漪钓隐》"
+    "output": "周晋《点绛唇·访牟存叟南漪钓隐》",
+    "sample_id": "fuxi_PLST_385"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "才子词人，自是白衣卿相。",
-    "output": "柳永《鹤冲天·黄金榜上》"
+    "output": "柳永《鹤冲天·黄金榜上》",
+    "sample_id": "fuxi_PLST_386"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "富而可求也，虽执鞭之士，吾亦为之，如不可求，从吾所好。",
-    "output": "《论语·述而篇》"
+    "output": "《论语·述而篇》",
+    "sample_id": "fuxi_PLST_387"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "蜂蝶不知春已去，又衔花瓣到兰房。",
-    "output": "智生《夏词》"
+    "output": "智生《夏词》",
+    "sample_id": "fuxi_PLST_388"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "新郎君、成行如画。",
-    "output": "柳永《柳初新·东郊向晓星杓亚》"
+    "output": "柳永《柳初新·东郊向晓星杓亚》",
+    "sample_id": "fuxi_PLST_389"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "漠漠轻阴晚自开，青天白日映楼台。",
-    "output": "韩愈《同水部张员外籍曲江春游寄白二十二舍人》"
+    "output": "韩愈《同水部张员外籍曲江春游寄白二十二舍人》",
+    "sample_id": "fuxi_PLST_390"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "义胆包天，忠肝盖地，四海无人识。",
-    "output": "施耐庵《念奴娇·天南地北》"
+    "output": "施耐庵《念奴娇·天南地北》",
+    "sample_id": "fuxi_PLST_391"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君者，源也；水者，流也。源清则流清，源浊则流浊。",
-    "output": "《太平御览·治道部·卷一》"
+    "output": "《太平御览·治道部·卷一》",
+    "sample_id": "fuxi_PLST_392"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "烽火照西京，心中自不平。",
-    "output": "杨炯《从军行》"
+    "output": "杨炯《从军行》",
+    "sample_id": "fuxi_PLST_393"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "蛇毒浓凝洞堂湿，江鱼不食衔沙立。",
-    "output": "李贺《罗浮山父与葛篇》"
+    "output": "李贺《罗浮山父与葛篇》",
+    "sample_id": "fuxi_PLST_394"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "云外好呼南去雁，系书先为报江乡。",
-    "output": "齐之鸾《九日登清水营城》"
+    "output": "齐之鸾《九日登清水营城》",
+    "sample_id": "fuxi_PLST_395"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "意气相倾两相顾，斗酒双鱼表情素。",
-    "output": "李白《酬中都小吏携斗酒双鱼于逆旅见赠》"
+    "output": "李白《酬中都小吏携斗酒双鱼于逆旅见赠》",
+    "sample_id": "fuxi_PLST_396"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "半竿落日，两行新雁，一叶扁舟。",
-    "output": "贺铸《眼儿媚·萧萧江上荻花秋》"
+    "output": "贺铸《眼儿媚·萧萧江上荻花秋》",
+    "sample_id": "fuxi_PLST_397"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "人生百年有几，念良辰美景，休放虚过。",
-    "output": "元好问《骤雨打新荷》"
+    "output": "元好问《骤雨打新荷》",
+    "sample_id": "fuxi_PLST_398"
   },
   {
     "instruction": "请给出以下句子的出处。",
     "input": "君看萧萧只数叶，满堂风雨不胜寒。",
-    "output": "李东阳《柯敬仲墨竹》"
+    "output": "李东阳《柯敬仲墨竹》",
+    "sample_id": "fuxi_PLST_399"
   }
 ]

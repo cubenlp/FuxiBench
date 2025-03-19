@@ -3,3000 +3,3500 @@
     "instruction": "对对联，请根据上联生成下联。",
     "input": "腾飞上铁，锐意改革谋发展，勇当千里马",
     "output": "和谐南供，安全送电保畅通，争做领头羊",
-    "template": "CCCC，CCCCCCC，CCCCC"
+    "template": "CCCC，CCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_0"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "风弦未拨心先乱",
     "output": "夜幕已沉梦更闲",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_1"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "彩屏如画，望秀美崤函，花团锦簇",
     "output": "短信报春，喜和谐社会，物阜民康",
-    "template": "CCCC，CCCCC，CCCC"
+    "template": "CCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_2"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "路不拾遗，夜不闭户",
     "output": "一夫当关，万夫莫开",
-    "template": "CCCC，CCCC"
+    "template": "CCCC，CCCC",
+    "sample_id": "fuxi_CG_3"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "国家至上，讨袁抗日，丰碑两座彰军史",
     "output": "民族当头，征缅战台，碧血一腔付义旗",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_4"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "薰风生殿阁",
     "output": "皓月照楼台",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_5"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "潮白河边，紫燕剪裁美画图，绿为底色",
     "output": "牛栏山下，金鸡播报好消息，富是头条",
-    "template": "CCCC，CCCCCCC，CCCC"
+    "template": "CCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_6"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "菊崇廉，兰思洁",
     "output": "梅尚德，竹慕清",
-    "template": "CCC，CCC"
+    "template": "CCC，CCC",
+    "sample_id": "fuxi_CG_7"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "望族起清河，汉子文封侯拜相",
     "output": "名城留胜迹，唐承吉范水模山",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_8"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "煦煦春风，吹暖五湖四海",
     "output": "霏霏细雨，润滋万户千家",
-    "template": "CCCC，CCCCCC"
+    "template": "CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_9"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "下雨天，天下雨，天天下雨",
     "output": "飘香酒，酒飘香，酒酒飘香",
-    "template": "CCC，CCC，CCCC"
+    "template": "CCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_10"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "绘画宗师，笔下丹青秀",
     "output": "围棋圣手，枰间黑白谈",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_11"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "史征筚辂，毋忘熊绎山川，元辰告列祖列宗，三户定能光夏宇",
     "output": "人在蓬瀛，弥念鹄矶风物，嘉会祝新年新运，万方同与履春台",
-    "template": "CCCC，CCCCCC，CCCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_12"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天降甘霖，华夏人民奔富路",
     "output": "党行善政，崭新时代沐春风",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_13"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "青春难留莫迟疑，照个好影",
     "output": "人生易老别忘记，传下真容",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_14"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "富贵在天，何必操心备至？天下英雄只偶尔",
     "output": "兴亡有数，纵然明睿权衡，数州兵甲问东风",
-    "template": "CCCC，CCCCCCCCCCCCCC"
+    "template": "CCCC，CCCCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_15"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "声如玉，颜如玉，玉女妙算，冷观秀才傻站",
     "output": "名也穷，利也穷，穷酸笨招，苦守伊人不归",
-    "template": "CCC，CCC，CCCC，CCCCCC"
+    "template": "CCC，CCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_16"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天昊昊，地茫茫，雄姿粗犷须眉气",
     "output": "水潺潺，风习习，俊美羞赧倩女情",
-    "template": "CCC，CCC，CCCCCCC"
+    "template": "CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_17"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "涵来水韵以流馨，风雨何妨？梓里一桥横北斗",
     "output": "秀出春光而溢彩，沧桑不改，梅江两岸聚西门",
-    "template": "CCCCCCC，CCCCCCCCCCCC"
+    "template": "CCCCCCC，CCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_18"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "今晚共欢歌，喜灿灿国典载国粹",
     "output": "明朝齐奋起，唱巍巍历史展历程",
-    "template": "CCCCC，CCCCCCCC"
+    "template": "CCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_19"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "窑变莺吟燕舞，袅袅宫商角徵羽，本是宋钧鼻祖",
     "output": "釉生云蒸霞蔚，皎皎青黄赤白黑，堪称中华国粹",
-    "template": "CCCCCC，CCCCCCC，CCCCCC"
+    "template": "CCCCCC，CCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_20"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "沿古道而来，听闻茶马风情，随往蹄声今未远",
     "output": "离码头何去？看见清明楼阁，经停舟曲不曾开",
-    "template": "CCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_21"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "海洋游陆地，甲板作机场，滑跃腾飞华夏梦",
     "output": "航母壮军威，雄鹰扬国力，安全起降里程碑",
-    "template": "CCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_22"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "名牌百货好，任君挑选",
     "output": "笑脸三言甜，愿您再来",
-    "template": "CCCCC，CCCC"
+    "template": "CCCCC，CCCC",
+    "sample_id": "fuxi_CG_23"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "馆介双峰湄水之间，喜物色山光，黄卷青灯常伴我",
     "output": "校荣民国清朝以远，听琴声笛韵，春风化雨总宜人",
-    "template": "CCCCCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_24"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "盛世不知贫困",
     "output": "巨贪定是法盲",
-    "template": "CCCCCC"
+    "template": "CCCCCC",
+    "sample_id": "fuxi_CG_25"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "家山依旧绿，夕照微红，不见炊烟四起",
     "output": "鬓发已然衰，乡音犹在，笑邀老酒同沽",
-    "template": "CCCCC，CCCC，CCCCCC"
+    "template": "CCCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_26"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "风过南楼，竹画北墙，花飞西径，月上东坡不肯去",
     "output": "兰噙春露，梅吟冬雪，柳钓夏波，菊经秋雨更堪怜",
-    "template": "CCCC，CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_27"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "数百里谁泼丹青？烟霞笼玉，风雨回澜，皴开水粉皴开墨",
     "output": "三十年县争发展，岁月流金，城乡焕彩，富了山川富了瑶",
-    "template": "CCCCCCCCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCCCCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_28"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "美园美焕古今情，喜远养禅风，近养仁风，远近无双朝锦绣",
     "output": "荣氏荣开荆楚梦，有天之道业，人之德业，天人合一阅辉煌",
-    "template": "CCCCCCC，CCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_29"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "满头雾水",
     "output": "过眼云烟",
-    "template": "CCCC"
+    "template": "CCCC",
+    "sample_id": "fuxi_CG_30"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "岂容神甫作奸，乱我宗风？自古中华崇圣道",
     "output": "当以西林为鉴，御之外寇，从来正义在民心",
-    "template": "CCCCCC，CCCCCCCCCCCC"
+    "template": "CCCCCC，CCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_31"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "城乡发展，大手笔书春，五彩田园堪寄梦",
     "output": "山水和谐，新景观醉客，一方热土好吟诗",
-    "template": "CCCC，CCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_32"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "最痴情，风韵独能撩子夜",
     "output": "一弹指，芳华足以动人寰",
-    "template": "CCC，CCCCCCC"
+    "template": "CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_33"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "果大江气韵，千载人文，辉煌不负新时代",
     "output": "究多景风情，一城绮梦，锦绣重开北固楼",
-    "template": "CCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_34"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "学吃亏、寻快活",
     "output": "习不语、省是非",
-    "template": "CCC、CCC"
+    "template": "CCC、CCC",
+    "sample_id": "fuxi_CG_35"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大本领人，当日不见有奇异处",
     "output": "敏学问者，终身无所谓满足时",
-    "template": "CCCC，CCCCCCCC"
+    "template": "CCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_36"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "吉风舒畅，兰甫中兴，皆缘公仆坚强意志",
     "output": "林霭致祥，联坛崛起，全赖主人不屈精神",
-    "template": "CCCC，CCCC，CCCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_37"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "入庙仰奇观，看银杏参天，古藤匝地",
     "output": "登堂思圣教，有文章若海，道德如山",
-    "template": "CCCCC，CCCCC，CCCC"
+    "template": "CCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_38"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "士倾广厦，民失慈航，天胡不吊",
     "output": "勋振华夷，名垂宇宙，公寔长存",
-    "template": "CCCC，CCCC，CCCC"
+    "template": "CCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_39"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "馆集群贤，道相同，撷实摛华，文澜史镜三千界",
     "output": "辉增重庆，学不已，研今究古，字水涂山四十年",
-    "template": "CCCC，CCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_40"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "做字中央古，古人物，古衣冠，古古今今，今鑒古",
     "output": "戯形旁邉虛，虛榮華，虛富貴，虛虛實實，實乃虛",
-    "template": "CCCCC，CCC，CCC，CCCC，CCC"
+    "template": "CCCCC，CCC，CCC，CCCC，CCC",
+    "sample_id": "fuxi_CG_41"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "丹桂有缺时，嫣雨浇荷也",
     "output": "夕阳无限好，黄昏奈我何",
-    "template": "CCCCC，CCCCC"
+    "template": "CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_42"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "桧本宜以廯芥视之，而赵宋不除，岂无所待",
     "output": "国竟甘毁干城若此，夫岳王既没，皆祀如神",
-    "template": "CCCCCCCC，CCCCC，CCCC"
+    "template": "CCCCCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_43"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "留手印分田到户，联产承包，自主经营，追求温饱",
     "output": "聚民心租地给商，规模种养，共同致富，建设小康",
-    "template": "CCCCCCC，CCCC，CCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_44"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "生眉州，谪黄州，终常州，一生足迹遍九州",
     "output": "父老苏，弟小苏，号大苏，同父文坛誉三苏",
-    "template": "CCC，CCC，CCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_45"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "节到登楼，撒梅花万斛，铺首义名城，九派尊崇酬铁血",
     "output": "春回弄笛，调玉韵千声，引三江志士，一鞭奋勇越关山",
-    "template": "CCCC，CCCCC，CCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_46"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "揭竿扫积弊沉疴，至田亩初颁，氓庶欢呼平等国",
     "output": "为政演后车前辙，添史评佐证，金陵只改大王旗",
-    "template": "CCCCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_47"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "樱唇歌碧野，果红树茂，玉润珠圆，金州笑引三千客",
     "output": "桃面醉春风，妆点辽南，传扬海外，盛世长荣第一枝",
-    "template": "CCCCC，CCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_48"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "说与春来，仗酒祓清愁、花消英气",
     "output": "不堪重记，有绿杨眼见、红烛心知",
-    "template": "CCCC，CCCCC、CCCC"
+    "template": "CCCC，CCCCC、CCCC",
+    "sample_id": "fuxi_CG_49"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "池苑依然，独不见人面桃花交相映",
     "output": "武陵仍旧，君应知石碑白字立待陈",
-    "template": "CCCC，CCCCCCCCCC"
+    "template": "CCCC，CCCCCCCCCC",
+    "sample_id": "fuxi_CG_50"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "检企同行，建廉洁体制，铸千秋伟业",
     "output": "德法双馨，歌和谐社会，传万代辉煌",
-    "template": "CCCC，CCCCC，CCCCC"
+    "template": "CCCC，CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_51"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "谁写丹青？海岱春浓天着色",
     "output": "自耽风月，蓬瀛客醉地钟灵",
-    "template": "CCCCCCCCCCCC"
+    "template": "CCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_52"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "以酒为缘，以色为缘，十二时买笑追欢，永夕永朝酣大梦",
     "output": "诚心看戏，诚意看戏，四九旦登场夺锦，双麟双凤共销魂",
-    "template": "CCCC，CCCC，CCCCCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_53"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "孝心本是爱心，悉心向善留佳话",
     "output": "义举常襄盛举，美举明德传惠风",
-    "template": "CCCCCC，CCCCCCC"
+    "template": "CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_54"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "三秋绝塞奉哀音，自怜絮酒生刍，道远无方能缩地",
     "output": "廿载离群怀旧好，同是春晖寸草，年来有恨各终天",
-    "template": "CCCCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_55"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "荷出污泥而不染，品格高超可为友",
     "output": "竹生有节且虚心，性质坚韧能抵风",
-    "template": "CCCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_56"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "休羡他快意登扬，也须夙世根基，才博得屠狗封侯，烂羊作尉",
     "output": "姑借尔寓言醒俗，一任当前炫赫，总不过草头富贵，花面逢迎",
-    "template": "CCCCCCC，CCCCCC，CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_57"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "东寇太猖狂，试看那黑水白山，图入谁家版籍",
     "output": "明朝方大难，切莫把雄心壮志，消沉此地烟花",
-    "template": "CCCCC，CCCCCCC，CCCCCC"
+    "template": "CCCCC，CCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_58"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "金狮本是五狮主，自有狮狮来贺",
     "output": "峰脉犹为万脉头，必然脉脉归堂",
-    "template": "CCCCCCC，CCCCCC"
+    "template": "CCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_59"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "譬牛刀小试其才，豪气未除，座上每酣文举酒",
     "output": "负马革前驱之志，壮怀安寄？箧中还剩放翁诗",
-    "template": "CCCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_60"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "热血骠骑保大唐，丹心昭日月",
     "output": "元戎勋业卫中华，正气壮山河",
-    "template": "CCCCCCC，CCCCC"
+    "template": "CCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_61"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "国人欲勿殇，有执干戈卫社稷之志",
     "output": "朝廷宜矜恤，为联邦交习戎备而亡",
-    "template": "CCCCC，CCCCCCCCC"
+    "template": "CCCCC，CCCCCCCCC",
+    "sample_id": "fuxi_CG_62"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "遵圣训，须诚实布道",
     "output": "行真理，要努力救人",
-    "template": "CCC，CCCCC"
+    "template": "CCC，CCCCC",
+    "sample_id": "fuxi_CG_63"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天上神舟，地下龙舟，共筑中国梦",
     "output": "画间红柳，湖边绿柳，同歌盛世春",
-    "template": "CCCC，CCCC，CCCCC"
+    "template": "CCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_64"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "慕君有志蹈火赴汤，总为中华崛起，何求其勋昭日月",
     "output": "教我无私忧国虑民，但图神州兴旺，敢将赤胆鉴乾坤",
-    "template": "CCCCCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_65"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "税务唯依法而行，看大业筑基，云腾骏路",
     "output": "民生乃兴邦之本，喜小康圆梦，春闹龙城",
-    "template": "CCCCCCC，CCCCC，CCCC"
+    "template": "CCCCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_66"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "山药出格九万斤--真大",
     "output": "彩虹离地三千尺--好梁",
-    "template": "CCCCCCCCCCC"
+    "template": "CCCCCCCCCCC",
+    "sample_id": "fuxi_CG_67"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "举目观海南岛中，山山秀秀奇奇山山藏宝",
     "output": "低头见棋子湾畔，水水清清亮亮水水是银",
-    "template": "CCCCCCC，CCCCCCCCCC"
+    "template": "CCCCCCC，CCCCCCCCCC",
+    "sample_id": "fuxi_CG_68"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "今日展翅高飞，难忘感恩湖畔，谆谆教诲",
     "output": "他时报效祖国，更忆宏志亭前，侃侃而谈",
-    "template": "CCCCCC，CCCCCC，CCCC"
+    "template": "CCCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_69"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "辟地筑幽居，凭栏处竹瀑松风，溪云涧月",
     "output": "与人增古趣，信步间神祠佛舍，壁字岩诗",
-    "template": "CCCCC，CCCCCCC，CCCC"
+    "template": "CCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_70"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "羊角挂春风，吹绿千村富梦",
     "output": "窗花剪福字，贴红万户升平",
-    "template": "CCCCC，CCCCCC"
+    "template": "CCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_71"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "秋水伊人，独立寒秋，望穿秋水长天，欲驭落霞孤鹜飞天外",
     "output": "晓风雅士，对酌拂晓，醉尽晓风佳梦，更携啼鸟繁花入梦中",
-    "template": "CCCC，CCCC，CCCCCC，CCCCCCCCC"
+    "template": "CCCC，CCCC，CCCCCC，CCCCCCCCC",
+    "sample_id": "fuxi_CG_72"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "瞻仰罗衣殿堂，堪称胜地蓬莱，翠柏森森云海无际",
     "output": "追思秀才生世，谨守人间正道，鹏程渺渺众口有碑",
-    "template": "CCCCCC，CCCCCC，CCCCCCCC"
+    "template": "CCCCCC，CCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_73"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "喜声扬双轨、韵播两行，传承自有前瞻性",
     "output": "愿艺盛千秋、文兴一脉，发展更培后备军",
-    "template": "CCCCC、CCCC，CCCCCCC"
+    "template": "CCCCC、CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_74"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "起家直阁，秉政枢廷，中外交推，洵不愧丁卯桥百年乔木",
     "output": "叠晋宫衔，茂膺谥典，哀荣备至，惜未逮甲午岁万寿恩纶",
-    "template": "CCCC，CCCC，CCCC，CCCCCCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCCCCCC",
+    "sample_id": "fuxi_CG_75"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "蘑菇云涌，风洞探骊珠，纵观科技攀登，花艳三江春色美",
     "output": "电子星辉，军工转民品，都为和平崛起，鹏飞万里浩歌雄",
-    "template": "CCCC，CCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_76"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大视野、大舞台、空前光彩",
     "output": "新农村、新风貌、分外妖娆",
-    "template": "CCC、CCC、CCCC"
+    "template": "CCC、CCC、CCCC",
+    "sample_id": "fuxi_CG_77"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "耕读寄边疆，任敝裘短褐，瓦灶绳床，僵土耘酥成沃土",
     "output": "诗文流岁月，爱松岭冰河，雪原林海，白山看久是黄山",
-    "template": "CCCCC，CCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_78"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "杏林栽福地，仁心济世，医德无私，愿苍生离疾苦",
     "output": "橘井展慈怀，妙手回春，灵药有数，祝黎庶永康强",
-    "template": "CCCCC，CCCC，CCCC，CCCCCC"
+    "template": "CCCCC，CCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_79"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "我辈复登临，地老天荒，喜此山增华阁，同时重建",
     "output": "元储饶著作，风微人往，与隔江文选楼，并寿千秋",
-    "template": "CCCCC，CCCC，CCCCCC，CCCC"
+    "template": "CCCCC，CCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_80"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "昭武遗风溪涧，微桥独立",
     "output": "宋农承训衢途，大气萦回",
-    "template": "CCCCCC，CCCC"
+    "template": "CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_81"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "功在生民，惜传闻异辞，信史尚留曲笔",
     "output": "德垂奕禩，恨播迁中叶，支流莫溯真源",
-    "template": "CCCC，CCCCC，CCCCCC"
+    "template": "CCCC，CCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_82"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "国以民为本，民以食为天，食以土为源，寸土如金联国运",
     "output": "商因市而存，市因工而活，工因农而盛，三农便大蕴商机",
-    "template": "CCCCC，CCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_83"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "东风授意，细雨行文，点翠一方山水",
     "output": "晨雾构思，朝阳染色，描红万里烟霞",
-    "template": "CCCC，CCCC，CCCCCC"
+    "template": "CCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_84"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "时势英雄皆过往，廿年胜败殊途，史话犹传，古来烽火劫灰在",
     "output": "人间风物记沧桑，几度江山易主，民心渐冷，莫教生灵涂炭多",
-    "template": "CCCCCCC，CCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_85"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "抱犊晴岚，人间奇景，浮日化诸峰，海市蜃楼开幻境",
     "output": "飞云缥缈，天上桃源，桑麻兴绝顶，舰山鲸岑涌惊涛",
-    "template": "CCCC，CCCC，CCCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_86"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "千家纳瑞，二十四字箴言传唱同圆梦",
     "output": "九城呈祥，一百八声乐鼓和鸣共贺春",
-    "template": "CCCC，CCCCCCCCCCC"
+    "template": "CCCC，CCCCCCCCCCC",
+    "sample_id": "fuxi_CG_87"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一山雄峙，松杉遍野温馨馨两省",
     "output": "三瀑飞潭，流水清凉似乳乳千家",
-    "template": "CCCC，CCCCCCCCC"
+    "template": "CCCC，CCCCCCCCC",
+    "sample_id": "fuxi_CG_88"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "诠忠释义，持勇怀仁，名传三国，号封三教",
     "output": "明耻知荣，奉公克己，德泽千家，誉饮千秋",
-    "template": "CCCC，CCCC，CCCC，CCCC"
+    "template": "CCCC，CCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_89"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "闻羡鸳鸯不羡仙，于今永浴爱河，有董泽为源，甘泉比蜜",
     "output": "喜偕琴瑟更偕侣，自此相酬愿景，恰秋光胜酒，桂子添香",
-    "template": "CCCCCCC，CCCCCC，CCCCC，CCCC"
+    "template": "CCCCCCC，CCCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_90"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "师出无名，小卒子过河有进无退，看美兵驻伊怎回撤",
     "output": "史传故事，大将军方格欲擒故纵，待布什智利咋收场",
-    "template": "CCCC，CCCCCCCCC，CCCCCCCC"
+    "template": "CCCC，CCCCCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_91"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "是谁汗洒黉门？特色书春，灿开桃李三千树",
     "output": "看我情燃校苑，仁心立德，笑领风骚八万程",
-    "template": "CCCCCCCCCCC，CCCCCCC"
+    "template": "CCCCCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_92"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "双清柳渡何处寻？且听渔歌唱晚",
     "output": "一桥雄飞应时立，更闻马达吟春",
-    "template": "CCCCCCCCCCCCCC"
+    "template": "CCCCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_93"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "复兴之梦于斯定格",
     "output": "革命航船在此扬帆",
-    "template": "CCCCCCCC"
+    "template": "CCCCCCCC",
+    "sample_id": "fuxi_CG_94"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "从来世事难猜，无情你笑，多情我恼",
     "output": "纵是罗衣不解，一梦天明，再梦魂消",
-    "template": "CCCCCC，CCCC，CCCC"
+    "template": "CCCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_95"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一战一和，当年变生瞬间，能大白于天下",
     "output": "再接再厉，后起幸有人在，可无忧乎九泉",
-    "template": "CCCC，CCCCCC，CCCCCC"
+    "template": "CCCC，CCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_96"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "任尔狂风骤雨，苍松犹挺干",
     "output": "看汝炎阳寒雪，翠柏不低头",
-    "template": "CCCCCC，CCCCC"
+    "template": "CCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_97"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "煌煌史迹灿千年，揽胜重游，定引来四海衣冠、万邦珠履",
     "output": "熠熠文光辉九域，操觚再赋，尤唤取三曹妙笔、七子华章",
-    "template": "CCCCCCC，CCCC，CCCCCCC、CCCC"
+    "template": "CCCCCCC，CCCC，CCCCCCC、CCCC",
+    "sample_id": "fuxi_CG_98"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "青眼喜频开，向醉翁一啸一歌，座上欢呼厨畔酿",
     "output": "金秋欣共赏，引仙子如琴如瑟，妆前巧合叶中诗",
-    "template": "CCCCC，CCCCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_99"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一楼占景多，岂徒画壁呈奇、氧吧挹翠",
     "output": "千载思贤切，犹有名辞古韵、屈子深情",
-    "template": "CCCCC，CCCCCC、CCCC"
+    "template": "CCCCC，CCCCCC、CCCC",
+    "sample_id": "fuxi_CG_100"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "菩提心亦有微尘，但凭月照，无需力戒",
     "output": "逃禅客自然本性，偶转身来，如此酣眠",
-    "template": "CCCCCCC，CCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_101"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "筑虹桥、接霞岛，谁铺天路凌空至",
     "output": "摇云扇、荡月船，我欲星河避暑游",
-    "template": "CCC、CCC，CCCCCCC"
+    "template": "CCC、CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_102"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "三百六十天壮志常留，喜今成十载功，报海扬帆吟旭日",
     "output": "二万五千里长征未已，愿更奋千钧力，文山策马踏阳春",
-    "template": "CCCCCCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCCCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_103"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "其情赤，其语真，把楹联写在党旗上",
     "output": "所梦同，所行笃，将理想溶于血液中",
-    "template": "CCC，CCC，CCCCCCCC"
+    "template": "CCC，CCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_104"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "功名半局棋，尽勾留莽士儒臣，如许湖山，问此际谁曾抛下",
     "output": "生死一抔土，都化作黄莺香草，漫天烟雨，念伊人我又归来",
-    "template": "CCCCC，CCCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_105"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "太阳神，千年养生鸿图展，聚是一团火",
     "output": "直销人，万里鹏程伟业兴，散作满天星",
-    "template": "CCC，CCCCCCC，CCCCC"
+    "template": "CCC，CCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_106"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "唱作皆为台面人，秀金身演义扮仁，可挟恩可挟怨，不嫌出丑",
     "output": "观瞻多是痴呆客，翘黔首追星拜月，怎辨假怎辨真？枉自伤情",
-    "template": "CCCCCCC，CCCCCCC，CCCCCC，CCCC"
+    "template": "CCCCCCC，CCCCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_107"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "税乎，来源经济，繁荣经济",
     "output": "财也，给养民生，改善民生",
-    "template": "CC，CCCC，CCCC"
+    "template": "CC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_108"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "栽绿竹，引清风，看万顷平湖，襟怀可鉴",
     "output": "酌廉泉，警贪欲，叹一轮明月，今古同瞻",
-    "template": "CCC，CCC，CCCCC，CCCC"
+    "template": "CCC，CCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_109"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "草无食、草无衣，果然落草",
     "output": "墙迎风、墙迎月，所以骑墙",
-    "template": "CCC、CCC，CCCC"
+    "template": "CCC、CCC，CCCC",
+    "sample_id": "fuxi_CG_110"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "吃东西，闯南北，会四面八方客",
     "output": "问上下，闻左右，明千家万户情",
-    "template": "CCC，CCC，CCCCCC"
+    "template": "CCC，CCC，CCCCCC",
+    "sample_id": "fuxi_CG_111"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "太阳岛，风景名扬世界",
     "output": "黑龙江，水甜饮誉全球",
-    "template": "CCC，CCCCCC"
+    "template": "CCC，CCCCCC",
+    "sample_id": "fuxi_CG_112"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "没穷亲友往来，其家肯定势利",
     "output": "无正经人交接，这个必是奸邪",
-    "template": "CCCCCC，CCCCCC"
+    "template": "CCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_113"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "要侃要侃要侃偏要侃，谁侃都要侃",
     "output": "不说不说不说就不说，你说也不说",
-    "template": "CCCCCCCCC，CCCCC"
+    "template": "CCCCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_114"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "二斤山药蛋，一杯冰藕酒，开饭",
     "output": "几个中华人，半场玉堂春，敲锣",
-    "template": "CCCCC，CCCCC，CC"
+    "template": "CCCCC，CCCCC，CC",
+    "sample_id": "fuxi_CG_115"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "海内数六清端，惟我两奉使来，得以輏轩瞻并美",
     "output": "人生有几知己？自公百余年后，尚留文字话前因",
-    "template": "CCCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_116"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "无端怜天意未足，去年同暗忆幽兰，今年同欢娱绿鬓",
     "output": "自此叹人生最难，这一是愁听夜雨，那一是新试尘埃",
-    "template": "CCCCCCC，CCCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_117"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "八方客聚八达岭，过八里庄住八里店",
     "output": "九派流经九地区，观九霄宇茫九霄虚",
-    "template": "CCCCCCC，CCCCCCCC"
+    "template": "CCCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_118"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "党辉万里明，照亮东方，隆开盛世",
     "output": "舰笛十八响，声扬环宇，再启新程",
-    "template": "CCCCC，CCCC，CCCC"
+    "template": "CCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_119"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "祖传祖业，继承关帝祖德，求江山一统",
     "output": "国盛国强，劲挺大邦国力，愿世界同春",
-    "template": "CCCC，CCCCCC，CCCCC"
+    "template": "CCCC，CCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_120"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "问苍桑几度？恍闻始祖出征，芦笙百里",
     "output": "访部落九黎，长念先民拓土，功德千秋",
-    "template": "CCCCCCCCCCCC，CCCC"
+    "template": "CCCCCCCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_121"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "排队点名三二一，没准儿你赤脚丫、他光屁股",
     "output": "跟风唱曲哆来咪，就觉得山啊忒绿、天是倍蓝",
-    "template": "CCCCCCC，CCCCCCC、CCCC"
+    "template": "CCCCCCC，CCCCCCC、CCCC",
+    "sample_id": "fuxi_CG_122"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "闲里着忙，忙奔走，忙钻营，且看忙时景象",
     "output": "浓中寻淡，淡乾坤，淡世界，当思淡处心情",
-    "template": "CCCC，CCC，CCC，CCCCCC"
+    "template": "CCCC，CCC，CCC，CCCCCC",
+    "sample_id": "fuxi_CG_123"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "欲身廉当效清莲，不染污泥，身廉修党性",
     "output": "须品正乃行德政，能施甘雨，品正得民心",
-    "template": "CCCCCCC，CCCC，CCCCC"
+    "template": "CCCCCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_124"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "妙笔蘸春光，看发展浪潮，从昆山涌起",
     "output": "新弦弹富曲，赏繁荣景象，向画境延伸",
-    "template": "CCCCC，CCCCC，CCCCC"
+    "template": "CCCCC，CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_125"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "数理禅机，核芯天演自然，乡情感应多媒体",
     "output": "编程宇称，方寸海涵科学，警策威灵信息流",
-    "template": "CCCC，CCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_126"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "学准则，立党为民、一尘不染",
     "output": "做公仆，以苦当乐、两袖清风",
-    "template": "CCC，CCCC、CCCC"
+    "template": "CCC，CCCC、CCCC",
+    "sample_id": "fuxi_CG_127"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "咫尺戏台，生杀掠夺，贵贱辱荣，演出千秋事业",
     "output": "方寸场地，悲欢离合，哀愁怒喜，乐唱一代人情",
-    "template": "CCCC，CCCC，CCCC，CCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_128"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "壮志催人，壮景迷人，卌年赶海掀潮，万里涛声归远梦",
     "output": "廉风厉我，廉江醉我，百姓凝心聚力，千般气象耀南天",
-    "template": "CCCC，CCCC，CCCCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_129"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "战南阳、守襄阳、身当阳、枕洛阳，一生刚阳壮烈",
     "output": "兄玄德、弟翼德、释孟德、斩庞德，千秋至德无双",
-    "template": "CCC、CCC、CCC、CCC，CCCCCC"
+    "template": "CCC、CCC、CCC、CCC，CCCCCC",
+    "sample_id": "fuxi_CG_130"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "当留意八耻八荣，法大于天，勤政还须廉政",
     "output": "最关情一枝一叶，民亲若子，口碑即是丰碑",
-    "template": "CCCCCCC，CCCC，CCCCCC"
+    "template": "CCCCCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_131"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "远北燕，君南越，奉汉两称臣，首率多元崇大统",
     "output": "敦教化，励农耕，靖夷终尽瘁，骨香粤土范千秋",
-    "template": "CCC，CCC，CCCCC，CCCCCCC"
+    "template": "CCC，CCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_132"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "楼栖于万绿丛中，拥净水澄天，大抵仙居若此",
     "output": "吾醒自千秋梦里，指碧鸡金马，遑论逝者如斯",
-    "template": "CCCCCCC，CCCCC，CCCCCC"
+    "template": "CCCCCCC，CCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_133"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "但得山一角，泉一杯，足可推敲岁月",
     "output": "只求菊半篱，梅半径，何妨坐卧云天",
-    "template": "CCCCC，CCC，CCCCCC"
+    "template": "CCCCC，CCC，CCCCCC",
+    "sample_id": "fuxi_CG_134"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "浪浊波汹惊客旅，叹往昔渔夫，算几番雾锁吴樯，雪消楚舵",
     "output": "人流车织焕生机，看通途天堑，应回念情追范记，桥续滕功",
-    "template": "CCCCCCC，CCCCC，CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_135"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "乃和平使者，备历艰辛，须知同路并无孙大圣",
     "output": "称民族脊梁，何关功利，试问一生几拒唐太宗",
-    "template": "CCCCC，CCCC，CCCCCCCCC"
+    "template": "CCCCC，CCCC，CCCCCCCCC",
+    "sample_id": "fuxi_CG_136"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "抚景阅千秋，烂漫四时，领人间气象",
     "output": "邀诗吟万里，缤纷七彩，融韵内风情",
-    "template": "CCCCC，CCCC，CCCCC"
+    "template": "CCCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_137"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "百里赛场，诚邀四海英豪，五洲健将，众志成城襄盛会",
     "output": "九州福地，正喜三阳开泰，万象更新，群星鼎力铸丰碑",
-    "template": "CCCC，CCCCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_138"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "对天对地对民对国，铸成一座丰碑相报答，捐胆捐肝捐智慧",
     "output": "联古联今联水联山，开出千秋锦道共争荣，展诗展画展风光",
-    "template": "CCCCCCCC，CCCCCCCCC，CCCCCCC"
+    "template": "CCCCCCCC，CCCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_139"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "风卷松声过太行，华岳撑霄留千程险峻",
     "output": "云从青野连汾水，黄河入海牵九曲苍茫",
-    "template": "CCCCCCC，CCCCCCCCC"
+    "template": "CCCCCCC，CCCCCCCCC",
+    "sample_id": "fuxi_CG_140"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "锦绣春天、神州染碧",
     "output": "祥和奥运、青岛扬帆",
-    "template": "CCCC、CCCC"
+    "template": "CCCC、CCCC",
+    "sample_id": "fuxi_CG_141"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "新城市广场，迎八方宾客，聚千祥瑞气，享万富智慧新生活",
     "output": "兴禅都福地，接四面贵人，得六祖庇佑，建百顷楼盘兴家居",
-    "template": "CCCCC，CCCCC，CCCCC，CCCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_142"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "迎兔年，添兔智，争兔速，比兔灵，兔跃龙腾同效力",
     "output": "阅春色，沐春风，唱春歌，喝春酒，春华秋实总关情",
-    "template": "CCC，CCC，CCC，CCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_143"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "旧街建旧街、建古建今、今日旧街街不旧",
     "output": "新集修新集、修前修后、后期新集集常新",
-    "template": "CCCCC、CCCC、CCCCCCC"
+    "template": "CCCCC、CCCC、CCCCCCC",
+    "sample_id": "fuxi_CG_144"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "明月涉江楼，看汩汩春潮，漫书屈子情怀，滕王翰墨",
     "output": "疾风敲洞府，听潇潇夜雨，细诉盘瓠勇猛，辛女温柔",
-    "template": "CCCCC，CCCCC，CCCCCC，CCCC"
+    "template": "CCCCC，CCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_145"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "要使见闻多，一席满时，尽勾留北调英雄，南腔儿女",
     "output": "莫教风月老，十分好处，但献出壶中美酒，袖里鲜花",
-    "template": "CCCCC，CCCC，CCCCCCC，CCCC"
+    "template": "CCCCC，CCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_146"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "粒我烝民，衣我烝民，屋我烝民，先德殊丰，由是而家、而国、而天下",
     "output": "思吾赤帝，谒吾赤帝，颂吾赤帝，后昆何幸？于今沐露、沐阳、沐春风",
-    "template": "CCCC，CCCC，CCCC，CCCC，CCCC、CC、CCC"
+    "template": "CCCC，CCCC，CCCC，CCCC，CCCC、CC、CCC",
+    "sample_id": "fuxi_CG_147"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "拆，拆，拆，拆庙逐神，世上难容关圣帝",
     "output": "卖，卖，卖，卖钱谋利，人间偏认孔方兄",
-    "template": "C，C，C，CCCC，CCCCCCC"
+    "template": "C，C，C，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_148"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "山含泪，水呜咽，哀乐声中，祭当年屈死同胞，铭倭寇血仇国耻",
     "output": "角长鸣，鼓频响，红旗飘处，看此日扬威华夏，叫东瀛胆战心惊",
-    "template": "CCC，CCC，CCCC，CCCCCCC，CCCCCCC"
+    "template": "CCC，CCC，CCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_149"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "正能量沸腾神州大地",
     "output": "中国梦温馨枞邑人家",
-    "template": "CCCCCCCCC"
+    "template": "CCCCCCCCC",
+    "sample_id": "fuxi_CG_150"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "走四方未改乡音，溯祖寻根，八百里秦川迎客子",
     "output": "历万险犹存浩气，开来继往，几千年人物看今朝",
-    "template": "CCCCCCC，CCCC，CCCCCCCC"
+    "template": "CCCCCCC，CCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_151"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "穿大山，架大桥，拓大道，大兴四路，饮水不忘谁掘井",
     "output": "启新步，创新业，迈新程，新建两型，领航全仗党英明",
-    "template": "CCC，CCC，CCC，CCCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_152"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "日暖风和，燕莺入画，拥翠岭白云，唱渔歌几曲",
     "output": "鱼肥草美，山水迷人，钓闲情快意，执雅趣一竿",
-    "template": "CCCC，CCCC，CCCCC，CCCCC"
+    "template": "CCCC，CCCC，CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_153"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "居有楼，行有车，户户微机，网上喜开致富路",
     "output": "农无税，学无费，家家医保，梦中笑醒种田人",
-    "template": "CCC，CCC，CCCC，CCCCCCC"
+    "template": "CCC，CCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_154"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "舍身以救众生，末路相逢，佛云：我不入地狱，谁肯入地狱",
     "output": "抗议而存直道，人间何世？庄曰：披自为婴儿，亦与为婴儿",
-    "template": "CCCCCC，CCCC，CCCCCCCC，CCCCC"
+    "template": "CCCCCC，CCCC，CCCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_155"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "锅煮乾坤，问谁掰碎？东土日、西域月，一天星斗飨仙客",
     "output": "门接珠履，待我烹来：秦肥牛、陇羔羊，满店清香透古城",
-    "template": "CCCC，CCCCCCCC、CCC，CCCCCCC"
+    "template": "CCCC，CCCCCCCC、CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_156"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "逢七夕而寻故迹，若梦仙乡，恍听来陌上牛声，窗前梭响",
     "output": "俯千山以揽春风，如歌胜地，尽看得煤生异彩，城焕新辉",
-    "template": "CCCCCCC，CCCC，CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_157"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "仰瞻万世威仪，喜今朝，陵墓重修，翠柏苍松益蒸蔚",
     "output": "承继千秋绪祚，看此日，河山再造，民魂国运更昌隆",
-    "template": "CCCCCC，CCC，CCCC，CCCCCCC"
+    "template": "CCCCCC，CCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_158"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "玉阙流光，看翠涌红翻，锦绣纷呈，更藉联花添壮丽",
     "output": "祥云溢彩，喜国安家富，民情振奋，丕兴特色创辉煌",
-    "template": "CCCC，CCCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_159"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "辟路聚群英，得燕客风流，共其黑水白山，拓开北苑才无界",
     "output": "凭文飞逸兴，问知音意气，值此春来冬去，弹到梅花雪满琴",
-    "template": "CCCCC，CCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_160"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "所欲有甚于生，杀身成仁，人也",
     "output": "莫之而致者命，载胥及溺，天乎",
-    "template": "CCCCCC，CCCC，CC"
+    "template": "CCCCCC，CCCC，CC",
+    "sample_id": "fuxi_CG_161"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "撩动银河，七夕一年一度文星聚，我欲乘风来也",
     "output": "张扬帆影，千家万梦万珠书海逢，君当对月醉哉",
-    "template": "CCCC，CCCCCCCCC，CCCCCC"
+    "template": "CCCC，CCCCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_162"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "开先河以风云一号，遥感地球，测量不让尘埃遁",
     "output": "制重器圆梦想几多，近看人类，认识每随时日增",
-    "template": "CCCCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_163"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "抛弃旧包装，凝成万里宏图，千秋绝唱",
     "output": "拓开新境界，使得三门花艳，九曲河清",
-    "template": "CCCCC，CCCCCC，CCCC"
+    "template": "CCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_164"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "蜀都大地喜迎盛会，金玉遍天下",
     "output": "学府四川寓教一流，李桃环宇中",
-    "template": "CCCCCCCC，CCCCC"
+    "template": "CCCCCCCC，CCCCC",
+    "sample_id": "fuxi_CG_165"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "锥，锥，锥，锥出穷鬼去",
     "output": "拉，拉，拉，拉进财神来",
-    "template": "C，C，C，CCCCC"
+    "template": "C，C，C，CCCCC",
+    "sample_id": "fuxi_CG_166"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天分地合岂曾知？试问怪奇何世起",
     "output": "鬼斧神工焉晓得，乍惊诡异一时逢",
-    "template": "CCCCCCCCCCCCCCC"
+    "template": "CCCCCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_167"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "诗词严整，联语灵活，其中燕瘦环肥，各呈丽彩",
     "output": "闲者游山，能人下海，此处寻章摘句，亦遣情怀",
-    "template": "CCCC，CCCC，CCCCCC，CCCC"
+    "template": "CCCC，CCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_168"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "月亮会圆，梦想会圆，双思不怠，会当归故里",
     "output": "嫦娥何羡？吴刚何羡？一笑相逢，何似在人间",
-    "template": "CCCC，CCCC，CCCC，CCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_169"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天天低调，远读书，苦用心，三千竹宽乡村梦",
     "output": "日日维新，高立志，勤修业，第二泉滋草木春",
-    "template": "CCCC，CCC，CCC，CCCCCCC"
+    "template": "CCCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_170"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "上天堂，凌绝顶，腾云驾雾着霓裳，只觉身临仙境",
     "output": "观瀑布，赏奇花，涉水爬山穿锦绣，方知美在人间",
-    "template": "CCC，CCC，CCCCCCC，CCCCCC"
+    "template": "CCC，CCC，CCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_171"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "湖山一览，无限情怀；不由我胸中纳秋水落霞，欲与高天争旷阔",
     "output": "楼阁重新，倍增光彩；更待谁笔底掀长江后浪，敢同圣序比风流",
-    "template": "CCCC，CCCCCCCCCCCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCCCCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_172"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "龙笔再书蛇序，看致富铺宣，春风写意",
     "output": "凤台又促鹰扬，喜转型破壁，大业抟云",
-    "template": "CCCCCC，CCCCC，CCCC"
+    "template": "CCCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_173"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "锤击贪虎镰割稗草，锤镰更艳",
     "output": "内履严规外展清风，内外同钦",
-    "template": "CCCCCCCC，CCCC"
+    "template": "CCCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_174"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "民意岂沉沦？禹甸尧封，河山还我金汤固",
     "output": "人心当崛起，香江粤海，港澳归宗玉镜圆",
-    "template": "CCCCCCCCCC，CCCCCCC"
+    "template": "CCCCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_175"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "人文风物，名扬天下，欲悉几多佳客乐之，须从吴越春秋算起",
     "output": "古镇水乡，秀冠江南，偕行五柳醉翁归也，还将溪山湖月邀来",
-    "template": "CCCC，CCCC，CCCCCCCC，CCCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_176"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "母乳未曾竭，斯时路远山高，月寂漏幽，儿又是嗷嗷待哺",
     "output": "乡音依旧操，异地人殊事杂，南腔北调，魂平添落落寡欢",
-    "template": "CCCCC，CCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_177"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "先生出自下巴，不屈头颅，无愧硬茬，腰斩岂能成绝境",
     "output": "本色存于钢骨，独留气节，永酬猛志，后来依旧向刀锋",
-    "template": "CCCCCC，CCCC，CCCC，CCCCCCC"
+    "template": "CCCCCC，CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_178"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "放开眼界，若为忠、若为笑，恍读一家史记",
     "output": "参透机关，何以褒、何以贬？如诵全部春秋",
-    "template": "CCCC，CCC、CCC，CCCCCC"
+    "template": "CCCC，CCC、CCC，CCCCCC",
+    "sample_id": "fuxi_CG_179"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "世皆推宝器风华，谁曾溯上古渊源，追其化匠",
     "output": "吾自拟精钢气骨，何处寻纯炉烈火，淬我锋芒",
-    "template": "CCCCCCC，CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_180"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "即烧素菜牛羊猪鸡鸭肉，方便百姓",
     "output": "又做山珍海味猴头燕窝，供应嘉宾",
-    "template": "CCCCCCCCCC，CCCC"
+    "template": "CCCCCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_181"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "回眸七十年前，赴战火硝烟，听远东号角，何其雄壮",
     "output": "舍身三千里外，冒枪林弹雨，为中国征途，无比坚强",
-    "template": "CCCCCC，CCCCC，CCCCC，CCCC"
+    "template": "CCCCCC，CCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_182"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "地藏寺八百年旧迹犹存，誓度众生、誓成正觉",
     "output": "昆明市十万人偕乐之所，如游化雨、如登春台",
-    "template": "CCCCCCCCCC，CCCC、CCCC"
+    "template": "CCCCCCCCCC，CCCC、CCCC",
+    "sample_id": "fuxi_CG_183"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "美凤启新城，身化舟，行化碑，德化海",
     "output": "好人荣古邑，恩宜感，义宜守，勇宜嘉",
-    "template": "CCCCC，CCC，CCC，CCC"
+    "template": "CCCCC，CCC，CCC，CCC",
+    "sample_id": "fuxi_CG_184"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "莫嗟黄土埋愁，上宰厚佳人，近亭为处士衣冠，将军祠庙",
     "output": "大抵红颜薄命，西泠翻恨事，次第有焚诗瘦影，赴义芳魂",
-    "template": "CCCCCC，CCCCC，CCCCCCC，CCCC"
+    "template": "CCCCCC，CCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_185"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "写诗易，一吟三叹",
     "output": "作对难，万绪千头",
-    "template": "CCC，CCCC"
+    "template": "CCC，CCCC",
+    "sample_id": "fuxi_CG_186"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "我等本屠余生，日月重光，喜见新嘉定",
     "output": "诸君为国事死，乾坤正气，磅礴古神州",
-    "template": "CCCCCC，CCCC，CCCCC"
+    "template": "CCCCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_187"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "来，佛家道理仙家法",
     "output": "走，成事愚氓败事精",
-    "template": "C，CCCCCCC"
+    "template": "C，CCCCCCC",
+    "sample_id": "fuxi_CG_188"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "在天，看舞听歌曾有我",
     "output": "入世，吃糠咽菜怨得谁",
-    "template": "CC，CCCCCCC"
+    "template": "CC，CCCCCCC",
+    "sample_id": "fuxi_CG_189"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "无气无烟无味无声，低碳行、行通低碳道",
     "output": "省钱省事省心省力，老年乐、乐煞老年人",
-    "template": "CCCCCCCC，CCC、CCCCC"
+    "template": "CCCCCCCC，CCC、CCCCC",
+    "sample_id": "fuxi_CG_190"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "当愁且莫愁，数千秋过往、万里烟云，都归棋局内",
     "output": "似去未曾去，看四面莺花、一湖春水，皆是女儿心",
-    "template": "CCCCC，CCCCC、CCCC，CCCCC"
+    "template": "CCCCC，CCCCC、CCCC，CCCCC",
+    "sample_id": "fuxi_CG_191"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "创文明窗口，学法、依法、用法，于喀左县间，中国梦里",
     "output": "当税务新星，舒心、贴心、放心，在人民眼底，责任肩头",
-    "template": "CCCCC，CC、CC、CC，CCCCC，CCCC"
+    "template": "CCCCC，CC、CC、CC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_192"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "移小孝，作大忠，涕泪倚闾，见其出，不见其归，属纩应留无限憾",
     "output": "拼一身，为万众，勋名盖世，有此母，乃有此子，瓣香早慰在天灵",
-    "template": "CCC，CCC，CCCC，CCC，CCCC，CCCCCCC"
+    "template": "CCC，CCC，CCCC，CCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_193"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "顺天应势，改体制，拓市场，创品牌，津西威名扬四海",
     "output": "斩浪劈波，讲科学，合心力，描愿景，型钢基地誉五洲",
-    "template": "CCCC，CCC，CCC，CCC，CCCCCCC"
+    "template": "CCCC，CCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_194"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "几幅国画，龙不吟，虎不啸，花不馨香，鸟不叫，笑杀学士",
     "output": "一盘棋局，车无轮，马无足，炮无烟火，象无牙，闷死将军",
-    "template": "CCCC，CCC，CCC，CCCC，CCC，CCCC"
+    "template": "CCCC，CCC，CCC，CCCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_195"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "兰香则焚、膏明则煎，当今之世，难乎其为善",
     "output": "临财若浼、赴义若渴，吾党失君，命也复奚言",
-    "template": "CCCC、CCCC，CCCC，CCCCC"
+    "template": "CCCC、CCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_196"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "廿年引领群英，对艺比陈蓬，楹花万树开霞浦",
     "output": "一路弘扬国粹，联刊成大雅，文气四时漫闽东",
-    "template": "CCCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_197"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "茂盛仰乔松，喜逢明世，岁跨百龄，尤欣子肖孙贤，福如东海",
     "output": "樟香闻梓里，嘏祝仁翁，堂罗四代，齐颂椒繁瓜衍，寿比南山",
-    "template": "CCCCC，CCCC，CCCC，CCCCCC，CCCC"
+    "template": "CCCCC，CCCC，CCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_198"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "冰天雪地，一点红，梅花三弄",
     "output": "碧水青山，千般翠，柳絮万丝",
-    "template": "CCCC，CCC，CCCC"
+    "template": "CCCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_199"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "西递似船，满载流年岁月驶来，徽风民俗新时尚",
     "output": "故园如梦，齐吟昨日人文奋进，泰运春图好兆头",
-    "template": "CCCC，CCCCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_200"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "几点蹄声，总是人在他乡，梦归故里",
     "output": "千年鲁月，最怜古城春暖，驿站情浓",
-    "template": "CCCC，CCCCCC，CCCC"
+    "template": "CCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_201"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "怀旧事，观经典，论道名胜古迹，登黄鹤楼月明风清",
     "output": "庆佳节，寻浪漫，相约高山流水，品红金龙淡雅香醇",
-    "template": "CCC，CCC，CCCCCC，CCCCCCCC"
+    "template": "CCC，CCC，CCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_202"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "君君臣臣，商商量量，对对对",
     "output": "姐姐妹妹，整整齐齐，排排排",
-    "template": "CCCC，CCCC，CCC"
+    "template": "CCCC，CCCC，CCC",
+    "sample_id": "fuxi_CG_203"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "开悍马，饮茅台，唱大江东去",
     "output": "晓鸣鸡，挥宝剑，值弯月宇悬",
-    "template": "CCC，CCC，CCCCC"
+    "template": "CCC，CCC，CCCCC",
+    "sample_id": "fuxi_CG_204"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "新月如新月，志摩志摩天，诗似清风，徐徐生腕底",
     "output": "青年类青年，独秀独秀岭，文同长剑，阵阵破夜空",
-    "template": "CCCCC，CCCCC，CCCC，CCCCC"
+    "template": "CCCCC，CCCCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_205"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春工真不浅，相兼暄暖归，绿涨涨，红垂垂，香点点",
     "output": "桃萼已芳菲，正好嬉游去，燕喃喃，蜂簇簇，蝶飞飞",
-    "template": "CCCCC，CCCCC，CCC，CCC，CCC"
+    "template": "CCCCC，CCCCC，CCC，CCC，CCC",
+    "sample_id": "fuxi_CG_206"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "得季高之厚，承少伯之优，堆金玉红顶加身，足使鸿才誉商圣",
     "output": "荣华衮则成，沦布衣则败，看兴衰青烟过眼，亦为贾道壮模型",
-    "template": "CCCCC，CCCCC，CCCCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_207"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "迎新年、树新风，优生更优育",
     "output": "辞旧岁、移旧习，为国也为家",
-    "template": "CCC、CCC，CCCCC"
+    "template": "CCC、CCC，CCCCC",
+    "sample_id": "fuxi_CG_208"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "妙法，常施十方世界",
     "output": "大悲，不舍一切众生",
-    "template": "CC，CCCCCC"
+    "template": "CC，CCCCCC",
+    "sample_id": "fuxi_CG_209"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "思以往，科学发展，业绩惊天动地",
     "output": "望未来，舵手导航，政风裕后光前",
-    "template": "CCC，CCCC，CCCCCC"
+    "template": "CCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_210"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "哭公岂以私？共说长城摧万里",
     "output": "论交乌能已，独挥别泪滴重泉",
-    "template": "CCCCCCCCCCCCC"
+    "template": "CCCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_211"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "弹指间我亦为过客，想当年点将兴邦，风云叱咤",
     "output": "会心处谁还记劫尘？看此地古碑新宇，山水清佳",
-    "template": "CCCCCCCC，CCCCCCC，CCCC"
+    "template": "CCCCCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_212"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "度清宵，醉清秋，弄清影，看芳桂波娑，无数浮云皆过眼",
     "output": "澄玉宇，凝玉露，转玉盘，对霜天廖廓，几回明月正当头",
-    "template": "CCC，CCC，CCC，CCCCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_213"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "公其倦于勤乎？清乡在黄石矶头，并无暇日",
     "output": "天胡夺之速也？问字到乌衣巷口，空剩斜阳",
-    "template": "CCCCCCCCCCCCCC，CCCC"
+    "template": "CCCCCCCCCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_214"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "画槛倚丹霄，将古战今争，新愁旧恨，都付白云卷去",
     "output": "高楼迎丽日，听江声笛韵，秧鼓菱歌，尽随黄鹤归来",
-    "template": "CCCCC，CCCCC，CCCC，CCCCCC"
+    "template": "CCCCC，CCCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_215"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "惟女子与小人为难养也",
     "output": "有寡妇见鳏夫而欲嫁之",
-    "template": "CCCCCCCCCC"
+    "template": "CCCCCCCCCC",
+    "sample_id": "fuxi_CG_216"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "日照艳阳天，云飘红叶苑，风吹柳絮情，月映乌衣巷",
     "output": "春游芳草地，夏赏绿荷池，秋饮黄花酒，冬吟白雪诗",
-    "template": "CCCCC，CCCCC，CCCCC，CCCCC"
+    "template": "CCCCC，CCCCC，CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_217"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "社稷和谐，重在施仁政，合公心，践履自由平等",
     "output": "人民幸福，当须守法规，抛俗念，经行友善文明",
-    "template": "CCCC，CCCCC，CCC，CCCCCC"
+    "template": "CCCC，CCCCC，CCC，CCCCCC",
+    "sample_id": "fuxi_CG_218"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "钓水，钓山，钓风情，野村穷钓客",
     "output": "贪钱，贪物，贪美色，乡府老贪官",
-    "template": "CC，CC，CCC，CCCCC"
+    "template": "CC，CC，CCC，CCCCC",
+    "sample_id": "fuxi_CG_219"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "汉学重师承，守王高邮父子渊源，更以茶香继平议",
     "output": "粤邦精训诂，有惠仲儒诗书门径，益从藻鉴励真材",
-    "template": "CCCCC，CCCCCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_220"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "韶山日丽，乌石云蒸，毓秀钟灵誉五洲，心胸装满十分民意",
     "output": "电厂飞花，钢城织锦，腾辉耀彩靓三楚，荧幕化成万象风姿",
-    "template": "CCCC，CCCC，CCCCCCC，CCCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_221"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "九州风正暖，八月曲尤酣，乘兴看：国防绿皴民政卷",
     "output": "双拥酒长醇，三门情愈醉，举杯祝：锦绣红璨峡城天",
-    "template": "CCCCC，CCCCC，CCCCCCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCCCCCCCC",
+    "sample_id": "fuxi_CG_222"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "嬉笑怒骂皆文章，问当年所读何书？笔底江山助磅礴",
     "output": "城郭人民几代谢，胜地此清游载酒，楼前风月自春秋",
-    "template": "CCCCCCC，CCCCCCCCCCCCCCC"
+    "template": "CCCCCCC，CCCCCCCCCCCCCCC",
+    "sample_id": "fuxi_CG_223"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "傍水而居，江风从脚下吹来，美梦狂驰胜地",
     "output": "凭楼远眺，龙气自胸中吐出，豪情直遏蓝天",
-    "template": "CCCC，CCCCCCC，CCCCCC"
+    "template": "CCCC，CCCCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_224"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "孤鸿可拟吾身，佳节恐登高，一抹浮云、生来与寄",
     "output": "野菊悄开遍地，芬芳终带冷，千山暮色、谢去谁知",
-    "template": "CCCCCC，CCCCC，CCCC、CCCC"
+    "template": "CCCCCC，CCCCC，CCCC、CCCC",
+    "sample_id": "fuxi_CG_225"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大美斯文，三百年诲我中华，多孝多贤，多忠多义",
     "output": "聿新今代，万千众因其嘉训，敦仁敦礼，敦信敦诚",
-    "template": "CCCC，CCCCCCC，CCCC，CCCC"
+    "template": "CCCC，CCCCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_226"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "扶汉鼎长延正统，忠义人生，令三教同尊，九流共仰",
     "output": "走麦城不碍英名，传奇故事，引千秋神化，无尽戏说",
-    "template": "CCCCCCC，CCCC，CCCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_227"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "边城逐风云，转瞬间兵戎皆休；惟旌旗不折、英雄不死",
     "output": "辰州收剑气，铭心处策勋犹在；看江山如此、大道如斯",
-    "template": "CCCCC，CCCCCCCCCCCCC、CCCC"
+    "template": "CCCCC，CCCCCCCCCCCCC、CCCC",
+    "sample_id": "fuxi_CG_228"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "种数十亩义田，惠施如公，慷慨直追范文正",
     "output": "编二百年族谱，剞劂授我，规模长忆苏眉山",
-    "template": "CCCCCC，CCCC，CCCCCCC"
+    "template": "CCCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_229"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "落雪梨花一地香，甚喜",
     "output": "接天荷叶无穷碧，壮观",
-    "template": "CCCCCCC，CC"
+    "template": "CCCCCCC，CC",
+    "sample_id": "fuxi_CG_230"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "廿三年，美少年，联林探秘，家山留清梦",
     "output": "十五夜，聚中夜，国粹放歌，寿诞正当时",
-    "template": "CCC，CCC，CCCC，CCCCC"
+    "template": "CCC，CCC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_231"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "晃山挥笔，舞水遣词，特写大文章，展于风雨桥边，鼓楼脚下",
     "output": "游客听歌，商家创业，平添新气象，融在民族情里，时尚潮中",
-    "template": "CCCC，CCCC，CCCCC，CCCCCC，CCCC"
+    "template": "CCCC，CCCC，CCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_232"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "生有大功在乡，其死足令为善者惧",
     "output": "殁而崇祀于社，不言可得人心所同",
-    "template": "CCCCCC，CCCCCCCC"
+    "template": "CCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_233"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一而十，十而百，百而千，千千万万",
     "output": "工则巧，巧则优，优则久，久久长长",
-    "template": "CCC，CCC，CCC，CCCC"
+    "template": "CCC，CCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_234"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "和为贵，和国、和邦、和亲、和友，和衷共济，人人成活佛",
     "output": "顺乃昌，顺天、顺地、顺世、顺民，顺势而行，处处涌祥光",
-    "template": "CCC，CC、CC、CC、CC，CCCC，CCCCC"
+    "template": "CCC，CC、CC、CC、CC，CCCC，CCCCC",
+    "sample_id": "fuxi_CG_235"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "李广射石，弓虽强，石更硬",
     "output": "禹王出手，水尚淌，手难摊",
-    "template": "CCCC，CCC，CCC"
+    "template": "CCCC，CCC，CCC",
+    "sample_id": "fuxi_CG_236"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "从诗酒书画中见本真，别有闲情谢太傅",
     "output": "于江湖廊庙间同忧乐，不忘天下范希文",
-    "template": "CCCCCCCCC，CCCCCCC"
+    "template": "CCCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_237"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "欲知古邑崇文史，但看千载瓷窑，千秋贡院",
     "output": "莫问定州尚德风，且赏一方庙宇，一曲秧歌",
-    "template": "CCCCCCC，CCCCCC，CCCC"
+    "template": "CCCCCCC，CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_238"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "以名父子，生宰相家，有德业事功、文章气节",
     "output": "当中兴年，祝无量寿，是英雄儒雅、富贵神仙",
-    "template": "CCCC，CCCC，CCCCC、CCCC"
+    "template": "CCCC，CCCC，CCCCC、CCCC",
+    "sample_id": "fuxi_CG_239"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "倒海翻江，乱灌",
     "output": "偷天换日，瞎蒙",
-    "template": "CCCC，CC"
+    "template": "CCCC，CC",
+    "sample_id": "fuxi_CG_240"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "勤以耕耘，牛鞭舞，牛气高，顺自然以任牛蹄迈",
     "output": "勇而跨越，虎胆扬，虎威壮，循科学而将虎翼添",
-    "template": "CCCC，CCC，CCC，CCCCCCCC"
+    "template": "CCCC，CCC，CCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_241"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "朝内笑无人，也只消和议一条，哄信他屡代庸君，头甘日压",
     "output": "闺中夸有妇，怪不得冤词三字，听随你专房宠眷，舌惯天欺",
-    "template": "CCCCC，CCCCCCC，CCCCCCC，CCCC"
+    "template": "CCCCC，CCCCCCC，CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_242"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "集古今精萃联作于一编，抉隐钩沉，真乃史无前例",
     "output": "成中外新奇版本之盛事，呕心沥血，斯诚德惠后人",
-    "template": "CCCCCCCCCC，CCCC，CCCCCC"
+    "template": "CCCCCCCCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_243"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "想当年抗战保疆，革命先驱忘死舍生，赢胜利曙光初吐",
     "output": "看今日开来继往，弄潮后辈扬鞭策马，创辉煌夙愿终圆",
-    "template": "CCCCCCC，CCCCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_244"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "俯首告神农，继五千季功德，复兴梦欲圆，且喜英豪齐给力",
     "output": "高声呼圣帝，看九万里江山，崛起图初见，当欣儿女尽扬眉",
-    "template": "CCCCC，CCCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_245"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "最堪怜誉共苏辛、才齐屈宋，十年宦海七年贬",
     "output": "不枉赋飞花似梦、细雨如愁，一代词风百代摹",
-    "template": "CCCCCCC、CCCC，CCCCCCC"
+    "template": "CCCCCCC、CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_246"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "功东高速，提速东川，格勒码头崛起昆明北部",
     "output": "河谷春光，增光谷地，堂狼古邑腾飞华夏南方",
-    "template": "CCCC，CCCC，CCCCCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCCCCC",
+    "sample_id": "fuxi_CG_247"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "日里千人拱手划船，齐歌狂吼川江号子",
     "output": "夜间百舸点灯敬佛，漫饮轻吟巴岳清音",
-    "template": "CCCCCCCC，CCCCCCCC"
+    "template": "CCCCCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_248"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "地近秦淮，看碧水蓝天，一行白鹭飞来何处",
     "output": "门临闹市，入红楼翠馆，四海旅人宾至如归",
-    "template": "CCCC，CCCCC，CCCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_249"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一径春烟烹柳色",
     "output": "半弯溪水映桃花",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_250"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "崤山聚首，搭优势平台，异彩三门春正好",
     "output": "中部联姻，促良缘盛事，神州六骏梦同圆",
-    "template": "CCCC，CCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_251"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "楼阁淡疏烟，炉中百和添香兽",
     "output": "河汉湛秋碧，云天万里看归鸿",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_252"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "欢声笑语六神聚",
     "output": "淡饭粗茶五谷和",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_253"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "墨润晨曦，泉声漱石空山静",
     "output": "意融松壑，岚气吐清妙境开",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_254"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "晨明鸡唱晓",
     "output": "水暖鸭知春",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_255"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "红无百日，独有心花开四季",
     "output": "墨守成规，但凭往事越千年",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_256"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "调鼎鼐以振雷霆，难忘一页南湖史",
     "output": "奋锤镰而披风雨，永励千秋中国魂",
-    "template": "CCCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_257"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "古道寒鸦噪",
     "output": "闲池老鹤栖",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_258"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "光阴冉冉能多少",
     "output": "岁月匆匆有几何",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_259"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "十代荣封绵世德",
     "output": "二朝联桂振扶风",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_260"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "遗像肃清高，有陨自天，电戟霜戈沉浩气",
     "output": "新祠严壮烈，持忠入地，疾风劲草识纯臣",
-    "template": "CCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_261"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "众意欣然，舒畅民心迎盛会",
     "output": "党恩浩荡，昌隆国运祝神州",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_262"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "想来想去，往事随风情似水",
     "output": "花落花开，残笺付火案生尘",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_263"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "曲径通幽常得趣",
     "output": "前途无望总伤心",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_264"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "庆云复旦尧天乐",
     "output": "洪水分流禹甸荣",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_265"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春驻山城，善政惠民民点赞",
     "output": "国扬正气，良谋服众众归心",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_266"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "几剪烟霞拼作画",
     "output": "一篮春色兑成诗",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_267"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "朵朵芳云，鱼目无分，沧浪独歌天老子",
     "output": "团团玉露，仙家九酝，清风不占洞庭波",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_268"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "伤积在骨何依托",
     "output": "情结成茧怎生抽",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_269"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "牛鬼蛇神穿马甲",
     "output": "妖魔怪兽化天仙",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_270"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "其巧在古倕以上",
     "output": "所居介帝君之间",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_271"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "笔淡文章老",
     "output": "人微言语轻",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_272"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "檐扉四面空中起",
     "output": "山翠千重窗里来",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_273"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "诗文满腹堪夸富",
     "output": "道义两肩不惧穷",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_274"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "性水澄清，由分别而混动",
     "output": "识波奔涌，凭念佛以停凝",
-    "template": "CCCC，CCCCCC"
+    "template": "CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_275"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "寒梅笑傲青春梦",
     "output": "知己欣逢醉酒歌",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_276"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "善待他人，宽容总在心中长",
     "output": "苛求自己，天地犹从足下伸",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_277"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "仙音律作云中品",
     "output": "雅韵风流月下吟",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_278"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "久候诗门外",
     "output": "相逢月殿中",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_279"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "千秋钓艇歌明月",
     "output": "一径松声彻上层",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_280"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "折朵心花随墨舞",
     "output": "留分诗土待闲耕",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_281"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一帘风月一帘梦",
     "output": "何处楼台何处家",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_282"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "满屋笑声中，情于帮教里",
     "output": "万家灯火处，爱在进行时",
-    "template": "CCCCC，CCCCC"
+    "template": "CCCCC，CCCCC",
+    "sample_id": "fuxi_CG_283"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "万株花卉，争妍斗奇，呈彩送香，全靠阳光甘露",
     "output": "九柱云龙，呼风唤雨，稔年足岁，还凭勤恪廉明",
-    "template": "CCCC，CCCC，CCCC，CCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_284"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "入镜鸾窥沼",
     "output": "归心燕在梁",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_285"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "岁月轮回，黄海波涛犹涌恨",
     "output": "硝烟未远，金陵屈辱永锥心",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_286"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "细雨流光，孕石涧春芽，竹影松风菊露，听涛阁上回桥月",
     "output": "苍台弃履，调犀杯酒色，梅妻鹤子鸥盟，洗砚池头浸墨花",
-    "template": "CCCC，CCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_287"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "中道修心堪治国",
     "output": "仁风入梦好齐家",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_288"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "青鬓玉颜长似旧",
     "output": "鸳鸯翡翠两争新",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_289"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "兰蕙质，柳絮才，冰雪心，柏舟操，世上应多奇女子",
     "output": "习胡经，听天籁，了夙愿，观鹤舞，胸中岂少道空人",
-    "template": "CCC，CCC，CCC，CCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_290"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "群峰各有峥嵘色",
     "output": "碧落常怀坦荡心",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_291"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "人间福至金蛇舞",
     "output": "大地春回骏马奔",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_292"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "杜门谢客草堂静",
     "output": "华府点灯春意浓",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_293"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "多情皓月星为伴",
     "output": "百炼横刀剑作妻",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_294"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "萤光点点，欲与月华争光辉",
     "output": "霞彩霭霭，以予畴色盖彩袍",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_295"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "花径不曾缘客扫",
     "output": "山形依旧枕江流",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_296"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "龙卧心有待",
     "output": "鹏抟力未通",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_297"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "龙身贯日生奇景",
     "output": "蛇影凌云化壮观",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_298"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "教鞭指拨，心明眼亮九州赤子",
     "output": "粉笔撑开，栋正梁直一宇青天",
-    "template": "CCCC，CCCCCCCC"
+    "template": "CCCC，CCCCCCCC",
+    "sample_id": "fuxi_CG_299"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "燕踏帘钩情未绝",
     "output": "春撩心事梦难成",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_300"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "雨过月明，顷刻呈来新境界",
     "output": "天昏地暗，须臾不见旧江山",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_301"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "登楼白有诗，四海佳肴皆入韵",
     "output": "醉客何须酒？满城古色总开怀",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_302"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天国遗珠，撒落苗都星七点",
     "output": "乌江涌翠，添来彭水韵三分",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_303"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "雪映人憔悴",
     "output": "琴音鸟呆痴",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_304"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "驻山门不止云深，欣其嘉木繁花，一路生机皆梵训",
     "output": "邻斗室亦多蝉唱，象以龙文贝叶，漫天法雨到灵台",
-    "template": "CCCCCCC，CCCCCC，CCCCCCC"
+    "template": "CCCCCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_305"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "程气争雄添锦绣",
     "output": "惊魂对垒竞芳菲",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_306"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "海阔山高百程送",
     "output": "云幢烟节十洲人",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_307"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "出水莲花好雅致",
     "output": "带泥萝卜才新鲜",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_308"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "治水禹王功，看龙伏波平，赫赫千秋歌大业",
     "output": "富民政策好，喜鱼香稻熟，熙熙百姓乐丰年",
-    "template": "CCCCC，CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_309"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "须长胡一刀",
     "output": "风入林则徐",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_310"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "不到长城非好汉",
     "output": "久闻贵馆有佳人",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_311"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "时雨欢畅春色醉",
     "output": "和风流韵山歌酣",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_312"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "石窟藏龙求进化",
     "output": "草原赛马守习俗",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_313"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "诗是有声画",
     "output": "月如无语她",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_314"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一叶秋声山脊瘦",
     "output": "半溪云影水心幽",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_315"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "妙思心口十少女",
     "output": "鲜花化草现鱼羊",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_316"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春鸟有言率和乐",
     "output": "上林无树不森沉",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_317"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "七弦为益友",
     "output": "六义出风骚",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_318"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "囊中灵物，赤绳拴赤脚，定牵龙女身依柳",
     "output": "月下婚书，白纸誓白头，何忍湘妃泪染竹",
-    "template": "CCCC，CCCCC，CCCCCCC"
+    "template": "CCCC，CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_319"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "豺报肃明禋，如在其上",
     "output": "骏奔严对越，允服厥中",
-    "template": "CCCCC，CCCC"
+    "template": "CCCCC，CCCC",
+    "sample_id": "fuxi_CG_320"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "云眸落泪千山雨",
     "output": "海嘴喷油百库钱",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_321"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "慕仰历代名家，诗书一体",
     "output": "弘扬中华文化，德艺双馨",
-    "template": "CCCCCC，CCCC"
+    "template": "CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_322"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "笑脸盈盈，奇子绘描甜美画",
     "output": "晓声点点，芳心吟诵幸福诗",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_323"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "莫做石雕，昂首向天，自高自大，乐取人间诗万句",
     "output": "且学碇步，俯身于水，同德同心，甘铺脚下路千条",
-    "template": "CCCC，CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_324"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "思来妙计安天下",
     "output": "辞去高官归故乡",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_325"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "两岸青山卧江底",
     "output": "一行白鹭上蓝天",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_326"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "关上兰亭六个面",
     "output": "拨开花蕊三层心",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_327"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "偶陪上阁鹓鸾会",
     "output": "新管江南山水来",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_328"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "临涧古松巢野鹤",
     "output": "傍溪清榭赏闲蛙",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_329"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "征收依大法，心系民生，袖里清风肩上任",
     "output": "纳献秉真情，功昌国运，源头活水锦中花",
-    "template": "CCCCC，CCCC，CCCCCCC"
+    "template": "CCCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_330"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "讥世文章知遇少",
     "output": "过人才学奉承多",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_331"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "雨后桃花，几分妩媚几分醉",
     "output": "风中柳絮，一点相思一点愁",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_332"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一派青峰，峰峰素韵源天地",
     "output": "诸般丽景，景景奇观出自然",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_333"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "廉风吹落贪官帽",
     "output": "清袖甩开小人名",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_334"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "政虽失道，学却有声，迟来自怨自艾，三尺白绫泉路恨",
     "output": "生已尽忠，死当无憾，后挽诚惶诚恐，两行珠泪故人悲",
-    "template": "CCCC，CCCC，CCCCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_335"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "盘瓠神奇，世代相传，沅水真情谁诉说",
     "output": "屈原浪漫，风骚独领，泸溪远梦客追寻",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_336"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "香残梦断秋霜后",
     "output": "酒绿灯红月夜时",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_337"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "夜袭珍珠港",
     "output": "天成龙凤胎",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_338"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "不把瑶华借风月",
     "output": "暂留琼佩卧烟霞",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_339"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "彩绘膏盐磷画卷，看壮美山川，辉煌国梦",
     "output": "遍吹孝善信春风，醉文明社会，幸福民生",
-    "template": "CCCCCCC，CCCCC，CCCC"
+    "template": "CCCCCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_340"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "发扬民主，关爱民生，公正公平为榜样",
     "output": "创造和谐，建成和美，反污反腐作标兵",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_341"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "惜花宜起早",
     "output": "爱月要迟眠",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_342"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "野竹分青霭",
     "output": "春潭浴乱星",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_343"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "谈笑自若",
     "output": "痛痒相关",
-    "template": "CCCC"
+    "template": "CCCC",
+    "sample_id": "fuxi_CG_344"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "到处探幽，午桥最胜",
     "output": "逢时行乐，卯饮亦佳",
-    "template": "CCCC，CCCC"
+    "template": "CCCC，CCCC",
+    "sample_id": "fuxi_CG_345"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "凤翔万水声威远",
     "output": "凰翥千山气势高",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_346"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "临胜境见瑰奇，题诗绝壁",
     "output": "入迷途知失误，勒马悬崖",
-    "template": "CCCCCC，CCCC"
+    "template": "CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_347"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "风正民心顺",
     "output": "人和国日安",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_348"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "人到中年火正旺",
     "output": "时逢大岁土多灾",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_349"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "开发风力，利用光能，十里风光十里景",
     "output": "涵养水源，珍惜土地，一方水土一方人",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_350"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "钱撂银行，尽享轻松，九曲涛声堪作枕",
     "output": "手持金卡，任由潇洒，无边云路敢为家",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_351"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "山炫斑斓色",
     "output": "水彰妩媚姿",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_352"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一朵心花逐日开，缤纷四季",
     "output": "半枝梦笔自天落，浩荡千行",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_353"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "山！山！突兀回环罗翠黛",
     "output": "水！水！奔流激荡画丹青",
-    "template": "CCCCCCCCCCC"
+    "template": "CCCCCCCCCCC",
+    "sample_id": "fuxi_CG_354"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "人才战略优先，强国战术",
     "output": "民保安生为本，乐业安居",
-    "template": "CCCCCC，CCCC"
+    "template": "CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_355"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "天上人间，无猜花月两相恨",
     "output": "古往今来，有幸芝兰交错结",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_356"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "翠拥云山伶侑酒",
     "output": "屏开月槛客题楼",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_357"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "拈花一笑谁曾悟",
     "output": "入墨三更我吟诗",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_358"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "是惊雷，拖载身躯飘瀚海",
     "output": "如闪电，劈开黑暗透希光",
-    "template": "CCC，CCCCCCC"
+    "template": "CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_359"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "以仁义为师，行止堪追至圣",
     "output": "有图书做伴，厅堂亦是尼山",
-    "template": "CCCCC，CCCCCC"
+    "template": "CCCCC，CCCCCC",
+    "sample_id": "fuxi_CG_360"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "红梅绽早，怕与春风成陌路",
     "output": "飞雪多情，自随空谷共白头",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_361"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "倜傥风流，文章三件，上下横批行自在",
     "output": "和谐整饬，规矩二关，仄平对仗势从容",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_362"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "树价值观，民心同向核心聚",
     "output": "走复兴路，家梦欣随国梦圆",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_363"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "千里有缘存一念",
     "output": "百年无分莫相思",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_364"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大海荡波波久荡",
     "output": "小溪流水水长流",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_365"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "储金备急",
     "output": "积谷防荒",
-    "template": "CCCC"
+    "template": "CCCC",
+    "sample_id": "fuxi_CG_366"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "日本满朝当反省",
     "output": "烟花三月下扬州",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_367"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "曾游天井，歌好梦华风绿",
     "output": "细品芦溪，杏香山韵蜜红",
-    "template": "CCCC，CCCCCC"
+    "template": "CCCC，CCCCCC",
+    "sample_id": "fuxi_CG_368"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "昂首奋蹄，马到千家喜",
     "output": "傲霜斗雪，梅开万点春",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_369"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "得授菩提记",
     "output": "安住广大心",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_370"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "田翁杖酒还如梦",
     "output": "朝士归帆且趁秋",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_371"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "我欲五湖游，却怜范蠡舟偏小",
     "output": "客思四海去，总恨王乔鹤不群",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_372"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "国宝三希两地藏，云烟共养，弟兄共赏",
     "output": "门规尺赎千家立，雨露同沾，儿女同薰",
-    "template": "CCCCCCC，CCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_373"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "老实才精彩",
     "output": "滑头易倒霉",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_374"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "声声爆竹声声喜",
     "output": "阵阵春风阵阵歌",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_375"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "苦盼郎归，每唤登临，心中只恨东山矮",
     "output": "遥思雁去，频添怅慨，石上长留脚印深",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_376"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "香草美人，误入离骚句",
     "output": "双飞连理，竟成长恨歌",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_377"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "怀抱昆仑云纵笔",
     "output": "目牵日月雨涤笺",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_378"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "岁月已苍茫，惟靠千佛，尚知古道",
     "output": "洞窟长寂寞，还期一日，再起禅音",
-    "template": "CCCCC，CCCC，CCCC"
+    "template": "CCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_379"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "金匾生辉，茶兼四百人文味",
     "output": "骏图竞彩，堂共十年天地春",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_380"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "高阁月低乡梦远",
     "output": "长亭春晓柳丝疏",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_381"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "有意诗中垂雅趣",
     "output": "无心画里钓功名",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_382"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一径飞红雨",
     "output": "千林散绿荫",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_383"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "赊副醉联还酒债",
     "output": "编些鬼话送人情",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_384"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "金穗飘香，粮丰林茂南都景",
     "output": "农行给力，镇富村兴盛世春",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_385"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "岱岳顶巅观喷薄",
     "output": "霜花篱畔采悠然",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_386"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "生态果蔬园，绿农风景千张画",
     "output": "人文根祖地，神韵元谋一首诗",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_387"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "弹指春秋老",
     "output": "回头战马稀",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_388"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "闲时莫做无聊事",
     "output": "偷刻公章小秘书",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_389"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "贪看白鹭横秋浦",
     "output": "不觉青林没暮潮",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_390"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "蜜蜂酿蜂蜜",
     "output": "皮蛋含蛋皮",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_391"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "党旗高举，映红作者千钧笔",
     "output": "讲话导航，鼓起文坛万里帆",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_392"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "奇株异卉玲珑地",
     "output": "水色山光方寸间",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_393"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "生花妙笔春风妒",
     "output": "出水娇荷夏日欢",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_394"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "义必仁慈，供养因缘证十二",
     "output": "心无邪癖，庄严世界开三千",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_395"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "水墨妆楼，疑似荔都邻歙县",
     "output": "诗联映翠，方知愉苑胜桃源",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_396"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "中兴齐鲁地，千年儒德八方仰",
     "output": "都是舜尧天，一塔金光万众歌",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_397"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "秋水问天知趣否",
     "output": "彩云追月为情乎",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_398"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "过门何须策短",
     "output": "及腹犹恃鞭长",
-    "template": "CCCCCC"
+    "template": "CCCCCC",
+    "sample_id": "fuxi_CG_399"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "飞花款款依流水",
     "output": "落叶凄凄傍愁云",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_400"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "文韬武略双及第",
     "output": "国计民生百进言",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_401"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "贞子重来妖魅减",
     "output": "乃哥依旧赌徒多",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_402"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "鼓风吹绿厂外柳",
     "output": "炉火映红心中花",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_403"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "六神无主干啥去",
     "output": "一见钟情有意思",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_404"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "万树梨花春落雪",
     "output": "千山细雨草凝香",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_405"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "嵌取珠玑称妙谛",
     "output": "名添锦绣实清幽",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_406"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "雨润三春景",
     "output": "田生五谷丰",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_407"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "悟道参元，福田香国",
     "output": "明心见性，水月江天",
-    "template": "CCCC，CCCC"
+    "template": "CCCC，CCCC",
+    "sample_id": "fuxi_CG_408"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "红雨随心翻作浪",
     "output": "青山着意化为桥",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_409"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "香能醉眼，秀自怡心，一山胜景融文翰",
     "output": "高不凌人，幽堪化物，三教清音涤垢尘",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_410"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "题梅用尽骚人墨",
     "output": "养竹洞穿隐士庐",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_411"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "摇篮装满爱",
     "output": "把盏碰真情",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_412"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "度天度地度人，还先度己",
     "output": "评色评香评味，最后评分",
-    "template": "CCCCCC，CCCC"
+    "template": "CCCCCC，CCCC",
+    "sample_id": "fuxi_CG_413"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "举杯歌幸福",
     "output": "向党报恩情",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_414"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "夺汉宇而遗世",
     "output": "借江川以遁形",
-    "template": "CCCCCC"
+    "template": "CCCCCC",
+    "sample_id": "fuxi_CG_415"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大圣登天回上界",
     "output": "金鸡接任到神州",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_416"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "高低莫论长和短",
     "output": "寒暑无妨雨或晴",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_417"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "当兵不怕风霜苦",
     "output": "创业全凭意志坚",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_418"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春水曾经寒士院",
     "output": "落花偏到妙僧头",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_419"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "玉轮光满大千界",
     "output": "华夏梦圆方寸心",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_420"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "荒桥断浦斜阳下",
     "output": "倦柳愁荷淡月边",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_421"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "圆融修大道",
     "output": "巧妙整微机",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_422"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "燕剪春风青入舍",
     "output": "莺鸣柳色绿盈窗",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_423"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "栖身东海心以静",
     "output": "面壁西山性存真",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_424"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "人无远虑",
     "output": "必有近忧",
-    "template": "CCCC"
+    "template": "CCCC",
+    "sample_id": "fuxi_CG_425"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一阁擎旗，已领枞川新气象",
     "output": "三峰架笔，再题桐派大文章",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_426"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "曲水高天，百里春光呈画意",
     "output": "空山幽谷，一窗暮景入文章",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_427"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "字不传神空费墨",
     "output": "文如有味自流芳",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_428"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "脚下白云沉谷底",
     "output": "杯中皓月落心间",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_429"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一池碧水寒凝玉",
     "output": "几树桃花艳引蜂",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_430"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "悲鸿夜落高云岭",
     "output": "巨匠魂归离恨天",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_431"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "佛当敬，神当敬，非贤毋敬",
     "output": "钱也捐，物也捐，唯德不捐",
-    "template": "CCC，CCC，CCCC"
+    "template": "CCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_432"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "银钩玉唾，张市诗情生妙笔",
     "output": "萍水相逢，豫园倩影念殷玲",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_433"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "恋人先恋志",
     "output": "为国即为家",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_434"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "好在品尝方得体",
     "output": "勤于炒作却无名",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_435"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "吟诗撰对求佳句",
     "output": "赏月观花忆旧情",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_436"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "孔思周情深似海",
     "output": "仙风道骨瘦如柴",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_437"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "国宝三希两地藏，云烟共养，弟兄共赏",
     "output": "文珍四库双宫奉，霞霭同生，骨肉同兴",
-    "template": "CCCCCCC，CCCC，CCCC"
+    "template": "CCCCCCC，CCCC，CCCC",
+    "sample_id": "fuxi_CG_438"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "牛刀笔小试牛刀，厥词大放",
     "output": "马掌柜专钉马掌，生意不多",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_439"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "开窗风送句",
     "output": "闭帐月窥人",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_440"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "往事纷飞烟雨里",
     "output": "黄昏寂寞小楼中",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_441"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "策杖云端寻鹤影",
     "output": "垂纶水面钓闲情",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_442"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "姑后古禅无女",
     "output": "村前寸木不生",
-    "template": "CCCCCC"
+    "template": "CCCCCC",
+    "sample_id": "fuxi_CG_443"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "四野佛光随槛起",
     "output": "一缘禅意入斋来",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_444"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "李家自古名诗客",
     "output": "秋月多娇布馥馨",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_445"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "云山叠翠应施主",
     "output": "佛祖拨珠盼故人",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_446"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "月上簟如水",
     "output": "溪边人浣纱",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_447"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "诗书千载筑荣光，尤辉两宋",
     "output": "风物双江滋胜概，更耀三山",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_448"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "顶天立地，劲松傲苍穹",
     "output": "绝后空前，仙鹤展英姿",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_449"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "沐习习春薰，鸳鸯谷里赏民俗",
     "output": "伴萧萧骏马，会源桥边听古风",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_450"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "泽润丽春荣万物",
     "output": "馨香华夏乐千和",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_451"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "越王勾践，传欧阳一脉",
     "output": "居士醉翁，列唐宋八家",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_452"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "太和是福，丹心相印神仙侣",
     "output": "平淡乃真，青眼互凝伉俪情",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_453"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "不伐有巢树",
     "output": "多移无主花",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_454"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "顺天时，应地利，聚人心，善政惠民春永驻",
     "output": "崇厚德，树新风，兴伟业，锦程跃马梦同圆",
-    "template": "CCC，CCC，CCC，CCCCCCC"
+    "template": "CCC，CCC，CCC，CCCCCCC",
+    "sample_id": "fuxi_CG_455"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "嘉施利，根动力，再接再厉",
     "output": "勇创新，业精心，甘苦甘辛",
-    "template": "CCC，CCC，CCCC"
+    "template": "CCC，CCC，CCCC",
+    "sample_id": "fuxi_CG_456"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "夜接词人赋华屋",
     "output": "晴看稚子浴清江",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_457"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一丘一壑红尘远",
     "output": "无雨无晴心境宽",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_458"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "聚族安仁里",
     "output": "兴家庆德门",
-    "template": "CCCCC"
+    "template": "CCCCC",
+    "sample_id": "fuxi_CG_459"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "佳人纤手心如玉",
     "output": "秀士巧舌口若河",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_460"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "秋风瑟瑟吹残烛",
     "output": "杜宇声声叹夕阳",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_461"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "喜爆千声歌盛世",
     "output": "金鸡三遍报新春",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_462"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一泓碧水过云山，神仙沐浴",
     "output": "满目清烟遮绿树，王子偷听",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_463"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "月下花间，丽人愁捧黄藤酒",
     "output": "宫中殿前，名妾长歌金缕衣",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_464"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春波荡漾联出境",
     "output": "秋水涟漪笔生花",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_465"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "舌尖梦醒啧春味",
     "output": "笔底诗洇泻燕姿",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_466"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "瑞勰珠躔，琼宫辉紫气",
     "output": "祥凝玉陛，璇极拱丹枢",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_467"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "身披霞彩沐馨风，都来此地",
     "output": "人步花丛寻野趣，乐在其中",
-    "template": "CCCCCCC，CCCC"
+    "template": "CCCCCCC，CCCC",
+    "sample_id": "fuxi_CG_468"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "正气增威，廉泉增色",
     "output": "民情若水，铁律若山",
-    "template": "CCCC，CCCC"
+    "template": "CCCC，CCCC",
+    "sample_id": "fuxi_CG_469"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "水墨丹青，烟雨江南春纵笔",
     "output": "宋词元曲，云霓岸北柳横琴",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_470"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "四海寻根，溯血脉传承，皆缘后土",
     "output": "千秋垂泽，念文明递嬗，共仰慈恩",
-    "template": "CCCC，CCCCC，CCCC"
+    "template": "CCCC，CCCCC，CCCC",
+    "sample_id": "fuxi_CG_471"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "陈留一案诗笺瘦",
     "output": "收取满篱菊梦香",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_472"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "清箫幽咽寒山晚",
     "output": "黄叶飘零雁字遥",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_473"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "竹舍台阶春早到",
     "output": "烟村柳岸燕先来",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_474"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "大肚能容，汉人此际皆胡化",
     "output": "虚心未已，阁老斯时也温情",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_475"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "知春莫过河边柳",
     "output": "送绿无非槛外风",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_476"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "五岳览风云，足行万里知仍浅",
     "output": "三余消寂寞，书读千回味不同",
-    "template": "CCCCC，CCCCCCC"
+    "template": "CCCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_477"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "春思几寸凭谁问",
     "output": "烟雨一帘入梦寒",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_478"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "万众欢腾诚祭海",
     "output": "千帆竞发喜开渔",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_479"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "落花残照晚春景",
     "output": "醉舞欢歌银汉长",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_480"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "庆发柳编，织环球友谊",
     "output": "大禹理念，铸治淮丰碑",
-    "template": "CCCC，CCCCC"
+    "template": "CCCC，CCCCC",
+    "sample_id": "fuxi_CG_481"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "化宇承平，山川清美",
     "output": "文章盛世，日月光华",
-    "template": "CCCC，CCCC"
+    "template": "CCCC，CCCC",
+    "sample_id": "fuxi_CG_482"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "倚坝扬名，倚坝同兴，明珠璀璨三门峡",
     "output": "临湖摄影，临湖共庆，墨客风骚四季书",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_483"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "窗外鸟啼春日暖",
     "output": "庭前花丽午风和",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_484"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "风行商界，誉满京城，名流雅士常盈座",
     "output": "荟萃外中，融集南北，佳品珍馐最可人",
-    "template": "CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_485"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "舟分碧水花香路",
     "output": "燕剪春风柳献媚",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_486"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "清官扬德福天下",
     "output": "廉政惩贪兴古今",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_487"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "已到暮年，名曰悼亡实偕老",
     "output": "不妨多病，君今先去我遗留",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_488"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "胸藏丘壑境方阔",
     "output": "笔蘸沧桑意始高",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_489"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "轻愁一季花无梦",
     "output": "冷淡于心霜失情",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_490"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "一炉香来皆蓬岛",
     "output": "三尺剑去尽葛藤",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_491"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "农夫弄笛吹牛上",
     "output": "卜叟求签逗鸟中",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_492"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "留春于境，积福于民，溢彩飘香，打造四时新喀左",
     "output": "保洁之城，争荣之地，钟灵毓秀，催生一个美江南",
-    "template": "CCCC，CCCC，CCCC，CCCCCCC"
+    "template": "CCCC，CCCC，CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_493"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "梅雨洗刷长青树",
     "output": "柳烟掩映小红桥",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_494"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "男女情深成一对",
     "output": "夫妻义重敬双亲",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_495"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "言志抒情，两行文字千秋业",
     "output": "挥毫泼墨，五岳烟霞万副联",
-    "template": "CCCC，CCCCCCC"
+    "template": "CCCC，CCCCCCC",
+    "sample_id": "fuxi_CG_496"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "三代五王垂简册",
     "output": "崇祠圣像壮观瞻",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_497"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "宝刀不老生寒气",
     "output": "骏马长嘶唱大风",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_498"
   },
   {
     "instruction": "对对联，请根据上联生成下联。",
     "input": "慈眉善目春风送",
     "output": "法雨祥云大道开",
-    "template": "CCCCCCC"
+    "template": "CCCCCCC",
+    "sample_id": "fuxi_CG_499"
   }
 ]

@@ -2,2766 +2,3319 @@
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "乌龟落秤盘",
-    "output": "自称自"
+    "output": "自称自",
+    "sample_id": "fuxi_ASQA_0"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "看衣裳行事",
-    "output": "狗眼看人"
+    "output": "狗眼看人",
+    "sample_id": "fuxi_ASQA_1"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "夹子上的老鼠",
-    "output": "没跑；跑不了"
+    "output": "没跑；跑不了",
+    "sample_id": "fuxi_ASQA_2"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "亲戚是把锯",
-    "output": "你有来，我有去"
+    "output": "你有来，我有去",
+    "sample_id": "fuxi_ASQA_3"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃饭舔碗边",
-    "output": "穷相毕露；吝啬鬼"
+    "output": "穷相毕露；吝啬鬼",
+    "sample_id": "fuxi_ASQA_4"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "黑瞎子捧刺猬",
-    "output": "碰到棘手事"
+    "output": "碰到棘手事",
+    "sample_id": "fuxi_ASQA_5"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "棺材里放屁",
-    "output": "臭死人"
+    "output": "臭死人",
+    "sample_id": "fuxi_ASQA_6"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "口吞擀面杖",
-    "output": "横了心"
+    "output": "横了心",
+    "sample_id": "fuxi_ASQA_7"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "仙姑思凡",
-    "output": "心野了"
+    "output": "心野了",
+    "sample_id": "fuxi_ASQA_8"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蜜糖抹在鼻尖上",
-    "output": "看不到，吃不着"
+    "output": "看不到，吃不着",
+    "sample_id": "fuxi_ASQA_9"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "佛多香少",
-    "output": "供不应求"
+    "output": "供不应求",
+    "sample_id": "fuxi_ASQA_10"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二郎爷的笛子",
-    "output": "神吹"
+    "output": "神吹",
+    "sample_id": "fuxi_ASQA_11"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大白天打劫",
-    "output": "明目张胆"
+    "output": "明目张胆",
+    "sample_id": "fuxi_ASQA_12"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "冬瓜皮做帽子",
-    "output": "滑头；滑头滑脑"
+    "output": "滑头；滑头滑脑",
+    "sample_id": "fuxi_ASQA_13"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "箩筐盛石灰",
-    "output": "处处留迹"
+    "output": "处处留迹",
+    "sample_id": "fuxi_ASQA_14"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "能字添四点",
-    "output": "熊样"
+    "output": "熊样",
+    "sample_id": "fuxi_ASQA_15"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "妹妹穿姐姐的鞋",
-    "output": "一模一样；没什么两样"
+    "output": "一模一样；没什么两样",
+    "sample_id": "fuxi_ASQA_16"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "受潮的米花糖",
-    "output": "皮了"
+    "output": "皮了",
+    "sample_id": "fuxi_ASQA_17"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛤蟆嘴下落苍蝇",
-    "output": "自送一口肉；送来的口食"
+    "output": "自送一口肉；送来的口食",
+    "sample_id": "fuxi_ASQA_18"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老母猪下棋",
-    "output": "瞧你那笨脑瓜"
+    "output": "瞧你那笨脑瓜",
+    "sample_id": "fuxi_ASQA_19"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "糊涂官判案",
-    "output": "是非不清"
+    "output": "是非不清",
+    "sample_id": "fuxi_ASQA_20"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老牛身上拔根毛",
-    "output": "微不足道"
+    "output": "微不足道",
+    "sample_id": "fuxi_ASQA_21"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "腰里挂算盘",
-    "output": "光为自己打算"
+    "output": "光为自己打算",
+    "sample_id": "fuxi_ASQA_22"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "恶老婆告状",
-    "output": "有理说不清；讲不清道理"
+    "output": "有理说不清；讲不清道理",
+    "sample_id": "fuxi_ASQA_23"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "元宵掉进糨糊盆",
-    "output": "糊涂蛋"
+    "output": "糊涂蛋",
+    "sample_id": "fuxi_ASQA_24"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "捂着鼻子讲卫生",
-    "output": "不闻不问"
+    "output": "不闻不问",
+    "sample_id": "fuxi_ASQA_25"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "死后谈功过",
-    "output": "盖棺论定"
+    "output": "盖棺论定",
+    "sample_id": "fuxi_ASQA_26"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚊虫遭扇打",
-    "output": "吃了嘴的亏；全坏在嘴上"
+    "output": "吃了嘴的亏；全坏在嘴上",
+    "sample_id": "fuxi_ASQA_27"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "庙小菩萨大",
-    "output": "盛不下"
+    "output": "盛不下",
+    "sample_id": "fuxi_ASQA_28"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "牙痛贴膏药",
-    "output": "胡摆治"
+    "output": "胡摆治",
+    "sample_id": "fuxi_ASQA_29"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二姑娘上轿",
-    "output": "忸忸怩怩"
+    "output": "忸忸怩怩",
+    "sample_id": "fuxi_ASQA_30"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "灶王爷贴在腿肚子上",
-    "output": "人走家搬；搬家"
+    "output": "人走家搬；搬家",
+    "sample_id": "fuxi_ASQA_31"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "热窝炒豆子",
-    "output": "熟一个，蹦一个"
+    "output": "熟一个，蹦一个",
+    "sample_id": "fuxi_ASQA_32"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "脚底长疮",
-    "output": "寸步难行"
+    "output": "寸步难行",
+    "sample_id": "fuxi_ASQA_33"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耗子拱墙根",
-    "output": "没缝打缝"
+    "output": "没缝打缝",
+    "sample_id": "fuxi_ASQA_34"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛤蟆拉车",
-    "output": "没后劲"
+    "output": "没后劲",
+    "sample_id": "fuxi_ASQA_35"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老牛掉进深泥潭",
-    "output": "不能自拔"
+    "output": "不能自拔",
+    "sample_id": "fuxi_ASQA_36"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打破脑袋不喊痛",
-    "output": "充硬汉"
+    "output": "充硬汉",
+    "sample_id": "fuxi_ASQA_37"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "王八吃秤砣",
-    "output": "铁了心"
+    "output": "铁了心",
+    "sample_id": "fuxi_ASQA_38"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "戳破了的灯泡",
-    "output": "冒火"
+    "output": "冒火",
+    "sample_id": "fuxi_ASQA_39"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "母猪遛（liu）土豆",
-    "output": "全凭一张嘴；全仗嘴"
+    "output": "全凭一张嘴；全仗嘴",
+    "sample_id": "fuxi_ASQA_40"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "不倒翁沏茶",
-    "output": "没水平"
+    "output": "没水平",
+    "sample_id": "fuxi_ASQA_41"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "生铁换豆腐",
-    "output": "吃软不吃硬"
+    "output": "吃软不吃硬",
+    "sample_id": "fuxi_ASQA_42"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "深山的石头",
-    "output": "有的是；多的是"
+    "output": "有的是；多的是",
+    "sample_id": "fuxi_ASQA_43"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "卖瓜的夸瓜甜，卖鱼的夸鱼鲜",
-    "output": "自卖自夸"
+    "output": "自卖自夸",
+    "sample_id": "fuxi_ASQA_44"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "卖豆芽的抖搂筐",
-    "output": "干净利索"
+    "output": "干净利索",
+    "sample_id": "fuxi_ASQA_45"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老虎烧香",
-    "output": "冒充善人"
+    "output": "冒充善人",
+    "sample_id": "fuxi_ASQA_46"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "风里点灯",
-    "output": "不久长；难长久"
+    "output": "不久长；难长久",
+    "sample_id": "fuxi_ASQA_47"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "城隍老爷拉胡琴",
-    "output": "鬼扯"
+    "output": "鬼扯",
+    "sample_id": "fuxi_ASQA_48"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "逗哑巴挨口水",
-    "output": "自找没趣"
+    "output": "自找没趣",
+    "sample_id": "fuxi_ASQA_49"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瘟神下界",
-    "output": "百姓遭难；四方遭灾"
+    "output": "百姓遭难；四方遭灾",
+    "sample_id": "fuxi_ASQA_50"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "两口子回门",
-    "output": "成双成对"
+    "output": "成双成对",
+    "sample_id": "fuxi_ASQA_51"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "孙猴钻进铁扇公主肚子里",
-    "output": "心腹之患"
+    "output": "心腹之患",
+    "sample_id": "fuxi_ASQA_52"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "菩萨的胡须",
-    "output": "人造的"
+    "output": "人造的",
+    "sample_id": "fuxi_ASQA_53"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二四六八十",
-    "output": "无独有偶"
+    "output": "无独有偶",
+    "sample_id": "fuxi_ASQA_54"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃了豹子胆",
-    "output": "胆子大"
+    "output": "胆子大",
+    "sample_id": "fuxi_ASQA_55"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "苍蝇找屎克螂做亲",
-    "output": "臭味相投"
+    "output": "臭味相投",
+    "sample_id": "fuxi_ASQA_56"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穿旗袍跳芭蕾舞",
-    "output": "中西结合"
+    "output": "中西结合",
+    "sample_id": "fuxi_ASQA_57"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耳聋鼻塞嘴哑",
-    "output": "一窍不通"
+    "output": "一窍不通",
+    "sample_id": "fuxi_ASQA_58"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老虎吃蜻蜓",
-    "output": "不过瘾"
+    "output": "不过瘾",
+    "sample_id": "fuxi_ASQA_59"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "小孩子过家家",
-    "output": "一会儿好，一会儿坏"
+    "output": "一会儿好，一会儿坏",
+    "sample_id": "fuxi_ASQA_60"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老太太的鞋",
-    "output": "前紧后松"
+    "output": "前紧后松",
+    "sample_id": "fuxi_ASQA_61"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "烟囱里屙屎",
-    "output": "臭气熏天；出臭风头"
+    "output": "臭气熏天；出臭风头",
+    "sample_id": "fuxi_ASQA_62"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "兔子扒窝",
-    "output": "安家落户"
+    "output": "安家落户",
+    "sample_id": "fuxi_ASQA_63"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "看到草绳就喊蛇",
-    "output": "大惊小怪"
+    "output": "大惊小怪",
+    "sample_id": "fuxi_ASQA_64"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "对着墙壁走路",
-    "output": "没门儿；无门"
+    "output": "没门儿；无门",
+    "sample_id": "fuxi_ASQA_65"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "小狗娃跌屎坑",
-    "output": "饱餐一顿"
+    "output": "饱餐一顿",
+    "sample_id": "fuxi_ASQA_66"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "带泥的萝",
-    "output": "有点土气"
+    "output": "有点土气",
+    "sample_id": "fuxi_ASQA_67"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡蛋掉油缸",
-    "output": "圆滑"
+    "output": "圆滑",
+    "sample_id": "fuxi_ASQA_68"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "青蛙闹塘",
-    "output": "吵闹不休"
+    "output": "吵闹不休",
+    "sample_id": "fuxi_ASQA_69"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "强盗过后安弓箭",
-    "output": "没用处；没得用"
+    "output": "没用处；没得用",
+    "sample_id": "fuxi_ASQA_70"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃猪肉念佛经",
-    "output": "假善人"
+    "output": "假善人",
+    "sample_id": "fuxi_ASQA_71"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瘸驴配破磨",
-    "output": "两将就"
+    "output": "两将就",
+    "sample_id": "fuxi_ASQA_72"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蜈蚣吃蝎子",
-    "output": "以毒攻毒"
+    "output": "以毒攻毒",
+    "sample_id": "fuxi_ASQA_73"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "豁子喝米汤",
-    "output": "无耻（齿）下流"
+    "output": "无耻（齿）下流",
+    "sample_id": "fuxi_ASQA_74"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "杀猪不褪毛",
-    "output": "先吹起来看"
+    "output": "先吹起来看",
+    "sample_id": "fuxi_ASQA_75"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "唐僧的龙马",
-    "output": "腾云驾雾"
+    "output": "腾云驾雾",
+    "sample_id": "fuxi_ASQA_76"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "发了霉的葡萄",
-    "output": "一肚子坏水"
+    "output": "一肚子坏水",
+    "sample_id": "fuxi_ASQA_77"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛤蟆被牛踩",
-    "output": "浑身是伤"
+    "output": "浑身是伤",
+    "sample_id": "fuxi_ASQA_78"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "杯水救燎原",
-    "output": "无济于事；微不足道"
+    "output": "无济于事；微不足道",
+    "sample_id": "fuxi_ASQA_79"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "森林里生火",
-    "output": "就地取材（柴）"
+    "output": "就地取材（柴）",
+    "sample_id": "fuxi_ASQA_80"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "当兵的背算盘",
-    "output": "找仗（账）打"
+    "output": "找仗（账）打",
+    "sample_id": "fuxi_ASQA_81"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "长衫改夹袄",
-    "output": "取长补短"
+    "output": "取长补短",
+    "sample_id": "fuxi_ASQA_82"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耳朵眼里灌稀饭",
-    "output": "混淆视听"
+    "output": "混淆视听",
+    "sample_id": "fuxi_ASQA_83"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "马蜂窝",
-    "output": "捅不得"
+    "output": "捅不得",
+    "sample_id": "fuxi_ASQA_84"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "太阳落在脑袋上",
-    "output": "大难临头"
+    "output": "大难临头",
+    "sample_id": "fuxi_ASQA_85"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "歪头看戏怪台斜",
-    "output": "无理取闹"
+    "output": "无理取闹",
+    "sample_id": "fuxi_ASQA_86"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大虫口里夺脆骨，骊龙颌下取明珠",
-    "output": "好大胆；好大的胆子；找死"
+    "output": "好大胆；好大的胆子；找死",
+    "sample_id": "fuxi_ASQA_87"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "寒暑表里的水银柱",
-    "output": "能上能下"
+    "output": "能上能下",
+    "sample_id": "fuxi_ASQA_88"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "唐三藏读佛经",
-    "output": "出口成章"
+    "output": "出口成章",
+    "sample_id": "fuxi_ASQA_89"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "金漆马桶",
-    "output": "外面光，里面臭"
+    "output": "外面光，里面臭",
+    "sample_id": "fuxi_ASQA_90"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耗子窟窿",
-    "output": "填不满"
+    "output": "填不满",
+    "sample_id": "fuxi_ASQA_91"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "起重机吊竹篮",
-    "output": "不值一提"
+    "output": "不值一提",
+    "sample_id": "fuxi_ASQA_92"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "借钱还债",
-    "output": "堵不完的窟窿"
+    "output": "堵不完的窟窿",
+    "sample_id": "fuxi_ASQA_93"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "相声表演",
-    "output": "笑话连篇"
+    "output": "笑话连篇",
+    "sample_id": "fuxi_ASQA_94"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "号手出身",
-    "output": "会吹"
+    "output": "会吹",
+    "sample_id": "fuxi_ASQA_95"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "粪堆上长灵芝",
-    "output": "臭得出奇"
+    "output": "臭得出奇",
+    "sample_id": "fuxi_ASQA_96"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "唱戏的拜天地",
-    "output": "一会儿的夫妻"
+    "output": "一会儿的夫妻",
+    "sample_id": "fuxi_ASQA_97"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "眼睛里的沙子",
-    "output": "容不得"
+    "output": "容不得",
+    "sample_id": "fuxi_ASQA_98"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "糊涂老板糊涂账",
-    "output": "难算；算不清"
+    "output": "难算；算不清",
+    "sample_id": "fuxi_ASQA_99"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "腰里拴扁担",
-    "output": "横行一方"
+    "output": "横行一方",
+    "sample_id": "fuxi_ASQA_100"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃萝卜喝烧酒",
-    "output": "千干脆脆"
+    "output": "千干脆脆",
+    "sample_id": "fuxi_ASQA_101"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "流水簿做袍子",
-    "output": "浑身是债；满身都是帐"
+    "output": "浑身是债；满身都是帐",
+    "sample_id": "fuxi_ASQA_102"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "媒婆迷了路",
-    "output": "没说的"
+    "output": "没说的",
+    "sample_id": "fuxi_ASQA_103"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "绣花被面补裤子",
-    "output": "大材小用"
+    "output": "大材小用",
+    "sample_id": "fuxi_ASQA_104"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "豆腐饨骨头",
-    "output": "不软不硬"
+    "output": "不软不硬",
+    "sample_id": "fuxi_ASQA_105"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "怀揣金子",
-    "output": "心里沉重"
+    "output": "心里沉重",
+    "sample_id": "fuxi_ASQA_106"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "龙王爷的帮手",
-    "output": "虾兵蟹将"
+    "output": "虾兵蟹将",
+    "sample_id": "fuxi_ASQA_107"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "花篮里装泥鳅",
-    "output": "跑的跑，溜的溜"
+    "output": "跑的跑，溜的溜",
+    "sample_id": "fuxi_ASQA_108"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "箅子（bi zi有空隙而能起间隔作用的器具。）上取窝头",
-    "output": "十拿九稳"
+    "output": "十拿九稳",
+    "sample_id": "fuxi_ASQA_109"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "拆房卖瓦",
-    "output": "只顾眼前"
+    "output": "只顾眼前",
+    "sample_id": "fuxi_ASQA_110"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "铁勺子烙饼",
-    "output": "供不上嘴"
+    "output": "供不上嘴",
+    "sample_id": "fuxi_ASQA_111"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "牢房里赌博",
-    "output": "一错再错"
+    "output": "一错再错",
+    "sample_id": "fuxi_ASQA_112"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "灶门前干活",
-    "output": "煽（扇）风点火"
+    "output": "煽（扇）风点火",
+    "sample_id": "fuxi_ASQA_113"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耗子爬竹竿",
-    "output": "一节节来"
+    "output": "一节节来",
+    "sample_id": "fuxi_ASQA_114"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "绒球敲锣",
-    "output": "打不响"
+    "output": "打不响",
+    "sample_id": "fuxi_ASQA_115"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大年初一拜年",
-    "output": "你好我也好（比喻不肯得罪人）"
+    "output": "你好我也好（比喻不肯得罪人）",
+    "sample_id": "fuxi_ASQA_116"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "秤砣碰铁蛋",
-    "output": "硬对硬"
+    "output": "硬对硬",
+    "sample_id": "fuxi_ASQA_117"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "城隍庙里朝观音",
-    "output": "走错了门"
+    "output": "走错了门",
+    "sample_id": "fuxi_ASQA_118"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "讲课还是老一套",
-    "output": "屡教不改"
+    "output": "屡教不改",
+    "sample_id": "fuxi_ASQA_119"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "石灰布袋",
-    "output": "处处留迹"
+    "output": "处处留迹",
+    "sample_id": "fuxi_ASQA_120"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "请木匠补锅",
-    "output": "用人不当"
+    "output": "用人不当",
+    "sample_id": "fuxi_ASQA_121"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "猛张飞舞刀",
-    "output": "杀气腾腾"
+    "output": "杀气腾腾",
+    "sample_id": "fuxi_ASQA_122"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大海里吐唾沫",
-    "output": "不显眼"
+    "output": "不显眼",
+    "sample_id": "fuxi_ASQA_123"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打铁卖糖",
-    "output": "各干一行"
+    "output": "各干一行",
+    "sample_id": "fuxi_ASQA_124"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "上梁请了箍桶匠",
-    "output": "找错了人"
+    "output": "找错了人",
+    "sample_id": "fuxi_ASQA_125"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二齿钩子挠痒",
-    "output": "一把硬手；是把硬手"
+    "output": "一把硬手；是把硬手",
+    "sample_id": "fuxi_ASQA_126"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "半夜鸡叫",
-    "output": "乱了时辰"
+    "output": "乱了时辰",
+    "sample_id": "fuxi_ASQA_127"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "骑马找判官",
-    "output": "马上见鬼"
+    "output": "马上见鬼",
+    "sample_id": "fuxi_ASQA_128"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛤蟆的眼睛",
-    "output": "突出"
+    "output": "突出",
+    "sample_id": "fuxi_ASQA_129"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鱼吞香饵",
-    "output": "不知有钩"
+    "output": "不知有钩",
+    "sample_id": "fuxi_ASQA_130"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "河南到河北",
-    "output": "两省"
+    "output": "两省",
+    "sample_id": "fuxi_ASQA_131"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "揍鸡毛",
-    "output": "壮但（装掸）子"
+    "output": "壮但（装掸）子",
+    "sample_id": "fuxi_ASQA_132"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "月亮地里晒谷子",
-    "output": "阴干；将就天"
+    "output": "阴干；将就天",
+    "sample_id": "fuxi_ASQA_133"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "阎王桌上抓供果",
-    "output": "送死"
+    "output": "送死",
+    "sample_id": "fuxi_ASQA_134"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "肚子里长笋",
-    "output": "胸有成竹"
+    "output": "胸有成竹",
+    "sample_id": "fuxi_ASQA_135"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "过河拆桥",
-    "output": "忘恩负义"
+    "output": "忘恩负义",
+    "sample_id": "fuxi_ASQA_136"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "小两口观灯",
-    "output": "喜气盈盈"
+    "output": "喜气盈盈",
+    "sample_id": "fuxi_ASQA_137"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "开水里捞肥皂",
-    "output": "全凭手快"
+    "output": "全凭手快",
+    "sample_id": "fuxi_ASQA_138"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "电焊的火花",
-    "output": "看不得"
+    "output": "看不得",
+    "sample_id": "fuxi_ASQA_139"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "哈巴狗掉进茅坑里",
-    "output": "饱餐一顿"
+    "output": "饱餐一顿",
+    "sample_id": "fuxi_ASQA_140"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瘸子爬山",
-    "output": "步步难；东倒西歪"
+    "output": "步步难；东倒西歪",
+    "sample_id": "fuxi_ASQA_141"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "黑心的萝卜",
-    "output": "坏透了"
+    "output": "坏透了",
+    "sample_id": "fuxi_ASQA_142"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "冬天的蚂蚁",
-    "output": "不露头"
+    "output": "不露头",
+    "sample_id": "fuxi_ASQA_143"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "十字路口贴告示",
-    "output": "众所周知"
+    "output": "众所周知",
+    "sample_id": "fuxi_ASQA_144"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "病人装进棺材",
-    "output": "不可救药"
+    "output": "不可救药",
+    "sample_id": "fuxi_ASQA_145"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "三条腿的蛤蟆",
-    "output": "怪物；与众不同"
+    "output": "怪物；与众不同",
+    "sample_id": "fuxi_ASQA_146"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "漫山的杜鹃",
-    "output": "红火的一片；一片红火"
+    "output": "红火的一片；一片红火",
+    "sample_id": "fuxi_ASQA_147"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚂蚁吃萤火虫",
-    "output": "亮在肚里"
+    "output": "亮在肚里",
+    "sample_id": "fuxi_ASQA_148"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "敲山震虎",
-    "output": "瞎咋唬"
+    "output": "瞎咋唬",
+    "sample_id": "fuxi_ASQA_149"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "病床上摘牡丹",
-    "output": "临死还贪花"
+    "output": "临死还贪花",
+    "sample_id": "fuxi_ASQA_150"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "杨家将出征",
-    "output": "全家都上；一齐出动；男女老少齐上阵"
+    "output": "全家都上；一齐出动；男女老少齐上阵",
+    "sample_id": "fuxi_ASQA_151"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "光脚丫进冰窖",
-    "output": "凉到底了"
+    "output": "凉到底了",
+    "sample_id": "fuxi_ASQA_152"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "五尺深的浑水潭",
-    "output": "看不透"
+    "output": "看不透",
+    "sample_id": "fuxi_ASQA_153"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "月亮地里晒被单",
-    "output": "白搭"
+    "output": "白搭",
+    "sample_id": "fuxi_ASQA_154"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "用斗量糠",
-    "output": "不声不响"
+    "output": "不声不响",
+    "sample_id": "fuxi_ASQA_155"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "算卦先生的葫芦",
-    "output": "肚里有鬼"
+    "output": "肚里有鬼",
+    "sample_id": "fuxi_ASQA_156"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "堵住笼子抓鸡",
-    "output": "稳拿"
+    "output": "稳拿",
+    "sample_id": "fuxi_ASQA_157"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "原子弹炸鸟",
-    "output": "大材小用"
+    "output": "大材小用",
+    "sample_id": "fuxi_ASQA_158"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "新鞋打掌子",
-    "output": "多余"
+    "output": "多余",
+    "sample_id": "fuxi_ASQA_159"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "中了状元招驸马",
-    "output": "好事成双；喜上加喜"
+    "output": "好事成双；喜上加喜",
+    "sample_id": "fuxi_ASQA_160"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蜘蛛结网，耗子打洞",
-    "output": "各有各的主意"
+    "output": "各有各的主意",
+    "sample_id": "fuxi_ASQA_161"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "叫牛坐板凳",
-    "output": "办不到；没法办，"
+    "output": "办不到；没法办，",
+    "sample_id": "fuxi_ASQA_162"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "惊蛰后的青竹索",
-    "output": "越来越凶"
+    "output": "越来越凶",
+    "sample_id": "fuxi_ASQA_163"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "玉帝讨河神",
-    "output": "尽是天兵天将"
+    "output": "尽是天兵天将",
+    "sample_id": "fuxi_ASQA_164"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "嘴巴里藏刀子",
-    "output": "出口伤人"
+    "output": "出口伤人",
+    "sample_id": "fuxi_ASQA_165"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "煮坏的饺子",
-    "output": "露馅了"
+    "output": "露馅了",
+    "sample_id": "fuxi_ASQA_166"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二郎神的慧眼",
-    "output": "有远见"
+    "output": "有远见",
+    "sample_id": "fuxi_ASQA_167"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "马尾穿豆腐",
-    "output": "没法提；提不得；别提了"
+    "output": "没法提；提不得；别提了",
+    "sample_id": "fuxi_ASQA_168"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "额头角上搁扁担",
-    "output": "头挑"
+    "output": "头挑",
+    "sample_id": "fuxi_ASQA_169"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "墙上一棵草",
-    "output": "两边倒"
+    "output": "两边倒",
+    "sample_id": "fuxi_ASQA_170"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "矮子放屁",
-    "output": "低声下气"
+    "output": "低声下气",
+    "sample_id": "fuxi_ASQA_171"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "猪八戒西天取经",
-    "output": "三心二意"
+    "output": "三心二意",
+    "sample_id": "fuxi_ASQA_172"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "不是鱼死，就是网破",
-    "output": "有你无我"
+    "output": "有你无我",
+    "sample_id": "fuxi_ASQA_173"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "木刻的苦罗汉",
-    "output": "难得一笑"
+    "output": "难得一笑",
+    "sample_id": "fuxi_ASQA_174"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "遇到老翁叫大哥",
-    "output": "没大没小"
+    "output": "没大没小",
+    "sample_id": "fuxi_ASQA_175"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "筛子做锅盖",
-    "output": "心眼多；气不打一处来；到处泄气"
+    "output": "心眼多；气不打一处来；到处泄气",
+    "sample_id": "fuxi_ASQA_176"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "满口镶金牙",
-    "output": "嘴里漂亮"
+    "output": "嘴里漂亮",
+    "sample_id": "fuxi_ASQA_177"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "石崖压着嫩枝芽",
-    "output": "抬不起头来"
+    "output": "抬不起头来",
+    "sample_id": "fuxi_ASQA_178"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "董存瑞炸碉堡",
-    "output": "视死如归"
+    "output": "视死如归",
+    "sample_id": "fuxi_ASQA_179"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "拖拉机犁大田",
-    "output": "直来直去"
+    "output": "直来直去",
+    "sample_id": "fuxi_ASQA_180"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "饭桌上的盘子",
-    "output": "没把柄"
+    "output": "没把柄",
+    "sample_id": "fuxi_ASQA_181"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穿袜子没底",
-    "output": "装面子"
+    "output": "装面子",
+    "sample_id": "fuxi_ASQA_182"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "新打的剪刀",
-    "output": "难开口"
+    "output": "难开口",
+    "sample_id": "fuxi_ASQA_183"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "缄门头上挂猪肝",
-    "output": "少心没肺"
+    "output": "少心没肺",
+    "sample_id": "fuxi_ASQA_184"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "厕所里照镜子",
-    "output": "臭美（比喻做事太过分，使人厌恶和憎恨。）"
+    "output": "臭美（比喻做事太过分，使人厌恶和憎恨。）",
+    "sample_id": "fuxi_ASQA_185"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "爷爷的长相",
-    "output": "老样子"
+    "output": "老样子",
+    "sample_id": "fuxi_ASQA_186"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "南天门上打伞",
-    "output": "一跳邪气"
+    "output": "一跳邪气",
+    "sample_id": "fuxi_ASQA_187"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "何家的姑娘嫁郑家",
-    "output": "正合适（郑何氏）"
+    "output": "正合适（郑何氏）",
+    "sample_id": "fuxi_ASQA_188"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "春天的竹笋",
-    "output": "节节向上；无依"
+    "output": "节节向上；无依",
+    "sample_id": "fuxi_ASQA_189"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "补锅匠揽瓷器活",
-    "output": "充内行"
+    "output": "充内行",
+    "sample_id": "fuxi_ASQA_190"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "夫妻俩唱小调",
-    "output": "一唱一和"
+    "output": "一唱一和",
+    "sample_id": "fuxi_ASQA_191"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "梁山伯与祝英台",
-    "output": "生死相依；生死不离"
+    "output": "生死相依；生死不离",
+    "sample_id": "fuxi_ASQA_192"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "黄鼠狼戴花",
-    "output": "臭美"
+    "output": "臭美",
+    "sample_id": "fuxi_ASQA_193"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "敲开的木鱼",
-    "output": "合不拢嘴（比喻高兴地合不上嘴。）"
+    "output": "合不拢嘴（比喻高兴地合不上嘴。）",
+    "sample_id": "fuxi_ASQA_194"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "刑场上跳舞",
-    "output": "死中作乐"
+    "output": "死中作乐",
+    "sample_id": "fuxi_ASQA_195"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穿木屐（mu ji木板拖鞋）干活",
-    "output": "拖拖拉拉"
+    "output": "拖拖拉拉",
+    "sample_id": "fuxi_ASQA_196"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛇吞象",
-    "output": "不自量；好大的胃口"
+    "output": "不自量；好大的胃口",
+    "sample_id": "fuxi_ASQA_197"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "油画里卷国画",
-    "output": "话（画）里有话（画）"
+    "output": "话（画）里有话（画）",
+    "sample_id": "fuxi_ASQA_198"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吹鼓手坐宴席",
-    "output": "顾吃不顾吹"
+    "output": "顾吃不顾吹",
+    "sample_id": "fuxi_ASQA_199"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "小尼姑看嫁妆",
-    "output": "今世无缘"
+    "output": "今世无缘",
+    "sample_id": "fuxi_ASQA_200"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穆桂英和杨宗保",
-    "output": "恰好一对"
+    "output": "恰好一对",
+    "sample_id": "fuxi_ASQA_201"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "竹林里放纸鸢",
-    "output": "胡搅蛮缠"
+    "output": "胡搅蛮缠",
+    "sample_id": "fuxi_ASQA_202"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "水塘里挖藕",
-    "output": "心眼多；心眼不少"
+    "output": "心眼多；心眼不少",
+    "sample_id": "fuxi_ASQA_203"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "乌龟买鳖价",
-    "output": "不上算；不合算"
+    "output": "不上算；不合算",
+    "sample_id": "fuxi_ASQA_204"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "天要下雨鸟要飞",
-    "output": "各随其便"
+    "output": "各随其便",
+    "sample_id": "fuxi_ASQA_205"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "寿星老儿的脑袋",
-    "output": "宝贝疙瘩"
+    "output": "宝贝疙瘩",
+    "sample_id": "fuxi_ASQA_206"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "三分钱买烧还看厚簿",
-    "output": "小气得很"
+    "output": "小气得很",
+    "sample_id": "fuxi_ASQA_207"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "牛吃笋子",
-    "output": "胸有成竹"
+    "output": "胸有成竹",
+    "sample_id": "fuxi_ASQA_208"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "世界地图吞肚里",
-    "output": "胸怀全球"
+    "output": "胸怀全球",
+    "sample_id": "fuxi_ASQA_209"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "城隍庙里的小鬼",
-    "output": "老瞪眼睛不开腔"
+    "output": "老瞪眼睛不开腔",
+    "sample_id": "fuxi_ASQA_210"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "抱木偶打狗",
-    "output": "把你不当人"
+    "output": "把你不当人",
+    "sample_id": "fuxi_ASQA_211"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "姜太公钓鱼",
-    "output": "愿者上钩"
+    "output": "愿者上钩",
+    "sample_id": "fuxi_ASQA_212"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "百年松树，五月芭蕉",
-    "output": "粗枝大叶"
+    "output": "粗枝大叶",
+    "sample_id": "fuxi_ASQA_213"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "掌钳的敲小锤",
-    "output": "正在火候上"
+    "output": "正在火候上",
+    "sample_id": "fuxi_ASQA_214"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "侦察员破案",
-    "output": "暗中活动"
+    "output": "暗中活动",
+    "sample_id": "fuxi_ASQA_215"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鹅卵石掉酱缸",
-    "output": "一个糊涂蛋"
+    "output": "一个糊涂蛋",
+    "sample_id": "fuxi_ASQA_216"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "给死人送医",
-    "output": "枉费功夫"
+    "output": "枉费功夫",
+    "sample_id": "fuxi_ASQA_217"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "筷子里拔旗杆",
-    "output": "没高的"
+    "output": "没高的",
+    "sample_id": "fuxi_ASQA_218"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大雾天放鸭子",
-    "output": "有去无回"
+    "output": "有去无回",
+    "sample_id": "fuxi_ASQA_219"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "歪歪嘴跌跤",
-    "output": "上错下错；错上错下"
+    "output": "上错下错；错上错下",
+    "sample_id": "fuxi_ASQA_220"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "炒咸菜放盐巴",
-    "output": "太闲（咸）了·"
+    "output": "太闲（咸）了·",
+    "sample_id": "fuxi_ASQA_221"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "屋檐下挂猪胆",
-    "output": "苦水滴滴"
+    "output": "苦水滴滴",
+    "sample_id": "fuxi_ASQA_222"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "茶杯掉在地上",
-    "output": "净蹦（崩）词（瓷）"
+    "output": "净蹦（崩）词（瓷）",
+    "sample_id": "fuxi_ASQA_223"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "疯狗咬日",
-    "output": "白费工夫；白费劲；枉费工"
+    "output": "白费工夫；白费劲；枉费工",
+    "sample_id": "fuxi_ASQA_224"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "土做的人儿",
-    "output": "实心眼"
+    "output": "实心眼",
+    "sample_id": "fuxi_ASQA_225"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "八仙桌上摆夜壶",
-    "output": "不是个（家）伙；不是个成就（盛酒）的家伙"
+    "output": "不是个（家）伙；不是个成就（盛酒）的家伙",
+    "sample_id": "fuxi_ASQA_226"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "客气碰着老实",
-    "output": "虚情当成真意（比喻把假的当成了真的。）"
+    "output": "虚情当成真意（比喻把假的当成了真的。）",
+    "sample_id": "fuxi_ASQA_227"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一个萝卜一个坑",
-    "output": "一个顶一个"
+    "output": "一个顶一个",
+    "sample_id": "fuxi_ASQA_228"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鲜鱼烂虾一锅煮",
-    "output": "不知好歹；好歹不分"
+    "output": "不知好歹；好歹不分",
+    "sample_id": "fuxi_ASQA_229"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "舞台上的皮影戏",
-    "output": "幕后操纵"
+    "output": "幕后操纵",
+    "sample_id": "fuxi_ASQA_230"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "竹竿打月亮",
-    "output": "挨不上"
+    "output": "挨不上",
+    "sample_id": "fuxi_ASQA_231"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "断了翅膀的鸟",
-    "output": "飞不高"
+    "output": "飞不高",
+    "sample_id": "fuxi_ASQA_232"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "寒流来了吹暖气",
-    "output": "冷嘲（潮）热讽（风）"
+    "output": "冷嘲（潮）热讽（风）",
+    "sample_id": "fuxi_ASQA_233"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "王小二敲锣",
-    "output": "穷得丁当响"
+    "output": "穷得丁当响",
+    "sample_id": "fuxi_ASQA_234"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "隔墙丢西瓜",
-    "output": "给别人解渴"
+    "output": "给别人解渴",
+    "sample_id": "fuxi_ASQA_235"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "海底栽葱",
-    "output": "根底深"
+    "output": "根底深",
+    "sample_id": "fuxi_ASQA_236"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "人多主意强",
-    "output": "集思广益"
+    "output": "集思广益",
+    "sample_id": "fuxi_ASQA_237"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "年近古稀嗅觉低",
-    "output": "老鼻子啦"
+    "output": "老鼻子啦",
+    "sample_id": "fuxi_ASQA_238"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "张飞讨债",
-    "output": "气势汹汹"
+    "output": "气势汹汹",
+    "sample_id": "fuxi_ASQA_239"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "才出壳的鸡子",
-    "output": "嫩的很"
+    "output": "嫩的很",
+    "sample_id": "fuxi_ASQA_240"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "癞蛤蟆的脊梁",
-    "output": "点子多"
+    "output": "点子多",
+    "sample_id": "fuxi_ASQA_241"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "骑兵败阵",
-    "output": "兵荒马乱"
+    "output": "兵荒马乱",
+    "sample_id": "fuxi_ASQA_242"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "麦场上挂马灯",
-    "output": "照常（场）"
+    "output": "照常（场）",
+    "sample_id": "fuxi_ASQA_243"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "热水瓶脾气",
-    "output": "外面冷，里头热"
+    "output": "外面冷，里头热",
+    "sample_id": "fuxi_ASQA_244"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "骑在房梁上吹喇叭",
-    "output": "名（鸣）声在外"
+    "output": "名（鸣）声在外",
+    "sample_id": "fuxi_ASQA_245"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "头发上擦火柴",
-    "output": "划不着"
+    "output": "划不着",
+    "sample_id": "fuxi_ASQA_246"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鞋子里洒香水",
-    "output": "过分讲究"
+    "output": "过分讲究",
+    "sample_id": "fuxi_ASQA_247"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "卖了犬褂买裤衩",
-    "output": "短得见不了人"
+    "output": "短得见不了人",
+    "sample_id": "fuxi_ASQA_248"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "得陇望蜀",
-    "output": "贪心不足"
+    "output": "贪心不足",
+    "sample_id": "fuxi_ASQA_249"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "落雨天担禾草",
-    "output": "担子越来越重"
+    "output": "担子越来越重",
+    "sample_id": "fuxi_ASQA_250"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "河心搁跳板",
-    "output": "两头脱空"
+    "output": "两头脱空",
+    "sample_id": "fuxi_ASQA_251"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "麦田捉田鸡",
-    "output": "手到擒来"
+    "output": "手到擒来",
+    "sample_id": "fuxi_ASQA_252"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "河里赶大车",
-    "output": "没辙"
+    "output": "没辙",
+    "sample_id": "fuxi_ASQA_253"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "阴沟里荡舟船",
-    "output": "寸步难行"
+    "output": "寸步难行",
+    "sample_id": "fuxi_ASQA_254"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "寿星看太医",
-    "output": "老毛病"
+    "output": "老毛病",
+    "sample_id": "fuxi_ASQA_255"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "猫守鼠洞",
-    "output": "不动声色"
+    "output": "不动声色",
+    "sample_id": "fuxi_ASQA_256"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "秋天的木棉花",
-    "output": "老来红"
+    "output": "老来红",
+    "sample_id": "fuxi_ASQA_257"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "葫芦锯了把儿",
-    "output": "没嘴儿"
+    "output": "没嘴儿",
+    "sample_id": "fuxi_ASQA_258"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "刚出山的太阳",
-    "output": "红光满面"
+    "output": "红光满面",
+    "sample_id": "fuxi_ASQA_259"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡斗黄鼠狼",
-    "output": "自己找死；寻死；送死"
+    "output": "自己找死；寻死；送死",
+    "sample_id": "fuxi_ASQA_260"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "风化石磨刀",
-    "output": "快不了"
+    "output": "快不了",
+    "sample_id": "fuxi_ASQA_261"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "长毛驴儿推磨",
-    "output": "兜圈子"
+    "output": "兜圈子",
+    "sample_id": "fuxi_ASQA_262"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "泥佛爷的眼珠儿",
-    "output": "动不得"
+    "output": "动不得",
+    "sample_id": "fuxi_ASQA_263"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "森林失火",
-    "output": "尽光棍；全是光棍"
+    "output": "尽光棍；全是光棍",
+    "sample_id": "fuxi_ASQA_264"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "放羊娃拾粪",
-    "output": "两不耽误；两得其便"
+    "output": "两不耽误；两得其便",
+    "sample_id": "fuxi_ASQA_265"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老虎驾辕",
-    "output": "没人敢（赶）；谁敢（赶）"
+    "output": "没人敢（赶）；谁敢（赶）",
+    "sample_id": "fuxi_ASQA_266"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "三十晚上逼债",
-    "output": "年关难过"
+    "output": "年关难过",
+    "sample_id": "fuxi_ASQA_267"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "墨里藏针",
-    "output": "难找寻"
+    "output": "难找寻",
+    "sample_id": "fuxi_ASQA_268"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "半斤对八两（旧制八两为半斤）",
-    "output": "一码事"
+    "output": "一码事",
+    "sample_id": "fuxi_ASQA_269"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "峨眉山上的佛光",
-    "output": "看得见，摸不着；可望而不可及"
+    "output": "看得见，摸不着；可望而不可及",
+    "sample_id": "fuxi_ASQA_270"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚂蚁讲话",
-    "output": "碰头（比喻见面、相遇。）"
+    "output": "碰头（比喻见面、相遇。）",
+    "sample_id": "fuxi_ASQA_271"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一个世纪才盘点",
-    "output": "百年大计"
+    "output": "百年大计",
+    "sample_id": "fuxi_ASQA_272"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "烂柿子落地",
-    "output": "软瘫了"
+    "output": "软瘫了",
+    "sample_id": "fuxi_ASQA_273"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡婆抱鸭子",
-    "output": "舍己为人"
+    "output": "舍己为人",
+    "sample_id": "fuxi_ASQA_274"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一屁股壿（dun 重重往下放）在锣鼓上",
-    "output": "音不正；没正音"
+    "output": "音不正；没正音",
+    "sample_id": "fuxi_ASQA_275"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老婆婆抱孙子",
-    "output": "喜笑颜开"
+    "output": "喜笑颜开",
+    "sample_id": "fuxi_ASQA_276"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "嚼烂舌头当肉吃",
-    "output": "自吃自；自欺欺人；自己哄自己"
+    "output": "自吃自；自欺欺人；自己哄自己",
+    "sample_id": "fuxi_ASQA_277"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "三伏天喝凉茶",
-    "output": "正是时候"
+    "output": "正是时候",
+    "sample_id": "fuxi_ASQA_278"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穿着高跟鞋上山",
-    "output": "自己跟自己过不去"
+    "output": "自己跟自己过不去",
+    "sample_id": "fuxi_ASQA_279"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "逼公鸡下蛋",
-    "output": "故意刁难；办不到"
+    "output": "故意刁难；办不到",
+    "sample_id": "fuxi_ASQA_280"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛤蟆长毛",
-    "output": "不可能的事"
+    "output": "不可能的事",
+    "sample_id": "fuxi_ASQA_281"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "空中飞人",
-    "output": "上不着天，下不着地"
+    "output": "上不着天，下不着地",
+    "sample_id": "fuxi_ASQA_282"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "叫你上坡，你偏下河",
-    "output": "成心闹别扭；专找别扭；故意捣乱"
+    "output": "成心闹别扭；专找别扭；故意捣乱",
+    "sample_id": "fuxi_ASQA_283"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "皮球掉在油缸里",
-    "output": "又圆又滑"
+    "output": "又圆又滑",
+    "sample_id": "fuxi_ASQA_284"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "程咬金做皇帝",
-    "output": "当不得真"
+    "output": "当不得真",
+    "sample_id": "fuxi_ASQA_285"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一斤霉面做个馍",
-    "output": "废物点心"
+    "output": "废物点心",
+    "sample_id": "fuxi_ASQA_286"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "同床异梦",
-    "output": "有二心"
+    "output": "有二心",
+    "sample_id": "fuxi_ASQA_287"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "娶媳妇穿孝衫",
-    "output": "十里乡情不一般"
+    "output": "十里乡情不一般",
+    "sample_id": "fuxi_ASQA_288"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "铁路警察",
-    "output": "各管一段"
+    "output": "各管一段",
+    "sample_id": "fuxi_ASQA_289"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "清水染白布",
-    "output": "空过一场"
+    "output": "空过一场",
+    "sample_id": "fuxi_ASQA_290"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃了筐烂杏",
-    "output": "心酸"
+    "output": "心酸",
+    "sample_id": "fuxi_ASQA_291"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老牛拉稀屎",
-    "output": "接连不断"
+    "output": "接连不断",
+    "sample_id": "fuxi_ASQA_292"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "娃娃玩肥皂泡",
-    "output": "吹起来了"
+    "output": "吹起来了",
+    "sample_id": "fuxi_ASQA_293"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "站在河岸捞月亮",
-    "output": "白搭工"
+    "output": "白搭工",
+    "sample_id": "fuxi_ASQA_294"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃冰棍拉（排泄）冰棍",
-    "output": "没话（化）"
+    "output": "没话（化）",
+    "sample_id": "fuxi_ASQA_295"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "开局摆开拦河车",
-    "output": "严阵以待"
+    "output": "严阵以待",
+    "sample_id": "fuxi_ASQA_296"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "牛鼻绳落人手",
-    "output": "身不由己；不由自主"
+    "output": "身不由己；不由自主",
+    "sample_id": "fuxi_ASQA_297"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "少时衣裳老来穿",
-    "output": "过时货"
+    "output": "过时货",
+    "sample_id": "fuxi_ASQA_298"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "肚脐眼里藏书",
-    "output": "满腹经文"
+    "output": "满腹经文",
+    "sample_id": "fuxi_ASQA_299"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "赶集走亲戚",
-    "output": "顺路的事"
+    "output": "顺路的事",
+    "sample_id": "fuxi_ASQA_300"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "没罪找枷戴",
-    "output": "自寻烦恼"
+    "output": "自寻烦恼",
+    "sample_id": "fuxi_ASQA_301"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "骑马观灯",
-    "output": "走着瞧"
+    "output": "走着瞧",
+    "sample_id": "fuxi_ASQA_302"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "和尚庙里借梳子",
-    "output": "走错了门；找错了门"
+    "output": "走错了门；找错了门",
+    "sample_id": "fuxi_ASQA_303"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "睡梦坐朝廷",
-    "output": "高兴一时是一时；快活一时算一时"
+    "output": "高兴一时是一时；快活一时算一时",
+    "sample_id": "fuxi_ASQA_304"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "巫婆和鬼打架",
-    "output": "病人跟着受难"
+    "output": "病人跟着受难",
+    "sample_id": "fuxi_ASQA_305"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "春天的柳树枝",
-    "output": "落地生根"
+    "output": "落地生根",
+    "sample_id": "fuxi_ASQA_306"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "破皮球，烂轮胎",
-    "output": "到处泄气"
+    "output": "到处泄气",
+    "sample_id": "fuxi_ASQA_307"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "麻雀掉到面缸里",
-    "output": "煳（糊）嘴"
+    "output": "煳（糊）嘴",
+    "sample_id": "fuxi_ASQA_308"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "玩把势的绝技",
-    "output": "耍花招"
+    "output": "耍花招",
+    "sample_id": "fuxi_ASQA_309"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "耗子生儿",
-    "output": "喂猫的货"
+    "output": "喂猫的货",
+    "sample_id": "fuxi_ASQA_310"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "纺纱厂的烂线团",
-    "output": "头绪太乱；千头万绪"
+    "output": "头绪太乱；千头万绪",
+    "sample_id": "fuxi_ASQA_311"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "乌龟遭棒打",
-    "output": "缩头缩脑"
+    "output": "缩头缩脑",
+    "sample_id": "fuxi_ASQA_312"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瞎子看书",
-    "output": "观点不明"
+    "output": "观点不明",
+    "sample_id": "fuxi_ASQA_313"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "当差放私骆驼",
-    "output": "假公营私"
+    "output": "假公营私",
+    "sample_id": "fuxi_ASQA_314"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蛇遭蝎子蜇",
-    "output": "一个比一个毒"
+    "output": "一个比一个毒",
+    "sample_id": "fuxi_ASQA_315"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "千年槐下乘凉",
-    "output": "托前人的福"
+    "output": "托前人的福",
+    "sample_id": "fuxi_ASQA_316"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "黑瞎子坐月子",
-    "output": "吓（下）熊了"
+    "output": "吓（下）熊了",
+    "sample_id": "fuxi_ASQA_317"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "捂着鼻子闭着嘴",
-    "output": "憋气；憋得难受"
+    "output": "憋气；憋得难受",
+    "sample_id": "fuxi_ASQA_318"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "独木桥上睡觉",
-    "output": "翻不了身"
+    "output": "翻不了身",
+    "sample_id": "fuxi_ASQA_319"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚕宝宝牵蜘蛛",
-    "output": "私（丝）连私（丝）"
+    "output": "私（丝）连私（丝）",
+    "sample_id": "fuxi_ASQA_320"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "风前蜡烛",
-    "output": "说灭就灭"
+    "output": "说灭就灭",
+    "sample_id": "fuxi_ASQA_321"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "飞机翻跟头",
-    "output": "倒栽葱"
+    "output": "倒栽葱",
+    "sample_id": "fuxi_ASQA_322"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "石头子孵小鸡",
-    "output": "一成不变"
+    "output": "一成不变",
+    "sample_id": "fuxi_ASQA_323"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "机器人讲情话",
-    "output": "有口无心"
+    "output": "有口无心",
+    "sample_id": "fuxi_ASQA_324"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "年过花甲不成才",
-    "output": "虚度年华；枉活了大半辈子"
+    "output": "虚度年华；枉活了大半辈子",
+    "sample_id": "fuxi_ASQA_325"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "临阵磨枪",
-    "output": "迟了"
+    "output": "迟了",
+    "sample_id": "fuxi_ASQA_326"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "唐伯虎进宁王府",
-    "output": "装疯卖傻"
+    "output": "装疯卖傻",
+    "sample_id": "fuxi_ASQA_327"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大草原上吹喇叭",
-    "output": "想（响）得宽"
+    "output": "想（响）得宽",
+    "sample_id": "fuxi_ASQA_328"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "得了雨衣还要伞",
-    "output": "贪得无厌；贪心不足"
+    "output": "贪得无厌；贪心不足",
+    "sample_id": "fuxi_ASQA_329"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "泥鳅过鱼网",
-    "output": "无孔不入"
+    "output": "无孔不入",
+    "sample_id": "fuxi_ASQA_330"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "披蓑衣上朝",
-    "output": "献丑；自己献丑"
+    "output": "献丑；自己献丑",
+    "sample_id": "fuxi_ASQA_331"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃罢黄连劝儿媳",
-    "output": "苦口婆心"
+    "output": "苦口婆心",
+    "sample_id": "fuxi_ASQA_332"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "驴子下只象",
-    "output": "怪胎"
+    "output": "怪胎",
+    "sample_id": "fuxi_ASQA_333"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老母猪啃瓷砖",
-    "output": "满嘴词（瓷）"
+    "output": "满嘴词（瓷）",
+    "sample_id": "fuxi_ASQA_334"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蜻蜓吃尾巴",
-    "output": "白吃自；一连串"
+    "output": "白吃自；一连串",
+    "sample_id": "fuxi_ASQA_335"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "对着镜子伸拳头",
-    "output": "自己吓唬自己"
+    "output": "自己吓唬自己",
+    "sample_id": "fuxi_ASQA_336"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "头上砍一刀",
-    "output": "伤脑筋"
+    "output": "伤脑筋",
+    "sample_id": "fuxi_ASQA_337"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "按着脑袋往火炕里钻",
-    "output": "憋气窝火"
+    "output": "憋气窝火",
+    "sample_id": "fuxi_ASQA_338"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "烂脑瓜戴上新毡帽",
-    "output": "冒充好人"
+    "output": "冒充好人",
+    "sample_id": "fuxi_ASQA_339"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "旱天的井",
-    "output": "水平低"
+    "output": "水平低",
+    "sample_id": "fuxi_ASQA_340"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二姑娘架老鹰",
-    "output": "招架不住"
+    "output": "招架不住",
+    "sample_id": "fuxi_ASQA_341"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "机器人看戏",
-    "output": "无动于衷"
+    "output": "无动于衷",
+    "sample_id": "fuxi_ASQA_342"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瞎子打灯笼",
-    "output": "看不到前程"
+    "output": "看不到前程",
+    "sample_id": "fuxi_ASQA_343"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打开棺材喊捉贼",
-    "output": "冤枉死人"
+    "output": "冤枉死人",
+    "sample_id": "fuxi_ASQA_344"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "搭人梯过城墙",
-    "output": "踩着别人的肩膀往上爬"
+    "output": "踩着别人的肩膀往上爬",
+    "sample_id": "fuxi_ASQA_345"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "飞了鸭子打了蛋",
-    "output": "两落空；两头空"
+    "output": "两落空；两头空",
+    "sample_id": "fuxi_ASQA_346"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "小孩掰竹笋",
-    "output": "拔尖"
+    "output": "拔尖",
+    "sample_id": "fuxi_ASQA_347"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "米汤炒莲藕",
-    "output": "糊了眼"
+    "output": "糊了眼",
+    "sample_id": "fuxi_ASQA_348"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "斗篷烂边",
-    "output": "顶好"
+    "output": "顶好",
+    "sample_id": "fuxi_ASQA_349"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "钝刀子杀鸡",
-    "output": "靠手劲"
+    "output": "靠手劲",
+    "sample_id": "fuxi_ASQA_350"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "孔夫子念文章",
-    "output": "咬文嚼字"
+    "output": "咬文嚼字",
+    "sample_id": "fuxi_ASQA_351"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "驴头上长角",
-    "output": "怪事；怪事一桩"
+    "output": "怪事；怪事一桩",
+    "sample_id": "fuxi_ASQA_352"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "不栽果树吃桃子",
-    "output": "坐享其成"
+    "output": "坐享其成",
+    "sample_id": "fuxi_ASQA_353"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "案板底下放风筝",
-    "output": "飞不起来"
+    "output": "飞不起来",
+    "sample_id": "fuxi_ASQA_354"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡蛋炒韭黄",
-    "output": "色货"
+    "output": "色货",
+    "sample_id": "fuxi_ASQA_355"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "临刑唱大曲",
-    "output": "视死如归"
+    "output": "视死如归",
+    "sample_id": "fuxi_ASQA_356"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "炒面捏娃娃",
-    "output": "熟人"
+    "output": "熟人",
+    "sample_id": "fuxi_ASQA_357"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "叫花子走人户（走亲戚）",
-    "output": "两手空"
+    "output": "两手空",
+    "sample_id": "fuxi_ASQA_358"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "霜打茄子",
-    "output": "软不拉耷"
+    "output": "软不拉耷",
+    "sample_id": "fuxi_ASQA_359"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "和尚枕着门槛睡",
-    "output": "突（秃）出"
+    "output": "突（秃）出",
+    "sample_id": "fuxi_ASQA_360"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "池塘里的泥鳅",
-    "output": "掀不起大浪"
+    "output": "掀不起大浪",
+    "sample_id": "fuxi_ASQA_361"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡屎蛋子塑神像",
-    "output": "胎里坏；坏了胎"
+    "output": "胎里坏；坏了胎",
+    "sample_id": "fuxi_ASQA_362"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "煤面子捏的人",
-    "output": "黑心肝"
+    "output": "黑心肝",
+    "sample_id": "fuxi_ASQA_363"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老鼠跌进铁桶里",
-    "output": "无缝可钻"
+    "output": "无缝可钻",
+    "sample_id": "fuxi_ASQA_364"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "跪着养猪",
-    "output": "看在钱份上"
+    "output": "看在钱份上",
+    "sample_id": "fuxi_ASQA_365"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "外婆待外甥",
-    "output": "诚心实意"
+    "output": "诚心实意",
+    "sample_id": "fuxi_ASQA_366"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "少林寺的高僧",
-    "output": "身手不凡"
+    "output": "身手不凡",
+    "sample_id": "fuxi_ASQA_367"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鬼子兵逃命",
-    "output": "屁滚尿流"
+    "output": "屁滚尿流",
+    "sample_id": "fuxi_ASQA_368"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "夜壶摆在床底下",
-    "output": "见不得人"
+    "output": "见不得人",
+    "sample_id": "fuxi_ASQA_369"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "袖子里的火",
-    "output": "抖落不了"
+    "output": "抖落不了",
+    "sample_id": "fuxi_ASQA_370"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "傻二哥算账",
-    "output": "糊糊涂涂；糊里糊涂"
+    "output": "糊糊涂涂；糊里糊涂",
+    "sample_id": "fuxi_ASQA_371"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "扁嘴子（鸭子）过河",
-    "output": "摸不着底"
+    "output": "摸不着底",
+    "sample_id": "fuxi_ASQA_372"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瞎子吃鱼",
-    "output": "摸不着头尾"
+    "output": "摸不着头尾",
+    "sample_id": "fuxi_ASQA_373"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "苦豆子煮黄连",
-    "output": "一个更比一个苦"
+    "output": "一个更比一个苦",
+    "sample_id": "fuxi_ASQA_374"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "嗓子眼里长骨头",
-    "output": "有口难言"
+    "output": "有口难言",
+    "sample_id": "fuxi_ASQA_375"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "黄连拌苦瓜",
-    "output": "苦上加苦"
+    "output": "苦上加苦",
+    "sample_id": "fuxi_ASQA_376"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老太太补衣服",
-    "output": "东拼西凑"
+    "output": "东拼西凑",
+    "sample_id": "fuxi_ASQA_377"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "让张飞绣花",
-    "output": "滥用人才"
+    "output": "滥用人才",
+    "sample_id": "fuxi_ASQA_378"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "出土笋子逢春雨",
-    "output": "节节高"
+    "output": "节节高",
+    "sample_id": "fuxi_ASQA_379"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "两股脏水汇一起",
-    "output": "同流合污"
+    "output": "同流合污",
+    "sample_id": "fuxi_ASQA_380"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "河边放崖炮",
-    "output": "无地容身；无处藏身"
+    "output": "无地容身；无处藏身",
+    "sample_id": "fuxi_ASQA_381"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "芦柴秆做门闩",
-    "output": "难撑"
+    "output": "难撑",
+    "sample_id": "fuxi_ASQA_382"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "唐僧遇见白骨精",
-    "output": "敌我不分"
+    "output": "敌我不分",
+    "sample_id": "fuxi_ASQA_383"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "雨花台的石子",
-    "output": "五光十色"
+    "output": "五光十色",
+    "sample_id": "fuxi_ASQA_384"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "竹筒倒豌豆",
-    "output": "一干二净"
+    "output": "一干二净",
+    "sample_id": "fuxi_ASQA_385"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "船上打伞",
-    "output": "没天没地"
+    "output": "没天没地",
+    "sample_id": "fuxi_ASQA_386"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "远路人蹬水",
-    "output": "不知深浅"
+    "output": "不知深浅",
+    "sample_id": "fuxi_ASQA_387"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "跳大神的翻白眼",
-    "output": "没咒念"
+    "output": "没咒念",
+    "sample_id": "fuxi_ASQA_388"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "面筋粘知了",
-    "output": "没跑；跑不了"
+    "output": "没跑；跑不了",
+    "sample_id": "fuxi_ASQA_389"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "房梁上逮鸟",
-    "output": "不好捉摸；难捉摸"
+    "output": "不好捉摸；难捉摸",
+    "sample_id": "fuxi_ASQA_390"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "豆腐架子",
-    "output": "碰不得；不牢"
+    "output": "碰不得；不牢",
+    "sample_id": "fuxi_ASQA_391"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "狗尾巴草长在墙逢里",
-    "output": "根子不正"
+    "output": "根子不正",
+    "sample_id": "fuxi_ASQA_392"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "马蜂口丁屁股",
-    "output": "痛不可言"
+    "output": "痛不可言",
+    "sample_id": "fuxi_ASQA_393"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "和尚的袈裟",
-    "output": "东拼西凑；七拼八凑"
+    "output": "东拼西凑；七拼八凑",
+    "sample_id": "fuxi_ASQA_394"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃着冰棍拉家常",
-    "output": "冷言冷语"
+    "output": "冷言冷语",
+    "sample_id": "fuxi_ASQA_395"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "捣蒜槌子",
-    "output": "独根儿"
+    "output": "独根儿",
+    "sample_id": "fuxi_ASQA_396"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "牛鼻子上的跳蚤",
-    "output": "自高自大"
+    "output": "自高自大",
+    "sample_id": "fuxi_ASQA_397"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "乌龟摔在石板上",
-    "output": "碰上硬的了"
+    "output": "碰上硬的了",
+    "sample_id": "fuxi_ASQA_398"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "白天打灯笼",
-    "output": "白搭"
+    "output": "白搭",
+    "sample_id": "fuxi_ASQA_399"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "烧香砸菩萨",
-    "output": "不知好歹；好歹不分"
+    "output": "不知好歹；好歹不分",
+    "sample_id": "fuxi_ASQA_400"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "戴红缨帽上树",
-    "output": "红到顶上"
+    "output": "红到顶上",
+    "sample_id": "fuxi_ASQA_401"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "脚脖子上把脉",
-    "output": "瞎摸"
+    "output": "瞎摸",
+    "sample_id": "fuxi_ASQA_402"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "平民百姓见玉帝",
-    "output": "一步登天"
+    "output": "一步登天",
+    "sample_id": "fuxi_ASQA_403"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "屋檐上挂马桶",
-    "output": "臭名在外"
+    "output": "臭名在外",
+    "sample_id": "fuxi_ASQA_404"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打饱嗝带放屁",
-    "output": "两头没好气；气不打一处来"
+    "output": "两头没好气；气不打一处来",
+    "sample_id": "fuxi_ASQA_405"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "山羊见了老虎皮",
-    "output": "望而生畏"
+    "output": "望而生畏",
+    "sample_id": "fuxi_ASQA_406"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "绸子包鸡笼",
-    "output": "外面好看里面空"
+    "output": "外面好看里面空",
+    "sample_id": "fuxi_ASQA_407"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "山腰里一片云",
-    "output": "成不了气候；不成气候"
+    "output": "成不了气候；不成气候",
+    "sample_id": "fuxi_ASQA_408"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "坐飞机吹喇叭",
-    "output": "响得高"
+    "output": "响得高",
+    "sample_id": "fuxi_ASQA_409"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "两个槌敲一面锣",
-    "output": "想（响）到一块了"
+    "output": "想（响）到一块了",
+    "sample_id": "fuxi_ASQA_410"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "穿绸缎吃粗糠",
-    "output": "外光里不光"
+    "output": "外光里不光",
+    "sample_id": "fuxi_ASQA_411"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "煤炭下水",
-    "output": "一辈子洗不清"
+    "output": "一辈子洗不清",
+    "sample_id": "fuxi_ASQA_412"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "核桃树旁种棉花",
-    "output": "软硬兼施"
+    "output": "软硬兼施",
+    "sample_id": "fuxi_ASQA_413"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "扛着鸟枪上疆场",
-    "output": "抵挡一阵"
+    "output": "抵挡一阵",
+    "sample_id": "fuxi_ASQA_414"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瘸子跳高",
-    "output": "早晚有他的好看"
+    "output": "早晚有他的好看",
+    "sample_id": "fuxi_ASQA_415"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃屎狗难断吃屎路",
-    "output": "本性难移"
+    "output": "本性难移",
+    "sample_id": "fuxi_ASQA_416"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "染布不均",
-    "output": "料不到"
+    "output": "料不到",
+    "sample_id": "fuxi_ASQA_417"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "桅杆上的螺狮",
-    "output": "靠天吃饭"
+    "output": "靠天吃饭",
+    "sample_id": "fuxi_ASQA_418"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "狼窝里养孩子",
-    "output": "性命难保"
+    "output": "性命难保",
+    "sample_id": "fuxi_ASQA_419"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "咸鸡蛋",
-    "output": "老腌（淹）哪"
+    "output": "老腌（淹）哪",
+    "sample_id": "fuxi_ASQA_420"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "青芭蕉",
-    "output": "有棱有角"
+    "output": "有棱有角",
+    "sample_id": "fuxi_ASQA_421"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "司务长买饭票",
-    "output": "公私分明；公是公来私是私"
+    "output": "公私分明；公是公来私是私",
+    "sample_id": "fuxi_ASQA_422"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "癞蛤蟆吞月亮",
-    "output": "痴心妄想"
+    "output": "痴心妄想",
+    "sample_id": "fuxi_ASQA_423"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "发面馒头送闺女",
-    "output": "实心实意"
+    "output": "实心实意",
+    "sample_id": "fuxi_ASQA_424"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "孔夫子面前讲《孝经》",
-    "output": "假斯文；冒充斯文"
+    "output": "假斯文；冒充斯文",
+    "sample_id": "fuxi_ASQA_425"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二小做梦娶媳妇",
-    "output": "白高兴一场"
+    "output": "白高兴一场",
+    "sample_id": "fuxi_ASQA_426"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "灯草拐棍",
-    "output": "飘飘然；难撑；靠不住"
+    "output": "飘飘然；难撑；靠不住",
+    "sample_id": "fuxi_ASQA_427"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "刽子手烧香",
-    "output": "假慈悲；假慈善"
+    "output": "假慈悲；假慈善",
+    "sample_id": "fuxi_ASQA_428"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸡头伸进猪食槽",
-    "output": "插不上嘴；难插嘴"
+    "output": "插不上嘴；难插嘴",
+    "sample_id": "fuxi_ASQA_429"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "泥娃娃遭雨淋",
-    "output": "软瘫了"
+    "output": "软瘫了",
+    "sample_id": "fuxi_ASQA_430"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "煤粉石灰搀一起",
-    "output": "黑白不分；混淆黑白"
+    "output": "黑白不分；混淆黑白",
+    "sample_id": "fuxi_ASQA_431"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "地道里卖门神",
-    "output": "看出来的好活（画）儿"
+    "output": "看出来的好活（画）儿",
+    "sample_id": "fuxi_ASQA_432"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "臭媚眼做给瞎子看",
-    "output": "莫名其妙"
+    "output": "莫名其妙",
+    "sample_id": "fuxi_ASQA_433"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "圣人盗书",
-    "output": "文明人不做文明事"
+    "output": "文明人不做文明事",
+    "sample_id": "fuxi_ASQA_434"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "疯狗咬刺猥",
-    "output": "无处下口"
+    "output": "无处下口",
+    "sample_id": "fuxi_ASQA_435"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "笼屉上抓馒头",
-    "output": "稳拿"
+    "output": "稳拿",
+    "sample_id": "fuxi_ASQA_436"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "斗笠出烟",
-    "output": "冒（帽）火"
+    "output": "冒（帽）火",
+    "sample_id": "fuxi_ASQA_437"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "饿狗舔盘子",
-    "output": "一干二净"
+    "output": "一干二净",
+    "sample_id": "fuxi_ASQA_438"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "说起风便扯帆",
-    "output": "说干就干"
+    "output": "说干就干",
+    "sample_id": "fuxi_ASQA_439"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "坟头儿不叫坟头儿",
-    "output": "土包子"
+    "output": "土包子",
+    "sample_id": "fuxi_ASQA_440"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "饿狼吞食",
-    "output": "一副贪相"
+    "output": "一副贪相",
+    "sample_id": "fuxi_ASQA_441"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "羊肠小道",
-    "output": "绕来绕去"
+    "output": "绕来绕去",
+    "sample_id": "fuxi_ASQA_442"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "拉着何仙姑叫舅妈",
-    "output": "五百年前是一家"
+    "output": "五百年前是一家",
+    "sample_id": "fuxi_ASQA_443"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "恶老雕吃死耗子",
-    "output": "对口味"
+    "output": "对口味",
+    "sample_id": "fuxi_ASQA_444"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "画里的大饼",
-    "output": "不能充饥"
+    "output": "不能充饥",
+    "sample_id": "fuxi_ASQA_445"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "肚子里打灯笼",
-    "output": "自己心里明白"
+    "output": "自己心里明白",
+    "sample_id": "fuxi_ASQA_446"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "半天云里写文章",
-    "output": "空话连"
+    "output": "空话连",
+    "sample_id": "fuxi_ASQA_447"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "卤煮寒鸭子",
-    "output": "肉烂嘴不烂"
+    "output": "肉烂嘴不烂",
+    "sample_id": "fuxi_ASQA_448"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二郎神的钢叉",
-    "output": "两面三刀"
+    "output": "两面三刀",
+    "sample_id": "fuxi_ASQA_449"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "红萝卜雕花",
-    "output": "中看不中吃；好看不好吃"
+    "output": "中看不中吃；好看不好吃",
+    "sample_id": "fuxi_ASQA_450"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "脚上戴帽子",
-    "output": "乱了套"
+    "output": "乱了套",
+    "sample_id": "fuxi_ASQA_451"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "正月初一卖门神",
-    "output": "过时货；没人过问"
+    "output": "过时货；没人过问",
+    "sample_id": "fuxi_ASQA_452"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大街得信小街传",
-    "output": "道听途说"
+    "output": "道听途说",
+    "sample_id": "fuxi_ASQA_453"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "短木搭桥",
-    "output": "难到岸"
+    "output": "难到岸",
+    "sample_id": "fuxi_ASQA_454"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "猴子滚绣球",
-    "output": "滚的滚，爬的爬；连滚带爬"
+    "output": "滚的滚，爬的爬；连滚带爬",
+    "sample_id": "fuxi_ASQA_455"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打伞披雨衣",
-    "output": "多此一举"
+    "output": "多此一举",
+    "sample_id": "fuxi_ASQA_456"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "秫秫秸（shu shu jie 高梁秆）做栏杆",
-    "output": "不牢靠；不可靠"
+    "output": "不牢靠；不可靠",
+    "sample_id": "fuxi_ASQA_457"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚂蚱爬在鞭梢上",
-    "output": "经不起摔打"
+    "output": "经不起摔打",
+    "sample_id": "fuxi_ASQA_458"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "上树打跟头",
-    "output": "爬得高；跌得重；登高必跌重"
+    "output": "爬得高；跌得重；登高必跌重",
+    "sample_id": "fuxi_ASQA_459"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "蚊子的力气",
-    "output": "大不了"
+    "output": "大不了",
+    "sample_id": "fuxi_ASQA_460"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "东家起火，西家冒烟",
-    "output": "一波未平，一波又起"
+    "output": "一波未平，一波又起",
+    "sample_id": "fuxi_ASQA_461"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "歪戴帽子斜穿袄",
-    "output": "不成体统"
+    "output": "不成体统",
+    "sample_id": "fuxi_ASQA_462"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大网捕小鱼",
-    "output": "劳而无功；有劳无功"
+    "output": "劳而无功；有劳无功",
+    "sample_id": "fuxi_ASQA_463"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "苦水里泡大的杏核儿",
-    "output": "苦人（仁）儿"
+    "output": "苦人（仁）儿",
+    "sample_id": "fuxi_ASQA_464"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "花公鸡的尾巴",
-    "output": "翘得高"
+    "output": "翘得高",
+    "sample_id": "fuxi_ASQA_465"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "旗杆顶上拉胡琴",
-    "output": "唱高调儿"
+    "output": "唱高调儿",
+    "sample_id": "fuxi_ASQA_466"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "热锅爆米花",
-    "output": "乱蹦乱跳"
+    "output": "乱蹦乱跳",
+    "sample_id": "fuxi_ASQA_467"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "冰滩上的鱼",
-    "output": "由（游）不得了"
+    "output": "由（游）不得了",
+    "sample_id": "fuxi_ASQA_468"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "喉头上长疔疮",
-    "output": "痛不可言，"
+    "output": "痛不可言，",
+    "sample_id": "fuxi_ASQA_469"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "背死人过河",
-    "output": "吃力不讨好；费劲不落好"
+    "output": "吃力不讨好；费劲不落好",
+    "sample_id": "fuxi_ASQA_470"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鳝鱼的脑袋",
-    "output": "又奸（尖）又猾（滑）"
+    "output": "又奸（尖）又猾（滑）",
+    "sample_id": "fuxi_ASQA_471"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "做梦拾元宝",
-    "output": "空欢喜；欢喜不尽；一场空欢喜；想得美"
+    "output": "空欢喜；欢喜不尽；一场空欢喜；想得美",
+    "sample_id": "fuxi_ASQA_472"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "泥菩萨掉在汤锅里",
-    "output": "浑身酥软"
+    "output": "浑身酥软",
+    "sample_id": "fuxi_ASQA_473"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "肚脐眼安雷管",
-    "output": "心惊肉跳"
+    "output": "心惊肉跳",
+    "sample_id": "fuxi_ASQA_474"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "臼鼠拖南瓜",
-    "output": "咋办"
+    "output": "咋办",
+    "sample_id": "fuxi_ASQA_475"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "校场里的土地",
-    "output": "管得宽"
+    "output": "管得宽",
+    "sample_id": "fuxi_ASQA_476"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "冬天的扇子",
-    "output": "没用处；尽受冷落"
+    "output": "没用处；尽受冷落",
+    "sample_id": "fuxi_ASQA_477"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "肚里吞金",
-    "output": "有内才（财）；心里沉重；心里负担太重"
+    "output": "有内才（财）；心里沉重；心里负担太重",
+    "sample_id": "fuxi_ASQA_478"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "泥人吃饺子",
-    "output": "难言（咽）"
+    "output": "难言（咽）",
+    "sample_id": "fuxi_ASQA_479"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "河滩里盖房子",
-    "output": "靠不住；不可靠"
+    "output": "靠不住；不可靠",
+    "sample_id": "fuxi_ASQA_480"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老和尚讲佛经",
-    "output": "说的说，听的听"
+    "output": "说的说，听的听",
+    "sample_id": "fuxi_ASQA_481"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "照相的底片",
-    "output": "颠倒黑白"
+    "output": "颠倒黑白",
+    "sample_id": "fuxi_ASQA_482"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "盐老板抱琵琶",
-    "output": "闲谈（咸弹）"
+    "output": "闲谈（咸弹）",
+    "sample_id": "fuxi_ASQA_483"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "袜子当帽子",
-    "output": "臭出头了"
+    "output": "臭出头了",
+    "sample_id": "fuxi_ASQA_484"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大粪车出村",
-    "output": "装死（屎）"
+    "output": "装死（屎）",
+    "sample_id": "fuxi_ASQA_485"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老驴噙本《三字经》",
-    "output": "咬文嚼字"
+    "output": "咬文嚼字",
+    "sample_id": "fuxi_ASQA_486"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "补锅匠的脊梁",
-    "output": "背黑锅"
+    "output": "背黑锅",
+    "sample_id": "fuxi_ASQA_487"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打柴人回山庄",
-    "output": "两头担心（薪）"
+    "output": "两头担心（薪）",
+    "sample_id": "fuxi_ASQA_488"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "屋里放风筝",
-    "output": "高也有限"
+    "output": "高也有限",
+    "sample_id": "fuxi_ASQA_489"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大闺女上轿",
-    "output": "慢慢蹭"
+    "output": "慢慢蹭",
+    "sample_id": "fuxi_ASQA_490"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "猴子爬板凳",
-    "output": "各想一头"
+    "output": "各想一头",
+    "sample_id": "fuxi_ASQA_491"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "漫地里烤火",
-    "output": "一面热"
+    "output": "一面热",
+    "sample_id": "fuxi_ASQA_492"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "捏住鼻子喝木哩",
-    "output": "一声儿不响"
+    "output": "一声儿不响",
+    "sample_id": "fuxi_ASQA_493"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "脱了旧鞋换新鞋",
-    "output": "改邪（鞋）归正"
+    "output": "改邪（鞋）归正",
+    "sample_id": "fuxi_ASQA_494"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "铁匠死在宝剑下",
-    "output": "自作自受"
+    "output": "自作自受",
+    "sample_id": "fuxi_ASQA_495"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老太婆啃窝头",
-    "output": "细嚼慢咽"
+    "output": "细嚼慢咽",
+    "sample_id": "fuxi_ASQA_496"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "扎鞋不拴绳结",
-    "output": "半途而废"
+    "output": "半途而废",
+    "sample_id": "fuxi_ASQA_497"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "坟头上耍大刀",
-    "output": "吓鬼（比喻吓唬不了人。）；吓死人"
+    "output": "吓鬼（比喻吓唬不了人。）；吓死人",
+    "sample_id": "fuxi_ASQA_498"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "老太太走路",
-    "output": "慢腾腾"
+    "output": "慢腾腾",
+    "sample_id": "fuxi_ASQA_499"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "染缸里落白布",
-    "output": "再也洗不清（比喻永远去不掉身上的污点。）"
+    "output": "再也洗不清（比喻永远去不掉身上的污点。）",
+    "sample_id": "fuxi_ASQA_500"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "俊女嫁痴汉",
-    "output": "可惜；真可惜"
+    "output": "可惜；真可惜",
+    "sample_id": "fuxi_ASQA_501"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "踩着麻绳当蛇",
-    "output": "大惊小怪"
+    "output": "大惊小怪",
+    "sample_id": "fuxi_ASQA_502"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二月去了八月来",
-    "output": "不冷不热；热不着也凉不着"
+    "output": "不冷不热；热不着也凉不着",
+    "sample_id": "fuxi_ASQA_503"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "傻小子爬墙头",
-    "output": "四下无门；四路无门"
+    "output": "四下无门；四路无门",
+    "sample_id": "fuxi_ASQA_504"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "晴天带伞",
-    "output": "有备无患"
+    "output": "有备无患",
+    "sample_id": "fuxi_ASQA_505"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "破网打鱼",
-    "output": "瞎张罗"
+    "output": "瞎张罗",
+    "sample_id": "fuxi_ASQA_506"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "狗眼看人",
-    "output": "咬穷不咬富"
+    "output": "咬穷不咬富",
+    "sample_id": "fuxi_ASQA_507"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "隔年的馒头",
-    "output": "早发的"
+    "output": "早发的",
+    "sample_id": "fuxi_ASQA_508"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "麝香的味",
-    "output": "包不住"
+    "output": "包不住",
+    "sample_id": "fuxi_ASQA_509"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "讨口的掉醋坛",
-    "output": "穷酸"
+    "output": "穷酸",
+    "sample_id": "fuxi_ASQA_510"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一枪打死个苍蝇",
-    "output": "得不偿失"
+    "output": "得不偿失",
+    "sample_id": "fuxi_ASQA_511"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "马勺碰锅沿",
-    "output": "常有的事（比喻屡见不鲜。）"
+    "output": "常有的事（比喻屡见不鲜。）",
+    "sample_id": "fuxi_ASQA_512"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "无头的苍蝇",
-    "output": "瞎碰；瞎撞"
+    "output": "瞎碰；瞎撞",
+    "sample_id": "fuxi_ASQA_513"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "呆子不识走马灯",
-    "output": "来的来，去的去"
+    "output": "来的来，去的去",
+    "sample_id": "fuxi_ASQA_514"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "苞谷面做元宵",
-    "output": "捏不拢"
+    "output": "捏不拢",
+    "sample_id": "fuxi_ASQA_515"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "哑巴求医",
-    "output": "说不出的毛病"
+    "output": "说不出的毛病",
+    "sample_id": "fuxi_ASQA_516"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "盲人纺纱",
-    "output": "瞎扯"
+    "output": "瞎扯",
+    "sample_id": "fuxi_ASQA_517"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "电线杆子剔牙",
-    "output": "太粗"
+    "output": "太粗",
+    "sample_id": "fuxi_ASQA_518"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "一锅子混汤面",
-    "output": "糊涂到一块"
+    "output": "糊涂到一块",
+    "sample_id": "fuxi_ASQA_519"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "失踪的飞机",
-    "output": "下落不明；不知下落"
+    "output": "下落不明；不知下落",
+    "sample_id": "fuxi_ASQA_520"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "口咽黄连",
-    "output": "心里苦"
+    "output": "心里苦",
+    "sample_id": "fuxi_ASQA_521"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "口吃黄连",
-    "output": "苦在心"
+    "output": "苦在心",
+    "sample_id": "fuxi_ASQA_522"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "磅秤上放粒芝麻",
-    "output": "无足轻重"
+    "output": "无足轻重",
+    "sample_id": "fuxi_ASQA_523"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "吃了鸟枪药",
-    "output": "火气冲天"
+    "output": "火气冲天",
+    "sample_id": "fuxi_ASQA_524"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "鸭子吃糠壳",
-    "output": "白欢喜；空喜一场"
+    "output": "白欢喜；空喜一场",
+    "sample_id": "fuxi_ASQA_525"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "刀尖上跳舞",
-    "output": "凶多吉少"
+    "output": "凶多吉少",
+    "sample_id": "fuxi_ASQA_526"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "请小姨子作伴",
-    "output": "不安好心眼"
+    "output": "不安好心眼",
+    "sample_id": "fuxi_ASQA_527"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "没牙老婆嚼牛筋",
-    "output": "白磨嘴皮"
+    "output": "白磨嘴皮",
+    "sample_id": "fuxi_ASQA_528"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "衙门口打警察",
-    "output": "没事找事"
+    "output": "没事找事",
+    "sample_id": "fuxi_ASQA_529"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "裁缝铺扯筋（有纠纷闹矛盾）",
-    "output": "争长论短"
+    "output": "争长论短",
+    "sample_id": "fuxi_ASQA_530"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "瞎子吃羊肉",
-    "output": "块块好"
+    "output": "块块好",
+    "sample_id": "fuxi_ASQA_531"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "二郎神的天犬",
-    "output": "恶狗一条"
+    "output": "恶狗一条",
+    "sample_id": "fuxi_ASQA_532"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "警察当扒手",
-    "output": "知法犯法"
+    "output": "知法犯法",
+    "sample_id": "fuxi_ASQA_533"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "闭着眼睛下围棋",
-    "output": "黑白不分；混淆黑白"
+    "output": "黑白不分；混淆黑白",
+    "sample_id": "fuxi_ASQA_534"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "打好的鱼网",
-    "output": "心眼儿多（比喻很有心计。）"
+    "output": "心眼儿多（比喻很有心计。）",
+    "sample_id": "fuxi_ASQA_535"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "山洪冲石子",
-    "output": "不滚也得滚"
+    "output": "不滚也得滚",
+    "sample_id": "fuxi_ASQA_536"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "恶狼和疯狗作伴",
-    "output": "脾气相投"
+    "output": "脾气相投",
+    "sample_id": "fuxi_ASQA_537"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "月下老人绣鸳鸯",
-    "output": "穿针引线"
+    "output": "穿针引线",
+    "sample_id": "fuxi_ASQA_538"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "刀削铅笔",
-    "output": "要的就是尖"
+    "output": "要的就是尖",
+    "sample_id": "fuxi_ASQA_539"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "八十岁站柜台",
-    "output": "老在行"
+    "output": "老在行",
+    "sample_id": "fuxi_ASQA_540"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "拉了弦的手榴弹",
-    "output": "给谁谁不要"
+    "output": "给谁谁不要",
+    "sample_id": "fuxi_ASQA_541"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "布机上的梭子",
-    "output": "直来直去；去了又来"
+    "output": "直来直去；去了又来",
+    "sample_id": "fuxi_ASQA_542"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "木匠的折尺",
-    "output": "能屈能伸"
+    "output": "能屈能伸",
+    "sample_id": "fuxi_ASQA_543"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "棉花人救火",
-    "output": "自身难保"
+    "output": "自身难保",
+    "sample_id": "fuxi_ASQA_544"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "绒球打锣",
-    "output": "没有回音（比喻没有回答或没有音信。）"
+    "output": "没有回音（比喻没有回答或没有音信。）",
+    "sample_id": "fuxi_ASQA_545"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "大姑娘穿花鞋",
-    "output": "走着瞧"
+    "output": "走着瞧",
+    "sample_id": "fuxi_ASQA_546"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "属寒号鸟的",
-    "output": "得过且过"
+    "output": "得过且过",
+    "sample_id": "fuxi_ASQA_547"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "拍一下肩膀屁股痛",
-    "output": "浑身是病"
+    "output": "浑身是病",
+    "sample_id": "fuxi_ASQA_548"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "飞机的尾日",
-    "output": "翘得高；翘到天上去了"
+    "output": "翘得高；翘到天上去了",
+    "sample_id": "fuxi_ASQA_549"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "壁虎掀门帘",
-    "output": "露一小手"
+    "output": "露一小手",
+    "sample_id": "fuxi_ASQA_550"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "长虫过街",
-    "output": "井（蟒）行"
+    "output": "井（蟒）行",
+    "sample_id": "fuxi_ASQA_551"
   },
   {
     "instruction": "给出以下歇后语的后半句谜底。",
     "input": "墙头草随风倒",
-    "output": "两面装好人"
+    "output": "两面装好人",
+    "sample_id": "fuxi_ASQA_552"
   }
 ]

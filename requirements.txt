@@ -1,0 +1,13 @@
+chattool==3.3.4
+jieba==0.42.1
+langchain==0.3.21
+langchain_core==0.3.45
+langchain_openai==0.3.9
+loguru==0.7.2
+nltk==3.8.1
+pandas==2.2.3
+rouge_chinese==1.0.3
+sacrebleu==2.4.3
+tqdm==4.67.0
+transformers==4.49.0
+vllm==0.7.2

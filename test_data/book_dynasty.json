@@ -2,1861 +2,2233 @@
   {
     "instruction": "",
     "input": "请问《论画十则》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_0"
   },
   {
     "instruction": "",
     "input": "请问《涉异志》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_1"
   },
   {
     "instruction": "",
     "input": "请问《北京潭柘寺清拳》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_2"
   },
   {
     "instruction": "",
     "input": "请问《大乘百福庄严相经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_3"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述礼忏部-法界圣凡水陆大斋普利道场性相通论》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_4"
   },
   {
     "instruction": "",
     "input": "请问《天马山房遗稿》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_5"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-丛林两序须知》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_6"
   },
   {
     "instruction": "",
     "input": "请问《寄园寄所寄》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_7"
   },
   {
     "instruction": "",
     "input": "请问《明高僧传》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_8"
   },
   {
     "instruction": "",
     "input": "请问《诗学源流考》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_9"
   },
   {
     "instruction": "",
     "input": "请问《滇游记》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_10"
   },
   {
     "instruction": "",
     "input": "请问《英云梦三生姻缘》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_11"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部编年通史-历朝释氏资鉴》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_12"
   },
   {
     "instruction": "",
     "input": "请问《文房四谱》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_13"
   },
   {
     "instruction": "",
     "input": "请问《尚论篇》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_14"
   },
   {
     "instruction": "",
     "input": "请问《温公续诗话》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_15"
   },
   {
     "instruction": "",
     "input": "请问《顾曲杂言》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_16"
   },
   {
     "instruction": "",
     "input": "请问《寄鹤斋选集》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_17"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-摩诃止观记中异义》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_18"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-妇人产后门》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_19"
   },
   {
     "instruction": "",
     "input": "请问《止观大意》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_20"
   },
   {
     "instruction": "",
     "input": "请问《佛说佛地经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_21"
   },
   {
     "instruction": "",
     "input": "请问《汰存录纪辨》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_22"
   },
   {
     "instruction": "",
     "input": "请问《西湖梦寻》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_23"
   },
   {
     "instruction": "",
     "input": "请问《无量门破魔陀罗尼经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_24"
   },
   {
     "instruction": "",
     "input": "请问《首楞严义疏注经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_25"
   },
   {
     "instruction": "",
     "input": "请问《大同纪事》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_26"
   },
   {
     "instruction": "",
     "input": "请问《四宜堂集》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_27"
   },
   {
     "instruction": "",
     "input": "请问《苑洛集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_28"
   },
   {
     "instruction": "",
     "input": "请问《赤松山志》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_29"
   },
   {
     "instruction": "",
     "input": "请问《广弘明集》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_30"
   },
   {
     "instruction": "",
     "input": "请问《南唐近事》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_31"
   },
   {
     "instruction": "",
     "input": "请问《法句经》这本书写成于哪个朝代？",
-    "output": "吴"
+    "output": "吴",
+    "sample_id": "fuxi_BD_32"
   },
   {
     "instruction": "",
     "input": "请问《杂譬喻经》这本书写成于哪个朝代？",
-    "output": "后汉"
+    "output": "后汉",
+    "sample_id": "fuxi_BD_33"
   },
   {
     "instruction": "",
     "input": "请问《仁王般若经疏》这本书写成于哪个朝代？",
-    "output": "隋"
+    "output": "隋",
+    "sample_id": "fuxi_BD_34"
   },
   {
     "instruction": "",
     "input": "请问《醉经楼集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_35"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部法相宗-唯识开蒙问答》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_36"
   },
   {
     "instruction": "",
     "input": "请问《随园诗话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_37"
   },
   {
     "instruction": "",
     "input": "请问《霍渭厓家训》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_38"
   },
   {
     "instruction": "",
     "input": "请问《佛说较量一切佛刹功德经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_39"
   },
   {
     "instruction": "",
     "input": "请问《佛说沙弥十戒仪则经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_40"
   },
   {
     "instruction": "",
     "input": "请问《申日儿本经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_41"
   },
   {
     "instruction": "",
     "input": "请问《中边分别论》这本书写成于哪个朝代？",
-    "output": "陈"
+    "output": "陈",
+    "sample_id": "fuxi_BD_42"
   },
   {
     "instruction": "",
     "input": "请问《马培之医案》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_43"
   },
   {
     "instruction": "",
     "input": "请问《元诗选》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_44"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典感叹部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_45"
   },
   {
     "instruction": "",
     "input": "请问《佛说佛名经》这本书写成于哪个朝代？",
-    "output": "元魏"
+    "output": "元魏",
+    "sample_id": "fuxi_BD_46"
   },
   {
     "instruction": "",
     "input": "请问《明季三朝野史》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_47"
   },
   {
     "instruction": "",
     "input": "请问《雷峰塔奇传》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_48"
   },
   {
     "instruction": "",
     "input": "请问《肇论》这本书写成于哪个朝代？",
-    "output": "后秦"
+    "output": "后秦",
+    "sample_id": "fuxi_BD_49"
   },
   {
     "instruction": "",
     "input": "请问《已畦琐语》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_50"
   },
   {
     "instruction": "",
     "input": "请问《针经指南》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_51"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部威仪类-洞神三皇七十二君斋方忏仪》这本书写成于哪个朝代？",
-    "output": "前蜀"
+    "output": "前蜀",
+    "sample_id": "fuxi_BD_52"
   },
   {
     "instruction": "",
     "input": "请问《金刚般若论》这本书写成于哪个朝代？",
-    "output": "隋"
+    "output": "隋",
+    "sample_id": "fuxi_BD_53"
   },
   {
     "instruction": "",
     "input": "请问《佛说处处经》这本书写成于哪个朝代？",
-    "output": "后汉"
+    "output": "后汉",
+    "sample_id": "fuxi_BD_54"
   },
   {
     "instruction": "",
     "input": "请问《蚍蜉传》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_55"
   },
   {
     "instruction": "",
     "input": "请问《近光集》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_56"
   },
   {
     "instruction": "",
     "input": "请问《佛制比丘六物图》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_57"
   },
   {
     "instruction": "",
     "input": "请问《金刚顶瑜伽念珠经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_58"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞玄部表奏类-广成集》这本书写成于哪个朝代？",
-    "output": "前蜀"
+    "output": "前蜀",
+    "sample_id": "fuxi_BD_59"
   },
   {
     "instruction": "",
     "input": "请问《金刚光焰止风雨陀罗尼经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_60"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述大小乘释经部华严部疏-华严经论》这本书写成于哪个朝代？",
-    "output": "后魏"
+    "output": "后魏",
+    "sample_id": "fuxi_BD_61"
   },
   {
     "instruction": "",
     "input": "请问《居官水镜》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_62"
   },
   {
     "instruction": "",
     "input": "请问《医略》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_63"
   },
   {
     "instruction": "",
     "input": "请问《乾坤大略》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_64"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-教观撮要论》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_65"
   },
   {
     "instruction": "",
     "input": "请问《兰闺恨》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_66"
   },
   {
     "instruction": "",
     "input": "请问《花王阁剩稿》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_67"
   },
   {
     "instruction": "",
     "input": "请问《殊域周咨录》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_68"
   },
   {
     "instruction": "",
     "input": "请问《金丹就正篇》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_69"
   },
   {
     "instruction": "",
     "input": "请问《明名臣琬琰录》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_70"
   },
   {
     "instruction": "",
     "input": "请问《王氏谈録》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_71"
   },
   {
     "instruction": "",
     "input": "请问《佛说睒子经之三》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_72"
   },
   {
     "instruction": "",
     "input": "请问《东坡先生年谱》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_73"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-妇人崩漏门》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_74"
   },
   {
     "instruction": "",
     "input": "请问《隋唐嘉话》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_75"
   },
   {
     "instruction": "",
     "input": "请问《阿咤薄俱元帅大将上佛陀罗尼经修行仪轨》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_76"
   },
   {
     "instruction": "",
     "input": "请问《远志斋词衷》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_77"
   },
   {
     "instruction": "",
     "input": "请问《圣阎曼德迦威怒王立成大神验念诵法》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_78"
   },
   {
     "instruction": "",
     "input": "请问《七颂堂识小录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_79"
   },
   {
     "instruction": "",
     "input": "请问《戴案纪略》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_80"
   },
   {
     "instruction": "",
     "input": "请问《香山县乡土志》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_81"
   },
   {
     "instruction": "",
     "input": "请问《对山医话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_82"
   },
   {
     "instruction": "",
     "input": "请问《白云樵唱集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_83"
   },
   {
     "instruction": "",
     "input": "请问《三论游意义》这本书写成于哪个朝代？",
-    "output": "隋"
+    "output": "隋",
+    "sample_id": "fuxi_BD_84"
   },
   {
     "instruction": "",
     "input": "请问《洪驹父诗话》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_85"
   },
   {
     "instruction": "",
     "input": "请问《金氏文集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_86"
   },
   {
     "instruction": "",
     "input": "请问《云峰集》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_87"
   },
   {
     "instruction": "",
     "input": "请问《佛说菩萨行方便境界神通变化经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_88"
   },
   {
     "instruction": "",
     "input": "请问《七破论》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_89"
   },
   {
     "instruction": "",
     "input": "请问《乐庵语录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_90"
   },
   {
     "instruction": "",
     "input": "请问《甲乙日历》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_91"
   },
   {
     "instruction": "",
     "input": "请问《佛说法身经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_92"
   },
   {
     "instruction": "",
     "input": "请问《佛说般若波罗蜜多心经赞》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_93"
   },
   {
     "instruction": "",
     "input": "请问《法藏碎金录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_94"
   },
   {
     "instruction": "",
     "input": "请问《豆棚闲话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_95"
   },
   {
     "instruction": "",
     "input": "请问《蠡海集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_96"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编交谊典师弟部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_97"
   },
   {
     "instruction": "",
     "input": "请问《玉壶野史》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_98"
   },
   {
     "instruction": "",
     "input": "请问《钱塘先贤传赞》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_99"
   },
   {
     "instruction": "",
     "input": "请问《佛说文殊师利净律经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_100"
   },
   {
     "instruction": "",
     "input": "请问《龙源夜话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_101"
   },
   {
     "instruction": "",
     "input": "请问《扫迷帚》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_102"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-弘戒法仪》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_103"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-上阳子金丹大要》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_104"
   },
   {
     "instruction": "",
     "input": "请问《佛说斋经》这本书写成于哪个朝代？",
-    "output": "吴"
+    "output": "吴",
+    "sample_id": "fuxi_BD_105"
   },
   {
     "instruction": "",
     "input": "请问《剧谈录》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_106"
   },
   {
     "instruction": "",
     "input": "请问《二刻拍案惊奇》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_107"
   },
   {
     "instruction": "",
     "input": "请问《印度撰述经部方等部-楞伽阿跋多罗宝经》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_108"
   },
   {
     "instruction": "",
     "input": "请问《慈悲道场忏法》这本书写成于哪个朝代？",
-    "output": "梁"
+    "output": "梁",
+    "sample_id": "fuxi_BD_109"
   },
   {
     "instruction": "",
     "input": "请问《镇州临济慧照禅师语录》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_110"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典投胎部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_111"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-普能嵩禅师净土诗》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_112"
   },
   {
     "instruction": "",
     "input": "请问《金色童子因缘经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_113"
   },
   {
     "instruction": "",
     "input": "请问《无根树词注解》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_114"
   },
   {
     "instruction": "",
     "input": "请问《佛说苾芻五法经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_115"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-亶甲集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_116"
   },
   {
     "instruction": "",
     "input": "请问《佛说无言童子经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_117"
   },
   {
     "instruction": "",
     "input": "请问《春秋左传正义》这本书写成于哪个朝代？",
-    "output": "晋"
+    "output": "晋",
+    "sample_id": "fuxi_BD_118"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部众术类-金华冲碧丹经秘旨传》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_119"
   },
   {
     "instruction": "",
     "input": "请问《易图通变》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_120"
   },
   {
     "instruction": "",
     "input": "请问《简明医彀》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_121"
   },
   {
     "instruction": "",
     "input": "请问《竹谱》这本书写成于哪个朝代？",
-    "output": "晋"
+    "output": "晋",
+    "sample_id": "fuxi_BD_122"
   },
   {
     "instruction": "",
     "input": "请问《故宫漫载》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_123"
   },
   {
     "instruction": "",
     "input": "请问《金石要例》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_124"
   },
   {
     "instruction": "",
     "input": "请问《四阿鋡暮抄解》这本书写成于哪个朝代？",
-    "output": "符秦"
+    "output": "符秦",
+    "sample_id": "fuxi_BD_125"
   },
   {
     "instruction": "",
     "input": "请问《王文正公遗事》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_126"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太平部-三洞珠囊》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_127"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏正一部-长春真人西游记》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_128"
   },
   {
     "instruction": "",
     "input": "请问《佛说十一想思念如来经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_129"
   },
   {
     "instruction": "",
     "input": "请问《医林琐语》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_130"
   },
   {
     "instruction": "",
     "input": "请问《西溪丛语》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_131"
   },
   {
     "instruction": "",
     "input": "请问《佛说阿阇世王经》这本书写成于哪个朝代？",
-    "output": "后汉"
+    "output": "后汉",
+    "sample_id": "fuxi_BD_132"
   },
   {
     "instruction": "",
     "input": "请问《建炎以來朝野杂记》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_133"
   },
   {
     "instruction": "",
     "input": "请问《巢林笔谈》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_134"
   },
   {
     "instruction": "",
     "input": "请问《玉玺本末》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_135"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-唯心集》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_136"
   },
   {
     "instruction": "",
     "input": "请问《学易居笔录》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_137"
   },
   {
     "instruction": "",
     "input": "请问《争春园》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_138"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-道德真经集解》这本书写成于哪个朝代？",
-    "output": "金"
+    "output": "金",
+    "sample_id": "fuxi_BD_139"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典悲欢部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_140"
   },
   {
     "instruction": "",
     "input": "请问《唐宋文醇》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_141"
   },
   {
     "instruction": "",
     "input": "请问《知医必辨》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_142"
   },
   {
     "instruction": "",
     "input": "请问《阿弥陀经义述》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_143"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-经络门》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_144"
   },
   {
     "instruction": "",
     "input": "请问《英吉利广东入城始末》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_145"
   },
   {
     "instruction": "",
     "input": "请问《容春堂别集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_146"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-归元直指集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_147"
   },
   {
     "instruction": "",
     "input": "请问《玉井樵唱》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_148"
   },
   {
     "instruction": "",
     "input": "请问《陆地仙经》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_149"
   },
   {
     "instruction": "",
     "input": "请问《广右战功》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_150"
   },
   {
     "instruction": "",
     "input": "请问《佛说造塔延命功德经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_151"
   },
   {
     "instruction": "",
     "input": "请问《画山水序》这本书写成于哪个朝代？",
-    "output": "南朝宋"
+    "output": "南朝宋",
+    "sample_id": "fuxi_BD_152"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-易外别传》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_153"
   },
   {
     "instruction": "",
     "input": "请问《佛说濡首菩萨无上清净分卫经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_154"
   },
   {
     "instruction": "",
     "input": "请问《千眼千臂观世音菩萨陀罗尼神咒经之二》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_155"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-律学发轫》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_156"
   },
   {
     "instruction": "",
     "input": "请问《佛说离睡经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_157"
   },
   {
     "instruction": "",
     "input": "请问《论词随笔》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_158"
   },
   {
     "instruction": "",
     "input": "请问《宦海慈航》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_159"
   },
   {
     "instruction": "",
     "input": "请问《兵法心要》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_160"
   },
   {
     "instruction": "",
     "input": "请问《四诊抉微》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_161"
   },
   {
     "instruction": "",
     "input": "请问《佛遗教经论疏节要》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_162"
   },
   {
     "instruction": "",
     "input": "请问《贾氏谭录》这本书写成于哪个朝代？",
-    "output": "五代"
+    "output": "五代",
+    "sample_id": "fuxi_BD_163"
   },
   {
     "instruction": "",
     "input": "请问《受菩提心戒仪》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_164"
   },
   {
     "instruction": "",
     "input": "请问《沙州记》这本书写成于哪个朝代？",
-    "output": "南朝宋"
+    "output": "南朝宋",
+    "sample_id": "fuxi_BD_165"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-玄珠录》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_166"
   },
   {
     "instruction": "",
     "input": "请问《孟子字义疏证》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_167"
   },
   {
     "instruction": "",
     "input": "请问《大唐秦王词话》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_168"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-小儿诸疳门》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_169"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编闺媛典闺媛总部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_170"
   },
   {
     "instruction": "",
     "input": "请问《贵耳集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_171"
   },
   {
     "instruction": "",
     "input": "请问《苇航纪谈》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_172"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞真部记传类-茅山志》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_173"
   },
   {
     "instruction": "",
     "input": "请问《孔氏志怪》这本书写成于哪个朝代？",
-    "output": "晋"
+    "output": "晋",
+    "sample_id": "fuxi_BD_174"
   },
   {
     "instruction": "",
     "input": "请问《金刚峰楼阁一切瑜伽瑜祇经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_175"
   },
   {
     "instruction": "",
     "input": "请问《本草易读》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_176"
   },
   {
     "instruction": "",
     "input": "请问《明道编》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_177"
   },
   {
     "instruction": "",
     "input": "请问《词征》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_178"
   },
   {
     "instruction": "",
     "input": "请问《茗史》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_179"
   },
   {
     "instruction": "",
     "input": "请问《河岳英灵集》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_180"
   },
   {
     "instruction": "",
     "input": "请问《梅谱》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_181"
   },
   {
     "instruction": "",
     "input": "请问《厘正按摩要术》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_182"
   },
   {
     "instruction": "",
     "input": "请问《佛说息诤因缘经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_183"
   },
   {
     "instruction": "",
     "input": "请问《太玄经》这本书写成于哪个朝代？",
-    "output": "汉"
+    "output": "汉",
+    "sample_id": "fuxi_BD_184"
   },
   {
     "instruction": "",
     "input": "请问《枢言》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_185"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-禅林宝训顺朱》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_186"
   },
   {
     "instruction": "",
     "input": "请问《塘医话 馤塘医话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_187"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编交谊典结义部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_188"
   },
   {
     "instruction": "",
     "input": "请问《文殊指南图赞》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_189"
   },
   {
     "instruction": "",
     "input": "请问《佛说师子素驮娑王断肉经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_190"
   },
   {
     "instruction": "",
     "input": "请问《东山存稿》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_191"
   },
   {
     "instruction": "",
     "input": "请问《天台风俗志》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_192"
   },
   {
     "instruction": "",
     "input": "请问《林外野言》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_193"
   },
   {
     "instruction": "",
     "input": "请问《北窗炙輠录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_194"
   },
   {
     "instruction": "",
     "input": "请问《六部成语》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_195"
   },
   {
     "instruction": "",
     "input": "请问《周易集注》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_196"
   },
   {
     "instruction": "",
     "input": "请问《菩萨本缘经》这本书写成于哪个朝代？",
-    "output": "吴"
+    "output": "吴",
+    "sample_id": "fuxi_BD_197"
   },
   {
     "instruction": "",
     "input": "请问《六十种曲明珠记》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_198"
   },
   {
     "instruction": "",
     "input": "请问《佛说四天王经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_199"
   },
   {
     "instruction": "",
     "input": "请问《佛说如幻三昧经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_200"
   },
   {
     "instruction": "",
     "input": "请问《国朝画徵录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_201"
   },
   {
     "instruction": "",
     "input": "请问《三坟》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_202"
   },
   {
     "instruction": "",
     "input": "请问《佛说苾芻迦尸迦十法经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_203"
   },
   {
     "instruction": "",
     "input": "请问《广百论本》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_204"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-上阳子金丹大要列仙志》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_205"
   },
   {
     "instruction": "",
     "input": "请问《孀妹殊遇》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_206"
   },
   {
     "instruction": "",
     "input": "请问《观自在菩萨说普贤陀罗尼经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_207"
   },
   {
     "instruction": "",
     "input": "请问《瑶石山人稿》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_208"
   },
   {
     "instruction": "",
     "input": "请问《张聿青医案》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_209"
   },
   {
     "instruction": "",
     "input": "请问《谭曲杂札》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_210"
   },
   {
     "instruction": "",
     "input": "请问《佛说譬喻经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_211"
   },
   {
     "instruction": "",
     "input": "请问《佛说阿那律八念经》这本书写成于哪个朝代？",
-    "output": "后汉"
+    "output": "后汉",
+    "sample_id": "fuxi_BD_212"
   },
   {
     "instruction": "",
     "input": "请问《佛说观无量寿佛经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_213"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编家范典祖孙部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_214"
   },
   {
     "instruction": "",
     "input": "请问《花当阁丛谈》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_215"
   },
   {
     "instruction": "",
     "input": "请问《诚斋诗话》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_216"
   },
   {
     "instruction": "",
     "input": "请问《翰林志》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_217"
   },
   {
     "instruction": "",
     "input": "请问《佛说申日经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_218"
   },
   {
     "instruction": "",
     "input": "请问《东宫备览》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_219"
   },
   {
     "instruction": "",
     "input": "请问《咸淳毗陵志》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_220"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编交谊典赠答部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_221"
   },
   {
     "instruction": "",
     "input": "请问《辽金元宫词》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_222"
   },
   {
     "instruction": "",
     "input": "请问《浴鹤庵诗集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_223"
   },
   {
     "instruction": "",
     "input": "请问《海壑吟稿》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_224"
   },
   {
     "instruction": "",
     "input": "请问《廿一史弹词》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_225"
   },
   {
     "instruction": "",
     "input": "请问《雅言》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_226"
   },
   {
     "instruction": "",
     "input": "请问《归莲梦》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_227"
   },
   {
     "instruction": "",
     "input": "请问《大乘离文字普光明藏经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_228"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-黄帝素问灵枢集注》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_229"
   },
   {
     "instruction": "",
     "input": "请问《大圣欢喜双身大自在天毗那夜迦王归依念诵供养法》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_230"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述礼忏部-慈悲道场水忏法随闻录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_231"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部诸宗通传-武林西湖高僧事略》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_232"
   },
   {
     "instruction": "",
     "input": "请问《笔梨园》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_233"
   },
   {
     "instruction": "",
     "input": "请问《鬼谷四友志》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_234"
   },
   {
     "instruction": "",
     "input": "请问《白石诗集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_235"
   },
   {
     "instruction": "",
     "input": "请问《西曹秋思》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_236"
   },
   {
     "instruction": "",
     "input": "请问《最近官场秘密史》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_237"
   },
   {
     "instruction": "",
     "input": "请问《金刚药叉瞋怒王息灾大威神验念诵仪轨》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_238"
   },
   {
     "instruction": "",
     "input": "请问《曼殊室利菩萨咒藏中一字咒王经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_239"
   },
   {
     "instruction": "",
     "input": "请问《申子》这本书写成于哪个朝代？",
-    "output": "战国"
+    "output": "战国",
+    "sample_id": "fuxi_BD_240"
   },
   {
     "instruction": "",
     "input": "请问《官箴集要》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_241"
   },
   {
     "instruction": "",
     "input": "请问《木几冗谈》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_242"
   },
   {
     "instruction": "",
     "input": "请问《温公琐语》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_243"
   },
   {
     "instruction": "",
     "input": "请问《汉晋春秋》这本书写成于哪个朝代？",
-    "output": "晋"
+    "output": "晋",
+    "sample_id": "fuxi_BD_244"
   },
   {
     "instruction": "",
     "input": "请问《续佐治药言》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_245"
   },
   {
     "instruction": "",
     "input": "请问《柘轩集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_246"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部禅宗-续灯正统目录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_247"
   },
   {
     "instruction": "",
     "input": "请问《巳疟编》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_248"
   },
   {
     "instruction": "",
     "input": "请问《佛说灌顶王喻经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_249"
   },
   {
     "instruction": "",
     "input": "请问《底哩三昧耶不动尊圣者念诵秘密法》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_250"
   },
   {
     "instruction": "",
     "input": "请问《京城古迹考》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_251"
   },
   {
     "instruction": "",
     "input": "请问《焦氏易林注》这本书写成于哪个朝代？",
-    "output": "汉"
+    "output": "汉",
+    "sample_id": "fuxi_BD_252"
   },
   {
     "instruction": "",
     "input": "请问《如来师子吼经》这本书写成于哪个朝代？",
-    "output": "元魏"
+    "output": "元魏",
+    "sample_id": "fuxi_BD_253"
   },
   {
     "instruction": "",
     "input": "请问《天女散花》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_254"
   },
   {
     "instruction": "",
     "input": "请问《广宁县志》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_255"
   },
   {
     "instruction": "",
     "input": "请问《玉照神应真经》这本书写成于哪个朝代？",
-    "output": "晋"
+    "output": "晋",
+    "sample_id": "fuxi_BD_256"
   },
   {
     "instruction": "",
     "input": "请问《青溪暇笔》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_257"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部赞颂类-道德真经颂》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_258"
   },
   {
     "instruction": "",
     "input": "请问《赤崁集》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_259"
   },
   {
     "instruction": "",
     "input": "请问《放光般若经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_260"
   },
   {
     "instruction": "",
     "input": "请问《幸存录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_261"
   },
   {
     "instruction": "",
     "input": "请问《揽辔录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_262"
   },
   {
     "instruction": "",
     "input": "请问《大般涅槃经后分》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_263"
   },
   {
     "instruction": "",
     "input": "请问《济公诗词》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_264"
   },
   {
     "instruction": "",
     "input": "请问《女界鬼域记》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_265"
   },
   {
     "instruction": "",
     "input": "请问《太和正音谱》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_266"
   },
   {
     "instruction": "",
     "input": "请问《佛说法华三昧经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_267"
   },
   {
     "instruction": "",
     "input": "请问《明水陈先生文集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_268"
   },
   {
     "instruction": "",
     "input": "请问《藏海居士集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_269"
   },
   {
     "instruction": "",
     "input": "请问《宣和北苑贡茶录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_270"
   },
   {
     "instruction": "",
     "input": "请问《缧绁见闻悲愤录》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_271"
   },
   {
     "instruction": "",
     "input": "请问《棋经十三篇》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_272"
   },
   {
     "instruction": "",
     "input": "请问《大乘阿毗达磨杂集论》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_273"
   },
   {
     "instruction": "",
     "input": "请问《就正录》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_274"
   },
   {
     "instruction": "",
     "input": "请问《无声戏》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_275"
   },
   {
     "instruction": "",
     "input": "请问《范村梅谱》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_276"
   },
   {
     "instruction": "",
     "input": "请问《佛说净意优婆塞所问经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_277"
   },
   {
     "instruction": "",
     "input": "请问《皇明九边考》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_278"
   },
   {
     "instruction": "",
     "input": "请问《咫尺偶闻》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_279"
   },
   {
     "instruction": "",
     "input": "请问《佛说应法经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_280"
   },
   {
     "instruction": "",
     "input": "请问《受用三水要行法》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_281"
   },
   {
     "instruction": "",
     "input": "请问《儒林公议》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_282"
   },
   {
     "instruction": "",
     "input": "请问《唐玄宗御注道德真经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_283"
   },
   {
     "instruction": "",
     "input": "请问《傅青主女科》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_284"
   },
   {
     "instruction": "",
     "input": "请问《伤寒悬解》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_285"
   },
   {
     "instruction": "",
     "input": "请问《盛京疆域考》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_286"
   },
   {
     "instruction": "",
     "input": "请问《续三国演义》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_287"
   },
   {
     "instruction": "",
     "input": "请问《官箴》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_288"
   },
   {
     "instruction": "",
     "input": "请问《平台纪略》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_289"
   },
   {
     "instruction": "",
     "input": "请问《显扬圣教论颂》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_290"
   },
   {
     "instruction": "",
     "input": "请问《松亭行纪》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_291"
   },
   {
     "instruction": "",
     "input": "请问《慈幼新书》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_292"
   },
   {
     "instruction": "",
     "input": "请问《耒耜经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_293"
   },
   {
     "instruction": "",
     "input": "请问《佛母般若波罗蜜多圆集要义论》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_294"
   },
   {
     "instruction": "",
     "input": "请问《象台首末》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_295"
   },
   {
     "instruction": "",
     "input": "请问《金刚般若波罗蜜经破取著不坏假名论》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_296"
   },
   {
     "instruction": "",
     "input": "请问《柯亭词论》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_297"
   },
   {
     "instruction": "",
     "input": "请问《幼科铁镜》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_298"
   },
   {
     "instruction": "",
     "input": "请问《空同集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_299"
   },
   {
     "instruction": "",
     "input": "请问《栎社沿革志略》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_300"
   },
   {
     "instruction": "",
     "input": "请问《大方广三戒经》这本书写成于哪个朝代？",
-    "output": "北凉"
+    "output": "北凉",
+    "sample_id": "fuxi_BD_301"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-禅林备用清规》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_302"
   },
   {
     "instruction": "",
     "input": "请问《月灯三昧经》这本书写成于哪个朝代？",
-    "output": "高齐"
+    "output": "高齐",
+    "sample_id": "fuxi_BD_303"
   },
   {
     "instruction": "",
     "input": "请问《佛说如意宝总持王经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_304"
   },
   {
     "instruction": "",
     "input": "请问《佛说忠心经》这本书写成于哪个朝代？",
-    "output": "东晋"
+    "output": "东晋",
+    "sample_id": "fuxi_BD_305"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编闺媛典闺识部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_306"
   },
   {
     "instruction": "",
     "input": "请问《金光明忏法补助仪》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_307"
   },
   {
     "instruction": "",
     "input": "请问《元丰类稿》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_308"
   },
   {
     "instruction": "",
     "input": "请问《诊家枢要》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_309"
   },
   {
     "instruction": "",
     "input": "请问《佛说守护大千国土经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_310"
   },
   {
     "instruction": "",
     "input": "请问《樗隠集》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_311"
   },
   {
     "instruction": "",
     "input": "请问《平沙玉尺辨伪总括歌》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_312"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-博物汇编草木典菊部》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_313"
   },
   {
     "instruction": "",
     "input": "请问《太极图说述解》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_314"
   },
   {
     "instruction": "",
     "input": "请问《五苦章句经》这本书写成于哪个朝代？",
-    "output": "东晋"
+    "output": "东晋",
+    "sample_id": "fuxi_BD_315"
   },
   {
     "instruction": "",
     "input": "请问《金七十论》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_316"
   },
   {
     "instruction": "",
     "input": "请问《佛说文殊菩萨最胜真实名义经》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_317"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-宝镜三昧本义》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_318"
   },
   {
     "instruction": "",
     "input": "请问《清平山堂话本》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_319"
   },
   {
     "instruction": "",
     "input": "请问《彊村老人评词》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_320"
   },
   {
     "instruction": "",
     "input": "请问《唐子西文录》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_321"
   },
   {
     "instruction": "",
     "input": "请问《清净观世音普贤陀罗尼经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_322"
   },
   {
     "instruction": "",
     "input": "请问《满清入关暴政》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_323"
   },
   {
     "instruction": "",
     "input": "请问《摩尼光佛教法仪略》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_324"
   },
   {
     "instruction": "",
     "input": "请问《西湖佳话》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_325"
   },
   {
     "instruction": "",
     "input": "请问《平蛮录》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_326"
   },
   {
     "instruction": "",
     "input": "请问《佛说鹦鹉经》这本书写成于哪个朝代？",
-    "output": "刘宋"
+    "output": "刘宋",
+    "sample_id": "fuxi_BD_327"
   },
   {
     "instruction": "",
     "input": "请问《琴谱序》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_328"
   },
   {
     "instruction": "",
     "input": "请问《曹仁伯医案论》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_329"
   },
   {
     "instruction": "",
     "input": "请问《武林旧事》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_330"
   },
   {
     "instruction": "",
     "input": "请问《根本说一切有部略毗奈耶杂事摄颂》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_331"
   },
   {
     "instruction": "",
     "input": "请问《小儿卫生总微论方》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_332"
   },
   {
     "instruction": "",
     "input": "请问《道门语要》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_333"
   },
   {
     "instruction": "",
     "input": "请问《中庸章句集注》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_334"
   },
   {
     "instruction": "",
     "input": "请问《经史百家杂钞》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_335"
   },
   {
     "instruction": "",
     "input": "请问《杂纂之义山杂纂》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_336"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏正一部-上清灵宝大法》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_337"
   },
   {
     "instruction": "",
     "input": "请问《佛说宝雨经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_338"
   },
   {
     "instruction": "",
     "input": "请问《比丘尼传》这本书写成于哪个朝代？",
-    "output": "梁"
+    "output": "梁",
+    "sample_id": "fuxi_BD_339"
   },
   {
     "instruction": "",
     "input": "请问《请观世音菩萨消伏毒害陀罗尼咒经》这本书写成于哪个朝代？",
-    "output": "东晋"
+    "output": "东晋",
+    "sample_id": "fuxi_BD_340"
   },
   {
     "instruction": "",
     "input": "请问《九云记》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_341"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-经律戒相布萨轨仪》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_342"
   },
   {
     "instruction": "",
     "input": "请问《朱子年谱考异》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_343"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-宝云振祖集》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_344"
   },
   {
     "instruction": "",
     "input": "请问《佛说四愿经》这本书写成于哪个朝代？",
-    "output": "吴"
+    "output": "吴",
+    "sample_id": "fuxi_BD_345"
   },
   {
     "instruction": "",
     "input": "请问《十地经论》这本书写成于哪个朝代？",
-    "output": "后魏"
+    "output": "后魏",
+    "sample_id": "fuxi_BD_346"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-金丹真一论》这本书写成于哪个朝代？",
-    "output": "五代"
+    "output": "五代",
+    "sample_id": "fuxi_BD_347"
   },
   {
     "instruction": "",
     "input": "请问《本草从新》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_348"
   },
   {
     "instruction": "",
     "input": "请问《佛说文殊师利般涅槃经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_349"
   },
   {
     "instruction": "",
     "input": "请问《朱舜水文选》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_350"
   },
   {
     "instruction": "",
     "input": "请问《深雪偶谈》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_351"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-饮食门》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_352"
   },
   {
     "instruction": "",
     "input": "请问《诗式》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_353"
   },
   {
     "instruction": "",
     "input": "请问《曹月川集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_354"
   },
   {
     "instruction": "",
     "input": "请问《佛说栴檀香身陀罗尼经》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_355"
   },
   {
     "instruction": "",
     "input": "请问《静居集》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_356"
   },
   {
     "instruction": "",
     "input": "请问《千手千眼观世音菩萨大悲心陀罗尼》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_357"
   },
   {
     "instruction": "",
     "input": "请问《黄金策》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_358"
   },
   {
     "instruction": "",
     "input": "请问《天籁集》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_359"
   },
   {
     "instruction": "",
     "input": "请问《神农书》这本书写成于哪个朝代？",
-    "output": "战国魏"
+    "output": "战国魏",
+    "sample_id": "fuxi_BD_360"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-十不二门义》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_361"
   },
   {
     "instruction": "",
     "input": "请问《岁华纪丽谱》这本书写成于哪个朝代？",
-    "output": "元"
+    "output": "元",
+    "sample_id": "fuxi_BD_362"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-传授三坛弘戒法仪》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_363"
   },
   {
     "instruction": "",
     "input": "请问《广大宝楼阁善住秘密陀罗尼经》这本书写成于哪个朝代？",
-    "output": "唐"
+    "output": "唐",
+    "sample_id": "fuxi_BD_364"
   },
   {
     "instruction": "",
     "input": "请问《佛说菩萨逝经》这本书写成于哪个朝代？",
-    "output": "西晋"
+    "output": "西晋",
+    "sample_id": "fuxi_BD_365"
   },
   {
     "instruction": "",
     "input": "请问《重订产孕集》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_366"
   },
   {
     "instruction": "",
     "input": "请问《耕樵问答》这本书写成于哪个朝代？",
-    "output": "明"
+    "output": "明",
+    "sample_id": "fuxi_BD_367"
   },
   {
     "instruction": "",
     "input": "请问《佛说四泥犁经》这本书写成于哪个朝代？",
-    "output": "东晋"
+    "output": "东晋",
+    "sample_id": "fuxi_BD_368"
   },
   {
     "instruction": "",
     "input": "请问《东方最胜灯王如来经》这本书写成于哪个朝代？",
-    "output": "隋"
+    "output": "隋",
+    "sample_id": "fuxi_BD_369"
   },
   {
     "instruction": "",
     "input": "请问《佛说阿弥陀经义疏》这本书写成于哪个朝代？",
-    "output": "宋"
+    "output": "宋",
+    "sample_id": "fuxi_BD_370"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部禅宗-正源略集补遗》这本书写成于哪个朝代？",
-    "output": "清"
+    "output": "清",
+    "sample_id": "fuxi_BD_371"
   }
 ]

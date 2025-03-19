@@ -2,1921 +2,2305 @@
   {
     "instruction": "",
     "input": "请问《雅堂文集》的作者是谁？",
-    "output": "连横"
+    "output": "连横",
+    "sample_id": "fuxi_BA_0"
   },
   {
     "instruction": "",
     "input": "请问《周易口义》的作者是谁？",
-    "output": "胡瑗"
+    "output": "胡瑗",
+    "sample_id": "fuxi_BA_1"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-肿胀门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_2"
   },
   {
     "instruction": "",
     "input": "请问《谥法》的作者是谁？",
-    "output": "苏洵"
+    "output": "苏洵",
+    "sample_id": "fuxi_BA_3"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编宫闱典皇孙部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_4"
   },
   {
     "instruction": "",
     "input": "请问《永安县志 顺治本》的作者是谁？",
-    "output": "陈廷枢"
+    "output": "陈廷枢",
+    "sample_id": "fuxi_BA_5"
   },
   {
     "instruction": "",
     "input": "请问《鹿门子》的作者是谁？",
-    "output": "皮日休"
+    "output": "皮日休",
+    "sample_id": "fuxi_BA_6"
   },
   {
     "instruction": "",
     "input": "请问《绿牡丹》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_7"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编宫闱典东宫部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_8"
   },
   {
     "instruction": "",
     "input": "请问《两汉开国中兴传志》的作者是谁？",
-    "output": "黄化宇"
+    "output": "黄化宇",
+    "sample_id": "fuxi_BA_9"
   },
   {
     "instruction": "",
     "input": "请问《梁启超文集》的作者是谁？",
-    "output": "梁启超"
+    "output": "梁启超",
+    "sample_id": "fuxi_BA_10"
   },
   {
     "instruction": "",
     "input": "请问《满清入关暴政》的作者是谁？",
-    "output": "韩菼"
+    "output": "韩菼",
+    "sample_id": "fuxi_BA_11"
   },
   {
     "instruction": "",
     "input": "请问《明水陈先生文集》的作者是谁？",
-    "output": "陈九川"
+    "output": "陈九川",
+    "sample_id": "fuxi_BA_12"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述大小乘释经部华严部疏-华严悬谈会玄记》的作者是谁？",
-    "output": "普瑞"
+    "output": "普瑞",
+    "sample_id": "fuxi_BA_13"
   },
   {
     "instruction": "",
     "input": "请问《佛说杂藏经》的作者是谁？",
-    "output": "法显"
+    "output": "法显",
+    "sample_id": "fuxi_BA_14"
   },
   {
     "instruction": "",
     "input": "请问《牧民政要》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_15"
   },
   {
     "instruction": "",
     "input": "请问《乐府余论》的作者是谁？",
-    "output": "宋翔凤"
+    "output": "宋翔凤",
+    "sample_id": "fuxi_BA_16"
   },
   {
     "instruction": "",
     "input": "请问《砚谱》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_17"
   },
   {
     "instruction": "",
     "input": "请问《圣观自在菩萨功德赞》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_18"
   },
   {
     "instruction": "",
     "input": "请问《伤科补要》的作者是谁？",
-    "output": "钱秀昌"
+    "output": "钱秀昌",
+    "sample_id": "fuxi_BA_19"
   },
   {
     "instruction": "",
     "input": "请问《临臯文集》的作者是谁？",
-    "output": "杨寅秋"
+    "output": "杨寅秋",
+    "sample_id": "fuxi_BA_20"
   },
   {
     "instruction": "",
     "input": "请问《读书说》的作者是谁？",
-    "output": "胡承诺"
+    "output": "胡承诺",
+    "sample_id": "fuxi_BA_21"
   },
   {
     "instruction": "",
     "input": "请问《贵耳集》的作者是谁？",
-    "output": "张端义"
+    "output": "张端义",
+    "sample_id": "fuxi_BA_22"
   },
   {
     "instruction": "",
     "input": "请问《四明它山水利备览》的作者是谁？",
-    "output": "魏岘"
+    "output": "魏岘",
+    "sample_id": "fuxi_BA_23"
   },
   {
     "instruction": "",
     "input": "请问《儿科要略》的作者是谁？",
-    "output": "吴克潜"
+    "output": "吴克潜",
+    "sample_id": "fuxi_BA_24"
   },
   {
     "instruction": "",
     "input": "请问《齐民要术》的作者是谁？",
-    "output": "贾思勰"
+    "output": "贾思勰",
+    "sample_id": "fuxi_BA_25"
   },
   {
     "instruction": "",
     "input": "请问《海南杂着》的作者是谁？",
-    "output": "蔡廷兰"
+    "output": "蔡廷兰",
+    "sample_id": "fuxi_BA_26"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部禅宗-联灯会要》的作者是谁？",
-    "output": "悟明"
+    "output": "悟明",
+    "sample_id": "fuxi_BA_27"
   },
   {
     "instruction": "",
     "input": "请问《医林琐语》的作者是谁？",
-    "output": "陆九芝"
+    "output": "陆九芝",
+    "sample_id": "fuxi_BA_28"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞玄部众术类-玄珠心镜注》的作者是谁？",
-    "output": "长孙滋元"
+    "output": "长孙滋元",
+    "sample_id": "fuxi_BA_29"
   },
   {
     "instruction": "",
     "input": "请问《伤寒六书》的作者是谁？",
-    "output": "陶华"
+    "output": "陶华",
+    "sample_id": "fuxi_BA_30"
   },
   {
     "instruction": "",
     "input": "请问《纪丰润张学士马江战事本末》的作者是谁？",
-    "output": "赵增禹"
+    "output": "赵增禹",
+    "sample_id": "fuxi_BA_31"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编交谊典结义部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_32"
   },
   {
     "instruction": "",
     "input": "请问《外科枢要》的作者是谁？",
-    "output": "薛己"
+    "output": "薛己",
+    "sample_id": "fuxi_BA_33"
   },
   {
     "instruction": "",
     "input": "请问《入蜀记》的作者是谁？",
-    "output": "陆游"
+    "output": "陆游",
+    "sample_id": "fuxi_BA_34"
   },
   {
     "instruction": "",
     "input": "请问《戴东原先生轶事》的作者是谁？",
-    "output": "戴清泉"
+    "output": "戴清泉",
+    "sample_id": "fuxi_BA_35"
   },
   {
     "instruction": "",
     "input": "请问《密咒圆因往生集》的作者是谁？",
-    "output": "知广"
+    "output": "知广",
+    "sample_id": "fuxi_BA_36"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-运气门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_37"
   },
   {
     "instruction": "",
     "input": "请问《大哀经》的作者是谁？",
-    "output": "竺法护"
+    "output": "竺法护",
+    "sample_id": "fuxi_BA_38"
   },
   {
     "instruction": "",
     "input": "请问《地理辨惑》的作者是谁？",
-    "output": "马泰清"
+    "output": "马泰清",
+    "sample_id": "fuxi_BA_39"
   },
   {
     "instruction": "",
     "input": "请问《大乘起信论义记》的作者是谁？",
-    "output": "法藏"
+    "output": "法藏",
+    "sample_id": "fuxi_BA_40"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述礼忏部-供诸天科仪》的作者是谁？",
-    "output": "弘赞"
+    "output": "弘赞",
+    "sample_id": "fuxi_BA_41"
   },
   {
     "instruction": "",
     "input": "请问《法华玄赞义决》的作者是谁？",
-    "output": "慧沼"
+    "output": "慧沼",
+    "sample_id": "fuxi_BA_42"
   },
   {
     "instruction": "",
     "input": "请问《梅华问答》的作者是谁？",
-    "output": "薛阳桂"
+    "output": "薛阳桂",
+    "sample_id": "fuxi_BA_43"
   },
   {
     "instruction": "",
     "input": "请问《杨时诗话》的作者是谁？",
-    "output": "杨时"
+    "output": "杨时",
+    "sample_id": "fuxi_BA_44"
   },
   {
     "instruction": "",
     "input": "请问《两湖麈谈录》的作者是谁？",
-    "output": "许浩"
+    "output": "许浩",
+    "sample_id": "fuxi_BA_45"
   },
   {
     "instruction": "",
     "input": "请问《神机妙算一掌经》的作者是谁？",
-    "output": "张遂"
+    "output": "张遂",
+    "sample_id": "fuxi_BA_46"
   },
   {
     "instruction": "",
     "input": "请问《国宝新编》的作者是谁？",
-    "output": "顾璘"
+    "output": "顾璘",
+    "sample_id": "fuxi_BA_47"
   },
   {
     "instruction": "",
     "input": "请问《十住毗婆沙论》的作者是谁？",
-    "output": "鸠摩罗什"
+    "output": "鸠摩罗什",
+    "sample_id": "fuxi_BA_48"
   },
   {
     "instruction": "",
     "input": "请问《大阿罗汉难提蜜多罗所说法住记》的作者是谁？",
-    "output": "玄奘"
+    "output": "玄奘",
+    "sample_id": "fuxi_BA_49"
   },
   {
     "instruction": "",
     "input": "请问《台湾志略》的作者是谁？",
-    "output": "李元春"
+    "output": "李元春",
+    "sample_id": "fuxi_BA_50"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-祖庭事苑》的作者是谁？",
-    "output": "善卿"
+    "output": "善卿",
+    "sample_id": "fuxi_BA_51"
   },
   {
     "instruction": "",
     "input": "请问《十门辩惑论》的作者是谁？",
-    "output": "复礼"
+    "output": "复礼",
+    "sample_id": "fuxi_BA_52"
   },
   {
     "instruction": "",
     "input": "请问《天仙道戒忌须知》的作者是谁？",
-    "output": "闵一得"
+    "output": "闵一得",
+    "sample_id": "fuxi_BA_53"
   },
   {
     "instruction": "",
     "input": "请问《内炼金丹心法》的作者是谁？",
-    "output": "沖虛子"
+    "output": "沖虛子",
+    "sample_id": "fuxi_BA_54"
   },
   {
     "instruction": "",
     "input": "请问《佛临涅槃记法住经》的作者是谁？",
-    "output": "玄奘"
+    "output": "玄奘",
+    "sample_id": "fuxi_BA_55"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-皇极经世》的作者是谁？",
-    "output": "邵雍"
+    "output": "邵雍",
+    "sample_id": "fuxi_BA_56"
   },
   {
     "instruction": "",
     "input": "请问《贤博编》的作者是谁？",
-    "output": "叶权"
+    "output": "叶权",
+    "sample_id": "fuxi_BA_57"
   },
   {
     "instruction": "",
     "input": "请问《彰化县志》的作者是谁？",
-    "output": "周玺"
+    "output": "周玺",
+    "sample_id": "fuxi_BA_58"
   },
   {
     "instruction": "",
     "input": "请问《阴持入经注》的作者是谁？",
-    "output": "陈慧"
+    "output": "陈慧",
+    "sample_id": "fuxi_BA_59"
   },
   {
     "instruction": "",
     "input": "请问《禽星易见》的作者是谁？",
-    "output": "池本理"
+    "output": "池本理",
+    "sample_id": "fuxi_BA_60"
   },
   {
     "instruction": "",
     "input": "请问《北斗七星念诵仪轨》的作者是谁？",
-    "output": "金刚智"
+    "output": "金刚智",
+    "sample_id": "fuxi_BA_61"
   },
   {
     "instruction": "",
     "input": "请问《唐文续拾》的作者是谁？",
-    "output": "陆心源"
+    "output": "陆心源",
+    "sample_id": "fuxi_BA_62"
   },
   {
     "instruction": "",
     "input": "请问《医中一得》的作者是谁？",
-    "output": "顾尔元"
+    "output": "顾尔元",
+    "sample_id": "fuxi_BA_63"
   },
   {
     "instruction": "",
     "input": "请问《一贯问答》的作者是谁？",
-    "output": "方以智"
+    "output": "方以智",
+    "sample_id": "fuxi_BA_64"
   },
   {
     "instruction": "",
     "input": "请问《苕溪渔隐词话》的作者是谁？",
-    "output": "胡仔"
+    "output": "胡仔",
+    "sample_id": "fuxi_BA_65"
   },
   {
     "instruction": "",
     "input": "请问《西游记传》的作者是谁？",
-    "output": "杨致和"
+    "output": "杨致和",
+    "sample_id": "fuxi_BA_66"
   },
   {
     "instruction": "",
     "input": "请问《山静居画论》的作者是谁？",
-    "output": "方熏"
+    "output": "方熏",
+    "sample_id": "fuxi_BA_67"
   },
   {
     "instruction": "",
     "input": "请问《张卿子伤寒论》的作者是谁？",
-    "output": "张卿子"
+    "output": "张卿子",
+    "sample_id": "fuxi_BA_68"
   },
   {
     "instruction": "",
     "input": "请问《回诤论》的作者是谁？",
-    "output": "毗目智仙"
+    "output": "毗目智仙",
+    "sample_id": "fuxi_BA_69"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-瘟疫门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_70"
   },
   {
     "instruction": "",
     "input": "请问《金刚顶经瑜伽十八会指归》的作者是谁？",
-    "output": "不空"
+    "output": "不空",
+    "sample_id": "fuxi_BA_71"
   },
   {
     "instruction": "",
     "input": "请问《易纂言外翼洛书说》的作者是谁？",
-    "output": "吴澄"
+    "output": "吴澄",
+    "sample_id": "fuxi_BA_72"
   },
   {
     "instruction": "",
     "input": "请问《明珠缘》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_73"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编皇极典帝纪部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_74"
   },
   {
     "instruction": "",
     "input": "请问《春明退朝录》的作者是谁？",
-    "output": "宋敏求"
+    "output": "宋敏求",
+    "sample_id": "fuxi_BA_75"
   },
   {
     "instruction": "",
     "input": "请问《漫叟诗话》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_76"
   },
   {
     "instruction": "",
     "input": "请问《明心宝鉴》的作者是谁？",
-    "output": "范立本"
+    "output": "范立本",
+    "sample_id": "fuxi_BA_77"
   },
   {
     "instruction": "",
     "input": "请问《宋季三朝政要》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_78"
   },
   {
     "instruction": "",
     "input": "请问《佛说诸德福田经》的作者是谁？",
-    "output": "法立"
+    "output": "法立",
+    "sample_id": "fuxi_BA_79"
   },
   {
     "instruction": "",
     "input": "请问《极玄集》的作者是谁？",
-    "output": "姚合"
+    "output": "姚合",
+    "sample_id": "fuxi_BA_80"
   },
   {
     "instruction": "",
     "input": "请问《请观音经疏》的作者是谁？",
-    "output": "智顗"
+    "output": "智顗",
+    "sample_id": "fuxi_BA_81"
   },
   {
     "instruction": "",
     "input": "请问《御制官箴》的作者是谁？",
-    "output": "朱瞻基"
+    "output": "朱瞻基",
+    "sample_id": "fuxi_BA_82"
   },
   {
     "instruction": "",
     "input": "请问《佛说文殊师利净律经》的作者是谁？",
-    "output": "竺法护"
+    "output": "竺法护",
+    "sample_id": "fuxi_BA_83"
   },
   {
     "instruction": "",
     "input": "请问《大方广佛华严经入法界品》的作者是谁？",
-    "output": "地婆诃罗"
+    "output": "地婆诃罗",
+    "sample_id": "fuxi_BA_84"
   },
   {
     "instruction": "",
     "input": "请问《热血痕》的作者是谁？",
-    "output": "李亮丞"
+    "output": "李亮丞",
+    "sample_id": "fuxi_BA_85"
   },
   {
     "instruction": "",
     "input": "请问《论语学案》的作者是谁？",
-    "output": "刘宗周"
+    "output": "刘宗周",
+    "sample_id": "fuxi_BA_86"
   },
   {
     "instruction": "",
     "input": "请问《啰嚩拏说救疗小儿疾》的作者是谁？",
-    "output": "法贤"
+    "output": "法贤",
+    "sample_id": "fuxi_BA_87"
   },
   {
     "instruction": "",
     "input": "请问《奏定学堂章程学务纲要》的作者是谁？",
-    "output": "张百熙"
+    "output": "张百熙",
+    "sample_id": "fuxi_BA_88"
   },
   {
     "instruction": "",
     "input": "请问《赞扬圣德多罗菩萨一百八名经》的作者是谁？",
-    "output": "天息灾"
+    "output": "天息灾",
+    "sample_id": "fuxi_BA_89"
   },
   {
     "instruction": "",
     "input": "请问《明亡述略》的作者是谁？",
-    "output": "锁绿山人"
+    "output": "锁绿山人",
+    "sample_id": "fuxi_BA_90"
   },
   {
     "instruction": "",
     "input": "请问《异辞录》的作者是谁？",
-    "output": "刘体仁"
+    "output": "刘体仁",
+    "sample_id": "fuxi_BA_91"
   },
   {
     "instruction": "",
     "input": "请问《幼学求源幼学须知》的作者是谁？",
-    "output": "程登吉"
+    "output": "程登吉",
+    "sample_id": "fuxi_BA_92"
   },
   {
     "instruction": "",
     "input": "请问《端溪砚史》的作者是谁？",
-    "output": "吴兰修"
+    "output": "吴兰修",
+    "sample_id": "fuxi_BA_93"
   },
   {
     "instruction": "",
     "input": "请问《神农书》的作者是谁？",
-    "output": "李悝"
+    "output": "李悝",
+    "sample_id": "fuxi_BA_94"
   },
   {
     "instruction": "",
     "input": "请问《佛说转女身经》的作者是谁？",
-    "output": "昙摩蜜多"
+    "output": "昙摩蜜多",
+    "sample_id": "fuxi_BA_95"
   },
   {
     "instruction": "",
     "input": "请问《佛说大吉祥天女十二名号经》的作者是谁？",
-    "output": "不空"
+    "output": "不空",
+    "sample_id": "fuxi_BA_96"
   },
   {
     "instruction": "",
     "input": "请问《范文正集》的作者是谁？",
-    "output": "范仲淹"
+    "output": "范仲淹",
+    "sample_id": "fuxi_BA_97"
   },
   {
     "instruction": "",
     "input": "请问《梵语千字文》的作者是谁？",
-    "output": "义净"
+    "output": "义净",
+    "sample_id": "fuxi_BA_98"
   },
   {
     "instruction": "",
     "input": "请问《警寤钟》的作者是谁？",
-    "output": "嗤嗤道人"
+    "output": "嗤嗤道人",
+    "sample_id": "fuxi_BA_99"
   },
   {
     "instruction": "",
     "input": "请问《新学伪经考》的作者是谁？",
-    "output": "康有为"
+    "output": "康有为",
+    "sample_id": "fuxi_BA_100"
   },
   {
     "instruction": "",
     "input": "请问《端溪砚谱》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_101"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-道禅集》的作者是谁？",
-    "output": "王真人"
+    "output": "王真人",
+    "sample_id": "fuxi_BA_102"
   },
   {
     "instruction": "",
     "input": "请问《佛为年少比丘说正事经》的作者是谁？",
-    "output": "法炬"
+    "output": "法炬",
+    "sample_id": "fuxi_BA_103"
   },
   {
     "instruction": "",
     "input": "请问《佛说须摩提菩萨经》的作者是谁？",
-    "output": "鸠摩罗什"
+    "output": "鸠摩罗什",
+    "sample_id": "fuxi_BA_104"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-修西辑要》的作者是谁？",
-    "output": "信庵"
+    "output": "信庵",
+    "sample_id": "fuxi_BA_105"
   },
   {
     "instruction": "",
     "input": "请问《因明正理门论本》的作者是谁？",
-    "output": "玄奘"
+    "output": "玄奘",
+    "sample_id": "fuxi_BA_106"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-冲虚至德真经鬳斋口义》的作者是谁？",
-    "output": "林希逸"
+    "output": "林希逸",
+    "sample_id": "fuxi_BA_107"
   },
   {
     "instruction": "",
     "input": "请问《荡寇志》的作者是谁？",
-    "output": "俞万春"
+    "output": "俞万春",
+    "sample_id": "fuxi_BA_108"
   },
   {
     "instruction": "",
     "input": "请问《汉魏六朝百三家集杜预集》的作者是谁？",
-    "output": "张溥"
+    "output": "张溥",
+    "sample_id": "fuxi_BA_109"
   },
   {
     "instruction": "",
     "input": "请问《桐谱》的作者是谁？",
-    "output": "陈翥"
+    "output": "陈翥",
+    "sample_id": "fuxi_BA_110"
   },
   {
     "instruction": "",
     "input": "请问《提纲释义》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_111"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-黄帝素问灵枢集注》的作者是谁？",
-    "output": "史崧"
+    "output": "史崧",
+    "sample_id": "fuxi_BA_112"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述礼忏部-得遇龙华修证忏仪》的作者是谁？",
-    "output": "如惺"
+    "output": "如惺",
+    "sample_id": "fuxi_BA_113"
   },
   {
     "instruction": "",
     "input": "请问《续夷坚志》的作者是谁？",
-    "output": "元好问"
+    "output": "元好问",
+    "sample_id": "fuxi_BA_114"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-心赋注》的作者是谁？",
-    "output": "延寿"
+    "output": "延寿",
+    "sample_id": "fuxi_BA_115"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部华严宗-注同教问答》的作者是谁？",
-    "output": "师会"
+    "output": "师会",
+    "sample_id": "fuxi_BA_116"
   },
   {
     "instruction": "",
     "input": "请问《宝章待访录》的作者是谁？",
-    "output": "米芾"
+    "output": "米芾",
+    "sample_id": "fuxi_BA_117"
   },
   {
     "instruction": "",
     "input": "请问《摩诃般若波罗蜜大明咒经》的作者是谁？",
-    "output": "鸠摩罗什"
+    "output": "鸠摩罗什",
+    "sample_id": "fuxi_BA_118"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-上清太玄集》的作者是谁？",
-    "output": "侯善渊"
+    "output": "侯善渊",
+    "sample_id": "fuxi_BA_119"
   },
   {
     "instruction": "",
     "input": "请问《历代兵制》的作者是谁？",
-    "output": "陈傅良"
+    "output": "陈傅良",
+    "sample_id": "fuxi_BA_120"
   },
   {
     "instruction": "",
     "input": "请问《分隶偶存》的作者是谁？",
-    "output": "万经"
+    "output": "万经",
+    "sample_id": "fuxi_BA_121"
   },
   {
     "instruction": "",
     "input": "请问《词余丛话》的作者是谁？",
-    "output": "杨恩寿"
+    "output": "杨恩寿",
+    "sample_id": "fuxi_BA_122"
   },
   {
     "instruction": "",
     "input": "请问《大唐创业起居注》的作者是谁？",
-    "output": "温大雅"
+    "output": "温大雅",
+    "sample_id": "fuxi_BA_123"
   },
   {
     "instruction": "",
     "input": "请问《天台风俗志》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_124"
   },
   {
     "instruction": "",
     "input": "请问《随园诗话》的作者是谁？",
-    "output": "袁枚"
+    "output": "袁枚",
+    "sample_id": "fuxi_BA_125"
   },
   {
     "instruction": "",
     "input": "请问《龙筋凤髓判》的作者是谁？",
-    "output": "张鷟"
+    "output": "张鷟",
+    "sample_id": "fuxi_BA_126"
   },
   {
     "instruction": "",
     "input": "请问《重定授菩萨戒法》的作者是谁？",
-    "output": "释智旭"
+    "output": "释智旭",
+    "sample_id": "fuxi_BA_127"
   },
   {
     "instruction": "",
     "input": "请问《房内记》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_128"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编官常典行人司部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_129"
   },
   {
     "instruction": "",
     "input": "请问《太极通书》的作者是谁？",
-    "output": "周敦颐"
+    "output": "周敦颐",
+    "sample_id": "fuxi_BA_130"
   },
   {
     "instruction": "",
     "input": "请问《华严一乘教义分齐章》的作者是谁？",
-    "output": "法藏"
+    "output": "法藏",
+    "sample_id": "fuxi_BA_131"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典三十一岁至四十岁部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_132"
   },
   {
     "instruction": "",
     "input": "请问《东西汉演义》的作者是谁？",
-    "output": "甄伟"
+    "output": "甄伟",
+    "sample_id": "fuxi_BA_133"
   },
   {
     "instruction": "",
     "input": "请问《明医杂着》的作者是谁？",
-    "output": "王纶"
+    "output": "王纶",
+    "sample_id": "fuxi_BA_134"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞真部方法类-谷神篇》的作者是谁？",
-    "output": "林辕"
+    "output": "林辕",
+    "sample_id": "fuxi_BA_135"
   },
   {
     "instruction": "",
     "input": "请问《开原县志》的作者是谁？",
-    "output": "刘起凡"
+    "output": "刘起凡",
+    "sample_id": "fuxi_BA_136"
   },
   {
     "instruction": "",
     "input": "请问《非烟传》的作者是谁？",
-    "output": "皇甫枚"
+    "output": "皇甫枚",
+    "sample_id": "fuxi_BA_137"
   },
   {
     "instruction": "",
     "input": "请问《丹道吕洞宾》的作者是谁？",
-    "output": "傅金铨"
+    "output": "傅金铨",
+    "sample_id": "fuxi_BA_138"
   },
   {
     "instruction": "",
     "input": "请问《证契大乘经》的作者是谁？",
-    "output": "地婆诃罗"
+    "output": "地婆诃罗",
+    "sample_id": "fuxi_BA_139"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-周易参同契分章通真义》的作者是谁？",
-    "output": "彭晓"
+    "output": "彭晓",
+    "sample_id": "fuxi_BA_140"
   },
   {
     "instruction": "",
     "input": "请问《平吴录》的作者是谁？",
-    "output": "孙旭"
+    "output": "孙旭",
+    "sample_id": "fuxi_BA_141"
   },
   {
     "instruction": "",
     "input": "请问《伤寒心法要诀》的作者是谁？",
-    "output": "吴谦"
+    "output": "吴谦",
+    "sample_id": "fuxi_BA_142"
   },
   {
     "instruction": "",
     "input": "请问《医学衷中参西录》的作者是谁？",
-    "output": "张锡纯"
+    "output": "张锡纯",
+    "sample_id": "fuxi_BA_143"
   },
   {
     "instruction": "",
     "input": "请问《清代琉球纪录续辑》的作者是谁？",
-    "output": "姚文栋"
+    "output": "姚文栋",
+    "sample_id": "fuxi_BA_144"
   },
   {
     "instruction": "",
     "input": "请问《搜神记》的作者是谁？",
-    "output": "干宝"
+    "output": "干宝",
+    "sample_id": "fuxi_BA_145"
   },
   {
     "instruction": "",
     "input": "请问《志怪》的作者是谁？",
-    "output": "祖台之"
+    "output": "祖台之",
+    "sample_id": "fuxi_BA_146"
   },
   {
     "instruction": "",
     "input": "请问《阮籍集》的作者是谁？",
-    "output": "阮籍"
+    "output": "阮籍",
+    "sample_id": "fuxi_BA_147"
   },
   {
     "instruction": "",
     "input": "请问《摩利支菩萨略念诵法》的作者是谁？",
-    "output": "不空"
+    "output": "不空",
+    "sample_id": "fuxi_BA_148"
   },
   {
     "instruction": "",
     "input": "请问《国雅品》的作者是谁？",
-    "output": "顾起纶"
+    "output": "顾起纶",
+    "sample_id": "fuxi_BA_149"
   },
   {
     "instruction": "",
     "input": "请问《墨子城守各篇简注》的作者是谁？",
-    "output": "岑仲勉"
+    "output": "岑仲勉",
+    "sample_id": "fuxi_BA_150"
   },
   {
     "instruction": "",
     "input": "请问《周易尚占》的作者是谁？",
-    "output": "李道纯"
+    "output": "李道纯",
+    "sample_id": "fuxi_BA_151"
   },
   {
     "instruction": "",
     "input": "请问《解人颐》的作者是谁？",
-    "output": "钱德苍"
+    "output": "钱德苍",
+    "sample_id": "fuxi_BA_152"
   },
   {
     "instruction": "",
     "input": "请问《周易口诀义》的作者是谁？",
-    "output": "史徵"
+    "output": "史徵",
+    "sample_id": "fuxi_BA_153"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞真部本文类-高上玉皇本行集经》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_154"
   },
   {
     "instruction": "",
     "input": "请问《禅秘要法经》的作者是谁？",
-    "output": "鸠摩罗什"
+    "output": "鸠摩罗什",
+    "sample_id": "fuxi_BA_155"
   },
   {
     "instruction": "",
     "input": "请问《九章算术》的作者是谁？",
-    "output": "张苍"
+    "output": "张苍",
+    "sample_id": "fuxi_BA_156"
   },
   {
     "instruction": "",
     "input": "请问《胜军化世百瑜伽他经》的作者是谁？",
-    "output": "天息灾"
+    "output": "天息灾",
+    "sample_id": "fuxi_BA_157"
   },
   {
     "instruction": "",
     "input": "请问《唐朝开国演义》的作者是谁？",
-    "output": "诸圣邻"
+    "output": "诸圣邻",
+    "sample_id": "fuxi_BA_158"
   },
   {
     "instruction": "",
     "input": "请问《燕游吟》的作者是谁？",
-    "output": "陈应元"
+    "output": "陈应元",
+    "sample_id": "fuxi_BA_159"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-南华真经义海纂微》的作者是谁？",
-    "output": "褚伯秀"
+    "output": "褚伯秀",
+    "sample_id": "fuxi_BA_160"
   },
   {
     "instruction": "",
     "input": "请问《般若波罗蜜多心经略疏》的作者是谁？",
-    "output": "法藏"
+    "output": "法藏",
+    "sample_id": "fuxi_BA_161"
   },
   {
     "instruction": "",
     "input": "请问《林泉随笔》的作者是谁？",
-    "output": "张纶"
+    "output": "张纶",
+    "sample_id": "fuxi_BA_162"
   },
   {
     "instruction": "",
     "input": "请问《碧山乐府》的作者是谁？",
-    "output": "王九思"
+    "output": "王九思",
+    "sample_id": "fuxi_BA_163"
   },
   {
     "instruction": "",
     "input": "请问《佛说三品弟子经》的作者是谁？",
-    "output": "支谦"
+    "output": "支谦",
+    "sample_id": "fuxi_BA_164"
   },
   {
     "instruction": "",
     "input": "请问《海壑吟稿》的作者是谁？",
-    "output": "赵完璧"
+    "output": "赵完璧",
+    "sample_id": "fuxi_BA_165"
   },
   {
     "instruction": "",
     "input": "请问《大乘宝月童子问法经》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_166"
   },
   {
     "instruction": "",
     "input": "请问《七佛赞呗伽他》的作者是谁？",
-    "output": "法天"
+    "output": "法天",
+    "sample_id": "fuxi_BA_167"
   },
   {
     "instruction": "",
     "input": "请问《就正录》的作者是谁？",
-    "output": "高攀龙"
+    "output": "高攀龙",
+    "sample_id": "fuxi_BA_168"
   },
   {
     "instruction": "",
     "input": "请问《六壬拃河棹》的作者是谁？",
-    "output": "张松源"
+    "output": "张松源",
+    "sample_id": "fuxi_BA_169"
   },
   {
     "instruction": "",
     "input": "请问《弥沙塞羯磨本》的作者是谁？",
-    "output": "爱同录"
+    "output": "爱同录",
+    "sample_id": "fuxi_BA_170"
   },
   {
     "instruction": "",
     "input": "请问《几策》的作者是谁？",
-    "output": "苏洵"
+    "output": "苏洵",
+    "sample_id": "fuxi_BA_171"
   },
   {
     "instruction": "",
     "input": "请问《二酉缀遗》的作者是谁？",
-    "output": "胡应麟"
+    "output": "胡应麟",
+    "sample_id": "fuxi_BA_172"
   },
   {
     "instruction": "",
     "input": "请问《永定县志康熙本》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_173"
   },
   {
     "instruction": "",
     "input": "请问《张协状元》的作者是谁？",
-    "output": "九山书会才人"
+    "output": "九山书会才人",
+    "sample_id": "fuxi_BA_174"
   },
   {
     "instruction": "",
     "input": "请问《樗隠集》的作者是谁？",
-    "output": "胡行简"
+    "output": "胡行简",
+    "sample_id": "fuxi_BA_175"
   },
   {
     "instruction": "",
     "input": "请问《百家姓》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_176"
   },
   {
     "instruction": "",
     "input": "请问《佛说庄严王陀罗尼咒经》的作者是谁？",
-    "output": "义净"
+    "output": "义净",
+    "sample_id": "fuxi_BA_177"
   },
   {
     "instruction": "",
     "input": "请问《续书谱》的作者是谁？",
-    "output": "姜夔"
+    "output": "姜夔",
+    "sample_id": "fuxi_BA_178"
   },
   {
     "instruction": "",
     "input": "请问《留东外史续集》的作者是谁？",
-    "output": "不肖生"
+    "output": "不肖生",
+    "sample_id": "fuxi_BA_179"
   },
   {
     "instruction": "",
     "input": "请问《佛说鸯崛髻经》的作者是谁？",
-    "output": "法炬"
+    "output": "法炬",
+    "sample_id": "fuxi_BA_180"
   },
   {
     "instruction": "",
     "input": "请问《般若波罗蜜多心经释要》的作者是谁？",
-    "output": "释智旭"
+    "output": "释智旭",
+    "sample_id": "fuxi_BA_181"
   },
   {
     "instruction": "",
     "input": "请问《玉烛宝典》的作者是谁？",
-    "output": "杜台卿"
+    "output": "杜台卿",
+    "sample_id": "fuxi_BA_182"
   },
   {
     "instruction": "",
     "input": "请问《卫生宝鉴》的作者是谁？",
-    "output": "罗天益"
+    "output": "罗天益",
+    "sample_id": "fuxi_BA_183"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-外科热疮痤痱汤火灸冻漆疮门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_184"
   },
   {
     "instruction": "",
     "input": "请问《拟两晋南北史乐府》的作者是谁？",
-    "output": "洪亮吉"
+    "output": "洪亮吉",
+    "sample_id": "fuxi_BA_185"
   },
   {
     "instruction": "",
     "input": "请问《佛说圣曜母陀罗尼经》的作者是谁？",
-    "output": "法天"
+    "output": "法天",
+    "sample_id": "fuxi_BA_186"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-彻悟禅师语录》的作者是谁？",
-    "output": "了亮"
+    "output": "了亮",
+    "sample_id": "fuxi_BA_187"
   },
   {
     "instruction": "",
     "input": "请问《世说新语笺疏》的作者是谁？",
-    "output": "余嘉锡"
+    "output": "余嘉锡",
+    "sample_id": "fuxi_BA_188"
   },
   {
     "instruction": "",
     "input": "请问《雅述》的作者是谁？",
-    "output": "王廷相"
+    "output": "王廷相",
+    "sample_id": "fuxi_BA_189"
   },
   {
     "instruction": "",
     "input": "请问《广大宝楼阁善住秘密陀罗尼经》的作者是谁？",
-    "output": "菩提流志"
+    "output": "菩提流志",
+    "sample_id": "fuxi_BA_190"
   },
   {
     "instruction": "",
     "input": "请问《孔子弟子考》的作者是谁？",
-    "output": "朱彝尊"
+    "output": "朱彝尊",
+    "sample_id": "fuxi_BA_191"
   },
   {
     "instruction": "",
     "input": "请问《香宋杂记》的作者是谁？",
-    "output": "赵熙"
+    "output": "赵熙",
+    "sample_id": "fuxi_BA_192"
   },
   {
     "instruction": "",
     "input": "请问《华严经关脉义记》的作者是谁？",
-    "output": "法藏"
+    "output": "法藏",
+    "sample_id": "fuxi_BA_193"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部杂传-高僧摘要》的作者是谁？",
-    "output": "徐昌治"
+    "output": "徐昌治",
+    "sample_id": "fuxi_BA_194"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-圆顿宗眼》的作者是谁？",
-    "output": "法登"
+    "output": "法登",
+    "sample_id": "fuxi_BA_195"
   },
   {
     "instruction": "",
     "input": "请问《二程粹言》的作者是谁？",
-    "output": "程颢"
+    "output": "程颢",
+    "sample_id": "fuxi_BA_196"
   },
   {
     "instruction": "",
     "input": "请问《稼轩先生年谱》的作者是谁？",
-    "output": "陈思"
+    "output": "陈思",
+    "sample_id": "fuxi_BA_197"
   },
   {
     "instruction": "",
     "input": "请问《龙凤再生缘》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_198"
   },
   {
     "instruction": "",
     "input": "请问《急就篇》的作者是谁？",
-    "output": "史游"
+    "output": "史游",
+    "sample_id": "fuxi_BA_199"
   },
   {
     "instruction": "",
     "input": "请问《青宫译语》的作者是谁？",
-    "output": "王成棣"
+    "output": "王成棣",
+    "sample_id": "fuxi_BA_200"
   },
   {
     "instruction": "",
     "input": "请问《铁树记》的作者是谁？",
-    "output": "邓志谟"
+    "output": "邓志谟",
+    "sample_id": "fuxi_BA_201"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部赞颂类-道德经篇章玄颂》的作者是谁？",
-    "output": "宋鸾"
+    "output": "宋鸾",
+    "sample_id": "fuxi_BA_202"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞玄部众术类-贯斗忠孝五雷武侯秘法》的作者是谁？",
-    "output": "张晖齐"
+    "output": "张晖齐",
+    "sample_id": "fuxi_BA_203"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-禅林宝训音义》的作者是谁？",
-    "output": "大建"
+    "output": "大建",
+    "sample_id": "fuxi_BA_204"
   },
   {
     "instruction": "",
     "input": "请问《佛说迦叶禁戒经》的作者是谁？",
-    "output": "沮渠京声"
+    "output": "沮渠京声",
+    "sample_id": "fuxi_BA_205"
   },
   {
     "instruction": "",
     "input": "请问《慈氏菩萨所说大乘缘生稻干喻经》的作者是谁？",
-    "output": "不空"
+    "output": "不空",
+    "sample_id": "fuxi_BA_206"
   },
   {
     "instruction": "",
     "input": "请问《诗法家数》的作者是谁？",
-    "output": "杨载"
+    "output": "杨载",
+    "sample_id": "fuxi_BA_207"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗语录通集-宗门拈古汇集》的作者是谁？",
-    "output": "净符"
+    "output": "净符",
+    "sample_id": "fuxi_BA_208"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞真部灵图类-修真太极混元图》的作者是谁？",
-    "output": "萧道冉"
+    "output": "萧道冉",
+    "sample_id": "fuxi_BA_209"
   },
   {
     "instruction": "",
     "input": "请问《经验丹方汇编》的作者是谁？",
-    "output": "钱峻"
+    "output": "钱峻",
+    "sample_id": "fuxi_BA_210"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-沙弥学戒仪轨颂注》的作者是谁？",
-    "output": "弘赞"
+    "output": "弘赞",
+    "sample_id": "fuxi_BA_211"
   },
   {
     "instruction": "",
     "input": "请问《南越笔记》的作者是谁？",
-    "output": "李调元"
+    "output": "李调元",
+    "sample_id": "fuxi_BA_212"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传净土宗-净土圣贤录续编》的作者是谁？",
-    "output": "胡王延"
+    "output": "胡王延",
+    "sample_id": "fuxi_BA_213"
   },
   {
     "instruction": "",
     "input": "请问《等集众德三昧经》的作者是谁？",
-    "output": "竺法护"
+    "output": "竺法护",
+    "sample_id": "fuxi_BA_214"
   },
   {
     "instruction": "",
     "input": "请问《古今刀剑录》的作者是谁？",
-    "output": "陶宏景"
+    "output": "陶宏景",
+    "sample_id": "fuxi_BA_215"
   },
   {
     "instruction": "",
     "input": "请问《佛说维摩诘经》的作者是谁？",
-    "output": "支谦"
+    "output": "支谦",
+    "sample_id": "fuxi_BA_216"
   },
   {
     "instruction": "",
     "input": "请问《行素斋杂记》的作者是谁？",
-    "output": "继昌"
+    "output": "继昌",
+    "sample_id": "fuxi_BA_217"
   },
   {
     "instruction": "",
     "input": "请问《北征事迹》的作者是谁？",
-    "output": "袁彬"
+    "output": "袁彬",
+    "sample_id": "fuxi_BA_218"
   },
   {
     "instruction": "",
     "input": "请问《明通鉴》的作者是谁？",
-    "output": "夏燮"
+    "output": "夏燮",
+    "sample_id": "fuxi_BA_219"
   },
   {
     "instruction": "",
     "input": "请问《开元释教录》的作者是谁？",
-    "output": "智升"
+    "output": "智升",
+    "sample_id": "fuxi_BA_220"
   },
   {
     "instruction": "",
     "input": "请问《圣金刚手菩萨一百八名梵赞》的作者是谁？",
-    "output": "法贤"
+    "output": "法贤",
+    "sample_id": "fuxi_BA_221"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞真部方法类-修真十书玉隆集》的作者是谁？",
-    "output": "白玉蟾"
+    "output": "白玉蟾",
+    "sample_id": "fuxi_BA_222"
   },
   {
     "instruction": "",
     "input": "请问《咸淳毗陵志》的作者是谁？",
-    "output": "史能之"
+    "output": "史能之",
+    "sample_id": "fuxi_BA_223"
   },
   {
     "instruction": "",
     "input": "请问《息除中夭陀罗尼经》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_224"
   },
   {
     "instruction": "",
     "input": "请问《盐铁论》的作者是谁？",
-    "output": "桓宽"
+    "output": "桓宽",
+    "sample_id": "fuxi_BA_225"
   },
   {
     "instruction": "",
     "input": "请问《听秋声馆词话》的作者是谁？",
-    "output": "丁绍仪"
+    "output": "丁绍仪",
+    "sample_id": "fuxi_BA_226"
   },
   {
     "instruction": "",
     "input": "请问《中山诗话》的作者是谁？",
-    "output": "刘攽"
+    "output": "刘攽",
+    "sample_id": "fuxi_BA_227"
   },
   {
     "instruction": "",
     "input": "请问《关窍要旨》的作者是谁？",
-    "output": "闵一得"
+    "output": "闵一得",
+    "sample_id": "fuxi_BA_228"
   },
   {
     "instruction": "",
     "input": "请问《玉堂丛语》的作者是谁？",
-    "output": "焦竑"
+    "output": "焦竑",
+    "sample_id": "fuxi_BA_229"
   },
   {
     "instruction": "",
     "input": "请问《南湖集》的作者是谁？",
-    "output": "贡性之"
+    "output": "贡性之",
+    "sample_id": "fuxi_BA_230"
   },
   {
     "instruction": "",
     "input": "请问《周易尚氏学》的作者是谁？",
-    "output": "尚秉和"
+    "output": "尚秉和",
+    "sample_id": "fuxi_BA_231"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太平部-勿斋先生文集》的作者是谁？",
-    "output": "杨至质"
+    "output": "杨至质",
+    "sample_id": "fuxi_BA_232"
   },
   {
     "instruction": "",
     "input": "请问《杂纂之义山杂纂》的作者是谁？",
-    "output": "李义山"
+    "output": "李义山",
+    "sample_id": "fuxi_BA_233"
   },
   {
     "instruction": "",
     "input": "请问《佛顶最胜陀罗尼经》的作者是谁？",
-    "output": "地婆诃罗"
+    "output": "地婆诃罗",
+    "sample_id": "fuxi_BA_234"
   },
   {
     "instruction": "",
     "input": "请问《娱目醒心编》的作者是谁？",
-    "output": "玉山草亭老人"
+    "output": "玉山草亭老人",
+    "sample_id": "fuxi_BA_235"
   },
   {
     "instruction": "",
     "input": "请问《读例存疑》的作者是谁？",
-    "output": "薛允升"
+    "output": "薛允升",
+    "sample_id": "fuxi_BA_236"
   },
   {
     "instruction": "",
     "input": "请问《宛署杂记》的作者是谁？",
-    "output": "沈榜"
+    "output": "沈榜",
+    "sample_id": "fuxi_BA_237"
   },
   {
     "instruction": "",
     "input": "请问《宋学渊源记》的作者是谁？",
-    "output": "江藩"
+    "output": "江藩",
+    "sample_id": "fuxi_BA_238"
   },
   {
     "instruction": "",
     "input": "请问《金楼子》的作者是谁？",
-    "output": "萧绎"
+    "output": "萧绎",
+    "sample_id": "fuxi_BA_239"
   },
   {
     "instruction": "",
     "input": "请问《佛说普贤菩萨陀罗尼经》的作者是谁？",
-    "output": "法天"
+    "output": "法天",
+    "sample_id": "fuxi_BA_240"
   },
   {
     "instruction": "",
     "input": "请问《三无性论》的作者是谁？",
-    "output": "真谛"
+    "output": "真谛",
+    "sample_id": "fuxi_BA_241"
   },
   {
     "instruction": "",
     "input": "请问《二谛义》的作者是谁？",
-    "output": "吉藏"
+    "output": "吉藏",
+    "sample_id": "fuxi_BA_242"
   },
   {
     "instruction": "",
     "input": "请问《涅槃论》的作者是谁？",
-    "output": "达磨菩提"
+    "output": "达磨菩提",
+    "sample_id": "fuxi_BA_243"
   },
   {
     "instruction": "",
     "input": "请问《割台记》的作者是谁？",
-    "output": "罗惇曧"
+    "output": "罗惇曧",
+    "sample_id": "fuxi_BA_244"
   },
   {
     "instruction": "",
     "input": "请问《佛说申日经》的作者是谁？",
-    "output": "竺法护"
+    "output": "竺法护",
+    "sample_id": "fuxi_BA_245"
   },
   {
     "instruction": "",
     "input": "请问《景定严州续志》的作者是谁？",
-    "output": "郑瑶"
+    "output": "郑瑶",
+    "sample_id": "fuxi_BA_246"
   },
   {
     "instruction": "",
     "input": "请问《蕲黄四十八砦纪事》的作者是谁？",
-    "output": "王葆心"
+    "output": "王葆心",
+    "sample_id": "fuxi_BA_247"
   },
   {
     "instruction": "",
     "input": "请问《稗史集传》的作者是谁？",
-    "output": "徐显"
+    "output": "徐显",
+    "sample_id": "fuxi_BA_248"
   },
   {
     "instruction": "",
     "input": "请问《泄天机》的作者是谁？",
-    "output": "闵一得"
+    "output": "闵一得",
+    "sample_id": "fuxi_BA_249"
   },
   {
     "instruction": "",
     "input": "请问《优婆塞五戒威仪经》的作者是谁？",
-    "output": "求那跋摩"
+    "output": "求那跋摩",
+    "sample_id": "fuxi_BA_250"
   },
   {
     "instruction": "",
     "input": "请问《禽经》的作者是谁？",
-    "output": "张华"
+    "output": "张华",
+    "sample_id": "fuxi_BA_251"
   },
   {
     "instruction": "",
     "input": "请问《紫金光耀大仙修真演义》的作者是谁？",
-    "output": "邓希贤"
+    "output": "邓希贤",
+    "sample_id": "fuxi_BA_252"
   },
   {
     "instruction": "",
     "input": "请问《琅琊漫抄》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_253"
   },
   {
     "instruction": "",
     "input": "请问《圭塘小稿》的作者是谁？",
-    "output": "许有壬"
+    "output": "许有壬",
+    "sample_id": "fuxi_BA_254"
   },
   {
     "instruction": "",
     "input": "请问《无量义经》的作者是谁？",
-    "output": "伽陀耶舍"
+    "output": "伽陀耶舍",
+    "sample_id": "fuxi_BA_255"
   },
   {
     "instruction": "",
     "input": "请问《内经知要》的作者是谁？",
-    "output": "李中梓"
+    "output": "李中梓",
+    "sample_id": "fuxi_BA_256"
   },
   {
     "instruction": "",
     "input": "请问《女科精要》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_257"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太平部-三洞珠囊》的作者是谁？",
-    "output": "王悬河"
+    "output": "王悬河",
+    "sample_id": "fuxi_BA_258"
   },
   {
     "instruction": "",
     "input": "请问《佛说一切诸如来心光明加持普贤菩萨延命金刚最胜陀罗尼经》的作者是谁？",
-    "output": "不空"
+    "output": "不空",
+    "sample_id": "fuxi_BA_259"
   },
   {
     "instruction": "",
     "input": "请问《临安集》的作者是谁？",
-    "output": "钱宰"
+    "output": "钱宰",
+    "sample_id": "fuxi_BA_260"
   },
   {
     "instruction": "",
     "input": "请问《集神州三宝感通录》的作者是谁？",
-    "output": "道宣"
+    "output": "道宣",
+    "sample_id": "fuxi_BA_261"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典行旅部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_262"
   },
   {
     "instruction": "",
     "input": "请问《异域志》的作者是谁？",
-    "output": "周致中"
+    "output": "周致中",
+    "sample_id": "fuxi_BA_263"
   },
   {
     "instruction": "",
     "input": "请问《异闻记》的作者是谁？",
-    "output": "陈寔"
+    "output": "陈寔",
+    "sample_id": "fuxi_BA_264"
   },
   {
     "instruction": "",
     "input": "请问《大方广佛华严经愿行观门骨目》的作者是谁？",
-    "output": "湛然"
+    "output": "湛然",
+    "sample_id": "fuxi_BA_265"
   },
   {
     "instruction": "",
     "input": "请问《海纪辑要》的作者是谁？",
-    "output": "夏琳"
+    "output": "夏琳",
+    "sample_id": "fuxi_BA_266"
   },
   {
     "instruction": "",
     "input": "请问《风月鉴》的作者是谁？",
-    "output": "吴贻棠"
+    "output": "吴贻棠",
+    "sample_id": "fuxi_BA_267"
   },
   {
     "instruction": "",
     "input": "请问《六一诗话》的作者是谁？",
-    "output": "欧阳修"
+    "output": "欧阳修",
+    "sample_id": "fuxi_BA_268"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗语录通集-佛果击节录》的作者是谁？",
-    "output": "重显"
+    "output": "重显",
+    "sample_id": "fuxi_BA_269"
   },
   {
     "instruction": "",
     "input": "请问《六十种曲狮吼记》的作者是谁？",
-    "output": "汪廷讷"
+    "output": "汪廷讷",
+    "sample_id": "fuxi_BA_270"
   },
   {
     "instruction": "",
     "input": "请问《东林列传》的作者是谁？",
-    "output": "陈鼎"
+    "output": "陈鼎",
+    "sample_id": "fuxi_BA_271"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典年齿部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_272"
   },
   {
     "instruction": "",
     "input": "请问《海忠介公集》的作者是谁？",
-    "output": "海瑞"
+    "output": "海瑞",
+    "sample_id": "fuxi_BA_273"
   },
   {
     "instruction": "",
     "input": "请问《大同书》的作者是谁？",
-    "output": "康有为"
+    "output": "康有为",
+    "sample_id": "fuxi_BA_274"
   },
   {
     "instruction": "",
     "input": "请问《广大发愿颂》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_275"
   },
   {
     "instruction": "",
     "input": "请问《桂林风土记》的作者是谁？",
-    "output": "莫休符"
+    "output": "莫休符",
+    "sample_id": "fuxi_BA_276"
   },
   {
     "instruction": "",
     "input": "请问《旧晋书九家辑本》的作者是谁？",
-    "output": "汤球"
+    "output": "汤球",
+    "sample_id": "fuxi_BA_277"
   },
   {
     "instruction": "",
     "input": "请问《痧疹辑要》的作者是谁？",
-    "output": "叶霖"
+    "output": "叶霖",
+    "sample_id": "fuxi_BA_278"
   },
   {
     "instruction": "",
     "input": "请问《袁中郎全集》的作者是谁？",
-    "output": "袁宏道"
+    "output": "袁宏道",
+    "sample_id": "fuxi_BA_279"
   },
   {
     "instruction": "",
     "input": "请问《天平天国御制千字诏》的作者是谁？",
-    "output": "洪秀全"
+    "output": "洪秀全",
+    "sample_id": "fuxi_BA_280"
   },
   {
     "instruction": "",
     "input": "请问《佛说八大灵塔名号经》的作者是谁？",
-    "output": "法贤"
+    "output": "法贤",
+    "sample_id": "fuxi_BA_281"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-净土全书》的作者是谁？",
-    "output": "俞行敏"
+    "output": "俞行敏",
+    "sample_id": "fuxi_BA_282"
   },
   {
     "instruction": "",
     "input": "请问《本草易读》的作者是谁？",
-    "output": "汪讱庵"
+    "output": "汪讱庵",
+    "sample_id": "fuxi_BA_283"
   },
   {
     "instruction": "",
     "input": "请问《本草乘雅半偈》的作者是谁？",
-    "output": "卢之颐"
+    "output": "卢之颐",
+    "sample_id": "fuxi_BA_284"
   },
   {
     "instruction": "",
     "input": "请问《任光禄竹溪记》的作者是谁？",
-    "output": "唐顺之"
+    "output": "唐顺之",
+    "sample_id": "fuxi_BA_285"
   },
   {
     "instruction": "",
     "input": "请问《辽小史》的作者是谁？",
-    "output": "杨循吉"
+    "output": "杨循吉",
+    "sample_id": "fuxi_BA_286"
   },
   {
     "instruction": "",
     "input": "请问《儒言》的作者是谁？",
-    "output": "晁说之"
+    "output": "晁说之",
+    "sample_id": "fuxi_BA_287"
   },
   {
     "instruction": "",
     "input": "请问《稽山承语》的作者是谁？",
-    "output": "王守仁"
+    "output": "王守仁",
+    "sample_id": "fuxi_BA_288"
   },
   {
     "instruction": "",
     "input": "请问《建炎以來朝野杂记》的作者是谁？",
-    "output": "李心传"
+    "output": "李心传",
+    "sample_id": "fuxi_BA_289"
   },
   {
     "instruction": "",
     "input": "请问《六壬存验》的作者是谁？",
-    "output": "吴师青"
+    "output": "吴师青",
+    "sample_id": "fuxi_BA_290"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-十不二门指要钞详解》的作者是谁？",
-    "output": "可度"
+    "output": "可度",
+    "sample_id": "fuxi_BA_291"
   },
   {
     "instruction": "",
     "input": "请问《佛说大爱道般泥洹经》的作者是谁？",
-    "output": "白法祖"
+    "output": "白法祖",
+    "sample_id": "fuxi_BA_292"
   },
   {
     "instruction": "",
     "input": "请问《辛亥宫驼记》的作者是谁？",
-    "output": "叶楚伧"
+    "output": "叶楚伧",
+    "sample_id": "fuxi_BA_293"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏正一部-庄列十论》的作者是谁？",
-    "output": "李元卓"
+    "output": "李元卓",
+    "sample_id": "fuxi_BA_294"
   },
   {
     "instruction": "",
     "input": "请问《性理字训》的作者是谁？",
-    "output": "程端蒙"
+    "output": "程端蒙",
+    "sample_id": "fuxi_BA_295"
   },
   {
     "instruction": "",
     "input": "请问《闪电窗》的作者是谁？",
-    "output": "酌玄亭主人"
+    "output": "酌玄亭主人",
+    "sample_id": "fuxi_BA_296"
   },
   {
     "instruction": "",
     "input": "请问《辛巳泣蕲录》的作者是谁？",
-    "output": "赵与容"
+    "output": "赵与容",
+    "sample_id": "fuxi_BA_297"
   },
   {
     "instruction": "",
     "input": "请问《钤山堂集》的作者是谁？",
-    "output": "严嵩"
+    "output": "严嵩",
+    "sample_id": "fuxi_BA_298"
   },
   {
     "instruction": "",
     "input": "请问《往生礼赞偈》的作者是谁？",
-    "output": "善导"
+    "output": "善导",
+    "sample_id": "fuxi_BA_299"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-小儿疟门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_300"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-道德真经口义》的作者是谁？",
-    "output": "林希逸"
+    "output": "林希逸",
+    "sample_id": "fuxi_BA_301"
   },
   {
     "instruction": "",
     "input": "请问《在官法戒录》的作者是谁？",
-    "output": "陈弘谋"
+    "output": "陈弘谋",
+    "sample_id": "fuxi_BA_302"
   },
   {
     "instruction": "",
     "input": "请问《灵药秘方》的作者是谁？",
-    "output": "师成子"
+    "output": "师成子",
+    "sample_id": "fuxi_BA_303"
   },
   {
     "instruction": "",
     "input": "请问《佛说拔除罪障咒王经》的作者是谁？",
-    "output": "义净"
+    "output": "义净",
+    "sample_id": "fuxi_BA_304"
   },
   {
     "instruction": "",
     "input": "请问《达生编》的作者是谁？",
-    "output": "亟斋居士"
+    "output": "亟斋居士",
+    "sample_id": "fuxi_BA_305"
   },
   {
     "instruction": "",
     "input": "请问《岘泉集》的作者是谁？",
-    "output": "张宇初"
+    "output": "张宇初",
+    "sample_id": "fuxi_BA_306"
   },
   {
     "instruction": "",
     "input": "请问《东皋录》的作者是谁？",
-    "output": "释妙声"
+    "output": "释妙声",
+    "sample_id": "fuxi_BA_307"
   },
   {
     "instruction": "",
     "input": "请问《治世余闻》的作者是谁？",
-    "output": "陈洪谟"
+    "output": "陈洪谟",
+    "sample_id": "fuxi_BA_308"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编交谊典规谏部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_309"
   },
   {
     "instruction": "",
     "input": "请问《道院集要》的作者是谁？",
-    "output": "晁逈"
+    "output": "晁逈",
+    "sample_id": "fuxi_BA_310"
   },
   {
     "instruction": "",
     "input": "请问《内功四经》的作者是谁？",
-    "output": "王南溪"
+    "output": "王南溪",
+    "sample_id": "fuxi_BA_311"
   },
   {
     "instruction": "",
     "input": "请问《外科启玄》的作者是谁？",
-    "output": "申斗垣"
+    "output": "申斗垣",
+    "sample_id": "fuxi_BA_312"
   },
   {
     "instruction": "",
     "input": "请问《奉天录》的作者是谁？",
-    "output": "赵元一"
+    "output": "赵元一",
+    "sample_id": "fuxi_BA_313"
   },
   {
     "instruction": "",
     "input": "请问《异闻总录》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_314"
   },
   {
     "instruction": "",
     "input": "请问《艺苑雌黄》的作者是谁？",
-    "output": "严有翼"
+    "output": "严有翼",
+    "sample_id": "fuxi_BA_315"
   },
   {
     "instruction": "",
     "input": "请问《庚子国变记》的作者是谁？",
-    "output": "罗惇曧"
+    "output": "罗惇曧",
+    "sample_id": "fuxi_BA_316"
   },
   {
     "instruction": "",
     "input": "请问《金川妖姬志》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_317"
   },
   {
     "instruction": "",
     "input": "请问《洞天清录》的作者是谁？",
-    "output": "赵希鹄"
+    "output": "赵希鹄",
+    "sample_id": "fuxi_BA_318"
   },
   {
     "instruction": "",
     "input": "请问《新安志》的作者是谁？",
-    "output": "罗愿"
+    "output": "罗愿",
+    "sample_id": "fuxi_BA_319"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部禅宗杂著-正行集》的作者是谁？",
-    "output": "清觉"
+    "output": "清觉",
+    "sample_id": "fuxi_BA_320"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部天台宗-摩诃止观义例随释》的作者是谁？",
-    "output": "处元"
+    "output": "处元",
+    "sample_id": "fuxi_BA_321"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-道德真经衍义手钞》的作者是谁？",
-    "output": "王守正"
+    "output": "王守正",
+    "sample_id": "fuxi_BA_322"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典形貌部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_323"
   },
   {
     "instruction": "",
     "input": "请问《清朝柔远记选录》的作者是谁？",
-    "output": "王之春"
+    "output": "王之春",
+    "sample_id": "fuxi_BA_324"
   },
   {
     "instruction": "",
     "input": "请问《大威力乌枢瑟摩明王经》的作者是谁？",
-    "output": "阿质达霰"
+    "output": "阿质达霰",
+    "sample_id": "fuxi_BA_325"
   },
   {
     "instruction": "",
     "input": "请问《疠疡机要》的作者是谁？",
-    "output": "薛己"
+    "output": "薛己",
+    "sample_id": "fuxi_BA_326"
   },
   {
     "instruction": "",
     "input": "请问《宁古塔地方乡土志》的作者是谁？",
-    "output": "岳西本"
+    "output": "岳西本",
+    "sample_id": "fuxi_BA_327"
   },
   {
     "instruction": "",
     "input": "请问《外科理例》的作者是谁？",
-    "output": "汪机"
+    "output": "汪机",
+    "sample_id": "fuxi_BA_328"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部禅宗-大光明藏》的作者是谁？",
-    "output": "宝昙"
+    "output": "宝昙",
+    "sample_id": "fuxi_BA_329"
   },
   {
     "instruction": "",
     "input": "请问《六十种曲精忠记》的作者是谁？",
-    "output": "佚名"
+    "output": "佚名",
+    "sample_id": "fuxi_BA_330"
   },
   {
     "instruction": "",
     "input": "请问《志怪录》的作者是谁？",
-    "output": "祝允明"
+    "output": "祝允明",
+    "sample_id": "fuxi_BA_331"
   },
   {
     "instruction": "",
     "input": "请问《庄子注》的作者是谁？",
-    "output": "向秀"
+    "output": "向秀",
+    "sample_id": "fuxi_BA_332"
   },
   {
     "instruction": "",
     "input": "请问《洪秀全演义》的作者是谁？",
-    "output": "黄小配"
+    "output": "黄小配",
+    "sample_id": "fuxi_BA_333"
   },
   {
     "instruction": "",
     "input": "请问《清代名人轶事》的作者是谁？",
-    "output": "葛虚存"
+    "output": "葛虚存",
+    "sample_id": "fuxi_BA_334"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述史传部编年通史-释门正统》的作者是谁？",
-    "output": "宗鉴"
+    "output": "宗鉴",
+    "sample_id": "fuxi_BA_335"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏太玄部-上阳子金丹大要仙派》的作者是谁？",
-    "output": "陈致虚"
+    "output": "陈致虚",
+    "sample_id": "fuxi_BA_336"
   },
   {
     "instruction": "",
     "input": "请问《脉象统类》的作者是谁？",
-    "output": "沈金鰲"
+    "output": "沈金鰲",
+    "sample_id": "fuxi_BA_337"
   },
   {
     "instruction": "",
     "input": "请问《番社采风图考》的作者是谁？",
-    "output": "黄叔璥"
+    "output": "黄叔璥",
+    "sample_id": "fuxi_BA_338"
   },
   {
     "instruction": "",
     "input": "请问《新五代史》的作者是谁？",
-    "output": "欧阳修"
+    "output": "欧阳修",
+    "sample_id": "fuxi_BA_339"
   },
   {
     "instruction": "",
     "input": "请问《庚子销夏记》的作者是谁？",
-    "output": "孙承泽"
+    "output": "孙承泽",
+    "sample_id": "fuxi_BA_340"
   },
   {
     "instruction": "",
     "input": "请问《粉妆楼全传》的作者是谁？",
-    "output": "罗贯中"
+    "output": "罗贯中",
+    "sample_id": "fuxi_BA_341"
   },
   {
     "instruction": "",
     "input": "请问《御览诗》的作者是谁？",
-    "output": "令狐楚"
+    "output": "令狐楚",
+    "sample_id": "fuxi_BA_342"
   },
   {
     "instruction": "",
     "input": "请问《冰鉴》的作者是谁？",
-    "output": "曾国藩"
+    "output": "曾国藩",
+    "sample_id": "fuxi_BA_343"
   },
   {
     "instruction": "",
     "input": "请问《佛说大方广未曾有经善巧方便品》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_344"
   },
   {
     "instruction": "",
     "input": "请问《弘明集》的作者是谁？",
-    "output": "僧祐"
+    "output": "僧祐",
+    "sample_id": "fuxi_BA_345"
   },
   {
     "instruction": "",
     "input": "请问《风俗通义校注》的作者是谁？",
-    "output": "应劭"
+    "output": "应劭",
+    "sample_id": "fuxi_BA_346"
   },
   {
     "instruction": "",
     "input": "请问《金刚峰楼阁一切瑜伽瑜祇经》的作者是谁？",
-    "output": "金刚智"
+    "output": "金刚智",
+    "sample_id": "fuxi_BA_347"
   },
   {
     "instruction": "",
     "input": "请问《佛说未曾有正法经》的作者是谁？",
-    "output": "法天"
+    "output": "法天",
+    "sample_id": "fuxi_BA_348"
   },
   {
     "instruction": "",
     "input": "请问《炮炙大法》的作者是谁？",
-    "output": "缪希雍"
+    "output": "缪希雍",
+    "sample_id": "fuxi_BA_349"
   },
   {
     "instruction": "",
     "input": "请问《海岳名言》的作者是谁？",
-    "output": "米芾"
+    "output": "米芾",
+    "sample_id": "fuxi_BA_350"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部戒律宗-终南家业》的作者是谁？",
-    "output": "守一"
+    "output": "守一",
+    "sample_id": "fuxi_BA_351"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部谱箓类-混元圣记》的作者是谁？",
-    "output": "谢守灏"
+    "output": "谢守灏",
+    "sample_id": "fuxi_BA_352"
   },
   {
     "instruction": "",
     "input": "请问《备倭记》的作者是谁？",
-    "output": "卜大同"
+    "output": "卜大同",
+    "sample_id": "fuxi_BA_353"
   },
   {
     "instruction": "",
     "input": "请问《佛说观佛三昧海经》的作者是谁？",
-    "output": "佛陀跋陀罗"
+    "output": "佛陀跋陀罗",
+    "sample_id": "fuxi_BA_354"
   },
   {
     "instruction": "",
     "input": "请问《神童诗》的作者是谁？",
-    "output": "汪洙"
+    "output": "汪洙",
+    "sample_id": "fuxi_BA_355"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编宫闱典皇子部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_356"
   },
   {
     "instruction": "",
     "input": "请问《尧山堂偶隽》的作者是谁？",
-    "output": "蒋一葵"
+    "output": "蒋一葵",
+    "sample_id": "fuxi_BA_357"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编人事典祸福部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_358"
   },
   {
     "instruction": "",
     "input": "请问《寿世传真》的作者是谁？",
-    "output": "徐文弼"
+    "output": "徐文弼",
+    "sample_id": "fuxi_BA_359"
   },
   {
     "instruction": "",
     "input": "请问《印章考》的作者是谁？",
-    "output": "方以智"
+    "output": "方以智",
+    "sample_id": "fuxi_BA_360"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部玉诀类-南华真经直音》的作者是谁？",
-    "output": "贾善翔"
+    "output": "贾善翔",
+    "sample_id": "fuxi_BA_361"
   },
   {
     "instruction": "",
     "input": "请问《九云记》的作者是谁？",
-    "output": "无名子"
+    "output": "无名子",
+    "sample_id": "fuxi_BA_362"
   },
   {
     "instruction": "",
     "input": "请问《武昌纪事》的作者是谁？",
-    "output": "陈徽言"
+    "output": "陈徽言",
+    "sample_id": "fuxi_BA_363"
   },
   {
     "instruction": "",
     "input": "请问《乐府传声》的作者是谁？",
-    "output": "徐大椿"
+    "output": "徐大椿",
+    "sample_id": "fuxi_BA_364"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部法相宗-唯识开蒙问答》的作者是谁？",
-    "output": "云峰"
+    "output": "云峰",
+    "sample_id": "fuxi_BA_365"
   },
   {
     "instruction": "",
     "input": "请问《法书通释》的作者是谁？",
-    "output": "张绅"
+    "output": "张绅",
+    "sample_id": "fuxi_BA_366"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-明伦汇编官常典州牧部》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_367"
   },
   {
     "instruction": "",
     "input": "请问《贩书偶记》的作者是谁？",
-    "output": "孙殿起"
+    "output": "孙殿起",
+    "sample_id": "fuxi_BA_368"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞神部方法类-神仙炼丹点铸三元宝照法》的作者是谁？",
-    "output": "归耕子"
+    "output": "归耕子",
+    "sample_id": "fuxi_BA_369"
   },
   {
     "instruction": "",
     "input": "请问《中国撰述诸宗著述部净土宗-莲邦消息》的作者是谁？",
-    "output": "妙空子"
+    "output": "妙空子",
+    "sample_id": "fuxi_BA_370"
   },
   {
     "instruction": "",
     "input": "请问《大明水记》的作者是谁？",
-    "output": "欧阳修"
+    "output": "欧阳修",
+    "sample_id": "fuxi_BA_371"
   },
   {
     "instruction": "",
     "input": "请问《随手杂录》的作者是谁？",
-    "output": "王巩"
+    "output": "王巩",
+    "sample_id": "fuxi_BA_372"
   },
   {
     "instruction": "",
     "input": "请问《三十国春秋辑本》的作者是谁？",
-    "output": "汤球"
+    "output": "汤球",
+    "sample_id": "fuxi_BA_373"
   },
   {
     "instruction": "",
     "input": "请问《蒙求》的作者是谁？",
-    "output": "李翰"
+    "output": "李翰",
+    "sample_id": "fuxi_BA_374"
   },
   {
     "instruction": "",
     "input": "请问《汉武帝内传》的作者是谁？",
-    "output": "班固"
+    "output": "班固",
+    "sample_id": "fuxi_BA_375"
   },
   {
     "instruction": "",
     "input": "请问《大方广佛华严经》的作者是谁？",
-    "output": "般若"
+    "output": "般若",
+    "sample_id": "fuxi_BA_376"
   },
   {
     "instruction": "",
     "input": "请问《养疴漫笔》的作者是谁？",
-    "output": "赵溍"
+    "output": "赵溍",
+    "sample_id": "fuxi_BA_377"
   },
   {
     "instruction": "",
     "input": "请问《古今图书集成-咽喉门》的作者是谁？",
-    "output": "陈梦雷"
+    "output": "陈梦雷",
+    "sample_id": "fuxi_BA_378"
   },
   {
     "instruction": "",
     "input": "请问《正统道藏洞玄部方法类-太极祭炼内法》的作者是谁？",
-    "output": "郑思肯"
+    "output": "郑思肯",
+    "sample_id": "fuxi_BA_379"
   },
   {
     "instruction": "",
     "input": "请问《佛说鞞摩肃经》的作者是谁？",
-    "output": "求那跋陀罗"
+    "output": "求那跋陀罗",
+    "sample_id": "fuxi_BA_380"
   },
   {
     "instruction": "",
     "input": "请问《佛说莲华眼陀罗尼经》的作者是谁？",
-    "output": "施护"
+    "output": "施护",
+    "sample_id": "fuxi_BA_381"
   },
   {
     "instruction": "",
     "input": "请问《裴子语林》的作者是谁？",
-    "output": "裴启"
+    "output": "裴启",
+    "sample_id": "fuxi_BA_382"
   },
   {
     "instruction": "",
     "input": "请问《大方等大集经贤护分》的作者是谁？",
-    "output": "阇那崛多"
+    "output": "阇那崛多",
+    "sample_id": "fuxi_BA_383"
   }
 ]

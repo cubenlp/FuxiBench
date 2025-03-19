@@ -2,2661 +2,3193 @@
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中观论疏》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_0"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《伤寒论集注》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_1"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大自在天子因地经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_2"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录别集-方山文宝禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_3"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《东园文集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_4"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《清世祖实录台湾资料选辑》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_5"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部戒律宗-补续芝园集》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_6"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部本文类-太上老君说长生益算妙经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_7"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《五代史阙文》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_8"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说秘密相经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_9"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《煮泉小品》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_10"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《杨岐方会和尚语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_11"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞玄灵宝千真科》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_12"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《郡斋读书志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_13"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《扪虱新话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_14"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《赞礼地藏菩萨忏愿仪》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_15"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乘起信论义疏》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_16"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《包氏喉证家宝》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_17"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《普济本事方》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_18"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《射经》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_19"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《往生礼赞偈》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_20"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《天台九祖传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_21"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大方广菩萨藏经中文殊师利根本一字陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_22"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《梅品》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_23"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部方法类-灵宝净明新修九老神印伏魔秘法》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_24"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《法言义疏》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_25"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《十八空论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_26"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部表奏类-赤松子章历》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_27"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《资治通鉴外纪》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_28"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《东溪先生文集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_29"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《燕京岁时记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_30"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《韵语阳秋》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_31"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《江西舆地图说》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_32"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《沩山古梅冽禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_33"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《龙树菩萨传之二》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_34"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-腰门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_35"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《闽中理学渊源考》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_36"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说解忧经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_37"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编人事典贫富部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_38"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《须摩提长者经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_39"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《隋遗录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_40"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《格言联璧》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_41"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《净名经关中释抄》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_42"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部谱箓类-许真君仙传》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_43"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部玉诀类-道德真经注》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_44"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说穰麌梨童女经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_45"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞真太上太素玉箓》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_46"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金刚顶莲华部心念诵仪轨》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_47"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《滇南本草》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_48"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛升忉利天为母说法经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_49"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《拳变馀闻》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_50"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宣和乙巳奉使金国行程录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_51"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《平蜀记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_52"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《华严金师子章》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_53"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《两溪文集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_54"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部方法类-气法要妙至诀》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_55"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说法灭尽经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_56"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗杂著-禅林宝训音义》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_57"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《伽驮金刚真言》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_58"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宝王三昧念佛直指》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_59"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《爱月庐医案》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_60"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说如来兴显经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_61"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说略教诫经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_62"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编皇极典正朔部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_63"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大乘观想曼拏罗净诸恶趣经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_64"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《新吾吕先生实政录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_65"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《小学诗礼》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_66"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《趵突泉志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_67"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《力庄严三昧经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_68"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《机警》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_69"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-五灯全书目录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_70"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《印度撰述密经仪轨部-妙法莲华三昧秘密三摩耶经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_71"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-上清河图宝箓》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_72"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《曲品》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_73"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今奇闻类纪》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_74"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说护国尊者所问大乘经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_75"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《都城记胜》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_76"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金刚顶经金刚界大道场毗卢遮那如来自受用身内证智眷属法身异名佛最上乘秘密三摩地礼忏文》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_77"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《近词丛话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_78"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞真太上上皇民籍定真玉箓》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_79"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《十二楼》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_80"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部记传类-梅仙观记》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_81"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录通集-佛果击节录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_82"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《英吉利广东入城始末》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_83"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《律二十二明了论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_84"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大威仪请问》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_85"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《本事经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_86"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部威仪类-太上洞渊三昧神咒斋清旦行道仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_87"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞玄灵宝道士明镜法》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_88"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-妇人临产门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_89"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金刚顶瑜伽修习毗卢遮那三摩地法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_90"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部本文类-太上洞玄灵宝转神度命经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_91"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《伤寒舌鉴》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_92"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《眼科心法要诀》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_93"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部众术类-魁罡六锁秘法》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_94"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说观想佛母般若波罗蜜多菩萨经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_95"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《南宋元明禅林僧宝传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_96"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《东周列国志》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_97"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-外科反花天泡杨梅门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_98"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大七宝陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_99"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《南天竺国菩提达摩禅师观门》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_100"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《脉诀乳海》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_101"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《香祖笔记》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_102"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部华严宗-华严感应缘起传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_103"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《续道藏-圣母孔雀明王尊经启白仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_104"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《憨予暹禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_105"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部方法类-修真十书武夷集》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_106"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《六壬神将释》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_107"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《法集要颂经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_108"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大威德金轮佛顶炽盛光如来消除一切灾难陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_109"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《百痴禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_110"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《衍极》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_111"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乐金刚不空真实三昧耶经般若波罗蜜多理趣释》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_112"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-丛林盛事》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_113"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《集验方》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_114"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《赤松领禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_115"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《入布萨堂说偈文等》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_116"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-太上洞神三皇传授仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_117"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《全唐文》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_118"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《蜩笑偶言》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_119"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金陵物产风土志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_120"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说普门品经之二》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_121"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《花草蒙拾》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_122"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说如意宝总持王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_123"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《词洁辑评》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_124"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《王艮尺牍》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_125"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部居士善女传-善女人传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_126"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《不必定入定入印经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_127"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乘宝月童子问法经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_128"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说身毛喜竖经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_129"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《道德真经口义》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_130"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《梵语杂名》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_131"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《铁琴铜剑楼藏书目录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_132"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录别集-希叟绍昙禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_133"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《脉诀汇辨》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_134"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《伤寒缵论》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_135"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《谷山笔麈》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_136"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部方法类-诸经圣胎神用诀》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_137"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《北斗七星护摩法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_138"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《不空罥索神变真言经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_139"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《养一斋诗话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_140"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《独断》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_141"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部记传类-周氏冥通记》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_142"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大方广菩萨十地经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_143"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《己酉避乱录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_144"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部本文类-太上说南斗六司延寿度人妙经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_145"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《吴耿尚孔四王全传》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_146"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《唯识二十论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_147"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-上清九天上帝祝百神内名经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_148"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《皇清书史》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_149"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《三教平心论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_150"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说罗摩伽经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_151"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《不空罥索陀罗尼自在王咒经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_152"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《清代圣人陆稼书演义》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_153"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《医暇卮言》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_154"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乘入楞伽经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_155"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《膳夫录》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_156"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《平夏录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_157"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部方法类-胎息精微论》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_158"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大毗卢遮那经阿阇梨真实智品中阿阇梨住阿字观门》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_159"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说信解智力经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_160"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛顶大白伞盖陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_161"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《昼帘绪论》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_162"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《鹅湖集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_163"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《昌言》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_164"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《剑侠奇中奇全传》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_165"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《马氏日抄》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_166"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《燕市货声》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_167"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《雨花香》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_168"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《医脉摘要》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_169"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-先觉集》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_170"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宁远州志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_171"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金陵琐事》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_172"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说四自侵经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_173"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《居官格言》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_174"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《太平惠民和剂局方》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_175"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宅法举隅》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_176"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《墨子城守各篇简注》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_177"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太玄部-内丹诀》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_178"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部方法类-至真子龙虎大丹诗》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_179"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞玄灵宝太上六斋十直圣纪经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_180"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说文殊师利一百八名梵赞》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_181"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编交谊典嫌疑部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_182"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部华严宗-华严一乘教义分齐章复古记》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_183"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《美人书》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_184"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《慈湖诗传》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_185"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《安乐集》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_186"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说放牛经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_187"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《江南野史》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_188"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《旧杂譬喻经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_189"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大集须弥藏经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_190"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《辩诬笔录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_191"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说阿阇世王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_192"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《深衣考》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_193"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《黄帝内经素问集注》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_194"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《阿吒婆呴鬼神大将上佛陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_195"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金刚顶瑜伽念珠经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_196"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部华严宗-华严法相槃节》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_197"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部方法类-神仙炼丹点铸三元宝照法》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_198"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部灵图类-黄庭内景五脏六腑补泻图》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_199"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部威仪类-洞玄灵宝自然券仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_200"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《意林》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_201"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《新语》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_202"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说决定毗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_203"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《游城南记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_204"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部本文类-太上太清天童护命妙经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_205"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今医鉴》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_206"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《法书要录》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_207"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《禽星易见》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_208"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《李温陵集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_209"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛藏经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_210"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《皇朝经世文续编》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_211"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《虚空藏菩萨经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_212"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《明实录武宗实录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_213"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《无畏三藏禅要》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_214"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宋诗钞》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_215"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《凤城琐录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_216"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《赤崁集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_217"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《净土十疑论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_218"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金正希先生文集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_219"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《七破论》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_220"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《任文逸稿》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_221"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《乾隆朝内府抄本理藩院则例》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_222"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《间书》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_223"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《天隐和尚语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_224"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《益部方物略记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_225"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说观普贤菩萨行法经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_226"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《山西票商成败记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_227"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说九色鹿经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_228"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《云峨喜禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_229"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编官常典公辅部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_230"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《西游真诠》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_231"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说九鹿经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_232"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乘起信论略述》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_233"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《嘉定赤城志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_234"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《曼殊室利咒藏中校量数珠功德经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_235"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《修昆仑证验》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_236"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《圣欢喜天式法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_237"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《麓堂诗话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_238"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《陶渊明集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_239"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编交谊典馈遗部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_240"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《三界图》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_241"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《皇明经世文编》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_242"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部灵图类-龙虎手鉴图》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_243"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《释迦谱》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_244"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太平部-太上灵宝净明中黄八柱经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_245"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部净土宗-琼楼吟稿节钞》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_246"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛本行集经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_247"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说太子墓魄经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_248"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《医医医》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_249"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《遁甲演义》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_250"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《盛京疆域考》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_251"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《东园丛说》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_252"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部本文类-高上玉皇本行经髓》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_253"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《商主天子所问经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_254"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《无门关》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_255"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说三十五佛名礼忏文》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_256"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《阿毗达磨品类足论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_257"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说诸法勇王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_258"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《麟角集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_259"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《周子全书》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_260"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述大小乘释经部华严部疏-华严经文义要决问答》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_261"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《高僧传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_262"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《印度撰述经部方等部-楞伽阿跋多罗宝经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_263"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部众术类-太古土兑经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_264"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部玉诀类-道德真经三解》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_265"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《谰言长语》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_266"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《淳熙严州图经》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_267"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《星变志》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_268"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《阿差末菩萨经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_269"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《寄鹤斋选集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_270"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说楼阁正法甘露鼓经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_271"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《遵闻录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_272"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《杌近志》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_273"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编交谊典乡里部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_274"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洪恩灵济真君灵签》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_275"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《针灸节要》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_276"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部天台宗-摩诃止观贯义》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_277"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说栴檀香身陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_278"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大毗卢遮那成佛神变加持经莲华胎藏菩提幢标帜普通真言藏广大成就瑜伽》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_279"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《药师经疏》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_280"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说萨罗国经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_281"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-道门十规》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_282"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《摩诃僧祇比丘尼戒本》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_283"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《道德真经注》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_284"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《书法雅言》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_285"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《吕祖全传》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_286"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《医话》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_287"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《陶村诗稿》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_288"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部赞颂类-黄帝阴符经颂》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_289"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《锡金团练始末记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_290"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《女范捷录》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_291"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《续高僧传》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_292"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《竹书孔子诗论》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_293"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大爱道般泥洹经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_294"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部方法类-玉景九天金霄威神王祝太元上经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_295"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《秦并六国平话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_296"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《璞山蒋公政训》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_297"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《诗镜总论》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_298"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《十剂表》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_299"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《焚书》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_300"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录别集-佛果克勤禅师心要》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_301"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《元史》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_302"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部净土宗-莲修必读》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_303"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《如来方便善巧咒经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_304"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部戒律宗-沙弥律仪要略增注》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_305"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《唐末藩镇演义》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_306"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《清实录宣统朝政纪》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_307"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《桯史》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_308"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编官常典贤裔部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_309"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古刻丛钞》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_310"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《六祖大师法宝坛经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_311"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《出劫纪略》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_312"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部本文类-太上老君内丹经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_313"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录通集-万松老人评唱天童觉和尚拈古请益录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_314"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-继灯录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_315"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《龙井访茶记》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_316"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部天台宗-智者大师别传注》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_317"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《黄石公三略 三略》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_318"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《星命总括》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_319"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《菩萨生地经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_320"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部方法类-破迷正道歌》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_321"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《世本四种》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_322"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《牧斋有学集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_323"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部本文类-黄帝阴符经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_324"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《今世说》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_325"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《素女妙论》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_326"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《梦蕉亭杂记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_327"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《高峰三山来禅师疏语》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_328"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《圣观自在菩萨一百八名经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_329"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大般泥洹经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_330"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《东北舆地释略》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_331"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《国朝宋学渊源记》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_332"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《阿差末菩萨经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_333"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《缅国纪略》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_334"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《甄异传》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_335"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部众术类-种芝草法》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_336"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《闲燕常谈》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_337"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《律戒本疏之二》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_338"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《本经疏证》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_339"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《幽明录》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_340"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《老子指略》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_341"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗杂著-宗范》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_342"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《阿育王息坏目因缘经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_343"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《简明医彀》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_344"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大丈夫论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_345"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《谪星说诗》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_346"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编人事典脏腑部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_347"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《颐庵文选》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_348"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《社学要略》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_349"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《存存斋医话稿》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_350"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《水石缘》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_351"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《荆釵记》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_352"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《温公续诗话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_353"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说贤者五福德经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_354"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编宫闱典宫闱总部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_355"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《笑堂和尚语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_356"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《能显中边慧日论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_357"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编人事典命运部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_358"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《海药本草》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_359"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大乘悲分陀利经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_360"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说八无暇有暇经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_361"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说布施经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_362"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《补张灵崔莹合传》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_363"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《孔子改制考》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_364"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《绘芳录红闺春梦》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_365"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《陶说说今篇》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_366"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《词综偶评》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_367"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《不思议光菩萨所说经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_368"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗杂著-观心玄枢》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_369"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-洞玄灵宝八节斋宿启仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_370"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《石室秘录》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_371"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《资暇集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_372"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述礼忏部-慈悲地藏菩萨忏法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_373"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《朱柏庐诗文选》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_374"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《夹竹桃顶针千家诗山歌》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_375"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-扶天广圣如意灵签》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_376"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《艺概词曲概》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_377"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大圣欢喜双身毗那夜迦天形像品仪轨》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_378"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述大小乘释经部华严部疏-华严经要解》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_379"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《六字神咒经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_380"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《耕烟草堂诗钞》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_381"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《方麓集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_382"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《戒庵老人漫笔》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_383"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《孙子集注》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_384"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《说岳全传》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_385"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大丈夫论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_386"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《五分戒本》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_387"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《三国演义》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_388"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《众经目录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_389"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说入无分别法门经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_390"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《仕学规范》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_391"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《火吽轨别录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_392"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《南史札记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_393"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛点头脉诀》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_394"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《证治准绳女科》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_395"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《赞僧功德经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_396"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说一切流摄守因经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_397"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说尊那经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_398"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《卢至长者因缘经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_399"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《学史》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_400"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《六字神咒王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_401"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部本文类-太上九天延祥涤厄四圣妙经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_402"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《祈愿文之二》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_403"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大方广佛华严经普贤菩萨行愿品》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_404"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《优婆塞戒经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_405"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《峥霄馆评定通俗演义型世言》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_406"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太平部-洞玄灵宝八仙王教诫经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_407"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《妙臂印幢陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_408"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗语录别集-普觉宗杲禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_409"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《道行般若经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_410"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《圣观自在菩萨一百八名经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_411"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太玄部-还真集》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_412"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《禁火葬录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_413"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《轩岐救正论》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_414"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《学菩萨戒法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_415"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《守护国界主陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_416"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《吴船录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_417"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-锦江禅灯目录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_418"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《愚鼓词》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_419"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《易筮通变》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_420"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说大方等顶王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_421"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宰惠纪略》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_422"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-明伦汇编人事典腹部》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_423"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《陆清献公莅嘉遗迹》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_424"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部本文类-太上七星神咒经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_425"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《幼仪杂箴》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_426"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-妇人带下门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_427"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《泪珠缘》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_428"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说无量门破魔陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_429"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-小儿肛胀门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_430"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太玄部-太玄宝典》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_431"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《奇症汇》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_432"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《今言》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_433"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《声律启蒙》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_434"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞玄部方法类-天枢院都司须知令》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_435"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《洛阳记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_436"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金瓶梅词话万历本》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_437"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《经学通论》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_438"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《林间录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_439"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《舍利弗陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_440"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《汲古堂集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_441"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《宝悉地成佛陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_442"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述大小乘释经部华严部疏-华严经纶贯》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_443"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《草泽狂歌》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_444"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《彦周诗话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_445"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《贩书偶记》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_446"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《天马山房遗稿》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_447"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部方法类-全真集玄秘要》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_448"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《明文衡》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_449"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大方等修多罗王经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_450"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太玄部-玄宗直指万法同归》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_451"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大般涅槃经玄义》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_452"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《雁门集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_453"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《闽县乡土志》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_454"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《情史》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_455"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《脉确》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_456"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《胜思惟梵天所问经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_457"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《埋忧集》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_458"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部编年通史-续佛祖统纪》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_459"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《衡庐精舍藏稿》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_460"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《金刚能断般若波罗蜜经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_461"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《慈氏菩萨略修愈誐念诵法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_462"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今刀剑录》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_463"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《董妃哀册》",
-    "output": "子藏"
+    "output": "子藏",
+    "sample_id": "fuxi_BCC_464"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《二隐谧禅师语录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_465"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说所欲致患经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_466"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今图书集成-小儿二便门》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_467"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《词苑萃编》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_468"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大毗卢遮那成佛神变加持经略示七支念诵随行法》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_469"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《乐璎珞庄严方便品经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_470"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《两卷无量寿经宗要》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_471"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部玉诀类-吕纯阳真人沁园春丹词批注》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_472"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗杂著-入众须知》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_473"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部玉诀类-道德真经全解》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_474"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《子午流注针经》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_475"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《说唐后传》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_476"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说出生菩提心经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_477"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部杂传-名公法喜志》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_478"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏太玄部-海客论》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_479"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《皇极经世》",
-    "output": "易藏"
+    "output": "易藏",
+    "sample_id": "fuxi_BCC_480"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《续传灯录》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_481"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《蕉廊脞录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_482"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部方法类-幼真先生服内元炁诀》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_483"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述史传部禅宗-正源略集补遗》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_484"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今风谣》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_485"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《名香谱》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_486"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部净土宗-观河集节钞》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_487"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《大八义》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_488"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《彰所知论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_489"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说宿命智陀罗尼》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_490"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《华严经探玄记》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_491"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《橐园春灯话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_492"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《古今词论》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_493"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《菩萨投身饲饿虎起塔因缘经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_494"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《浩然斋雅谈》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_495"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《洞山岕茶系》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_496"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部禅宗杂著-五家宗旨纂要》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_497"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞神部玉诀类-宋徽宗御解道德真经解义》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_498"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《清史稿》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_499"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《孟浩然集》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_500"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-正一法文太上外箓仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_501"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说九横经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_502"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《养生三要》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_503"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《李铁君文钞》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_504"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说圣佛母小字般若波罗蜜多经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_505"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《印度撰述密经仪轨部-佛说如意虚空藏菩萨陀罗尼经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_506"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《印度撰述密经仪轨部-十六大罗汉因果识见颂》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_507"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《橘录》",
-    "output": "艺藏"
+    "output": "艺藏",
+    "sample_id": "fuxi_BCC_508"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说优婆夷堕舍迦经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_509"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《鞞婆沙论》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_510"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《证治准绳幼科》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_511"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《中国撰述诸宗著述部天台宗-天台传佛心印记注》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_512"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《台湾资料清宣宗实录选辑》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_513"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《小品般若波罗蜜经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_514"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部戒律类-太上十二上品飞天法轮劝戒妙经》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_515"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《环溪诗话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_516"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《永历实录》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_517"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏正一部-玄坛刊误论》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_518"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《请观世音菩萨消伏毒害陀罗尼咒经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_519"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《皇黎一统志》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_520"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛为海龙王说法印经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_521"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《栖霞阁野乘》",
-    "output": "史藏"
+    "output": "史藏",
+    "sample_id": "fuxi_BCC_522"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说龙王兄弟经》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_523"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《四书韵对》",
-    "output": "诗藏"
+    "output": "诗藏",
+    "sample_id": "fuxi_BCC_524"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《文原》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_525"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《佛说弥勒菩萨发愿王偈》",
-    "output": "佛藏"
+    "output": "佛藏",
+    "sample_id": "fuxi_BCC_526"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《日知录之馀》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_527"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《妇科玉尺》",
-    "output": "医藏"
+    "output": "医藏",
+    "sample_id": "fuxi_BCC_528"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《枫山语录》",
-    "output": "儒藏"
+    "output": "儒藏",
+    "sample_id": "fuxi_BCC_529"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《左庵词话》",
-    "output": "集藏"
+    "output": "集藏",
+    "sample_id": "fuxi_BCC_530"
   },
   {
     "instruction": "请将提供的书归类到易藏、医藏、艺藏、诗藏、史藏、子藏、集藏、儒藏、道藏佛藏中的一类。",
     "input": "《正统道藏洞真部威仪类-黄箓破狱灯仪》",
-    "output": "道藏"
+    "output": "道藏",
+    "sample_id": "fuxi_BCC_531"
   }
 ]
