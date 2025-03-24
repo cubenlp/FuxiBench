@@ -42,4 +42,16 @@ CUDA_VISIBLE_DEVICES=0 sh ./eval_icl.sh
 The LLM evaluator configuration is in function `lacc_evaluation_api`
 
 # Citation
-arxiv coming soon
+<!-- arxiv coming soon -->
+
+```bibtex
+@misc{zhao2025fuxibenchmarkevaluatinglanguage,
+      title={F\`ux\`i: A Benchmark for Evaluating Language Models on Ancient Chinese Text Understanding and Generation}, 
+      author={Shangqing Zhao and Yuhao Zhou and Yupei Ren and Zhe Chen and Chenghao Jia and Fang Zhe and Zhaogaung Long and Shu Liu and Man Lan},
+      year={2025},
+      eprint={2503.15837},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.15837}, 
+}
+```
