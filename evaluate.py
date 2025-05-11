@@ -328,7 +328,7 @@ class BenchmarkEvaluator:
             model="sft",
             temperature=0,
             openai_api_key='EMPTY',
-            openai_api_base=f'http://map:8002/v1', 
+            openai_api_base=self.config.llm_evaluator_url, 
             max_tokens=1024,
             verbose=True
         )
@@ -336,6 +336,7 @@ class BenchmarkEvaluator:
         try:
             llm.generate_prompt([StringPromptValue(text="hello")])
         except Exception as e:
+            logger.error(f"Using LLM evaulator on {self.config.llm_evaluator_url} failed!")
             raise ValueError(f"LLM is not available: {e}")
 
         def run_evaluator():
@@ -419,7 +420,14 @@ class BenchmarkEvaluator:
         # 根据任务名label选择对应的评测指标
         for sample in tqdm(R, desc="Evaluating"):
             # 使用 DataFrame 查找相应的度量标准
-            metric = self.meta_df.loc[self.meta_df['label'] == sample['label'], 'metric'].iloc[0]
+            try:
+                metric = self.meta_df.loc[self.meta_df['label'] == sample['label'], 'metric'].iloc[0]
+            except IndexError:
+                logger.error(f"Sample with label '{sample['label']}' not found in meta_df. Available labels: {self.meta_df['label'].unique()}")
+                continue
+            except Exception as e:
+                logger.error(f"Error processing sample: {e}")
+                continue
  
             if metric == 'bleu':
                 score = calculate_sacrebleu(reference=sample[self.gold_key], generated=sample[self.pred_key])
@@ -508,13 +516,12 @@ class ICL_Evaluator(BenchmarkEvaluator):
 
         all_data = [] 
         logger.info(f"raw is {raw}, check if using template")
-        # for label, _metric, kw, filename, metric, desc in self.meta_table:
-        #     label, _metric, kw, filename, metric, desc = label.strip(), metric.strip(), kw.strip(), filename.strip(), metric.strip(), desc.strip()
-        #     # if not label in ['ci_gen', 'couplet_gen']:
-        #     #     continue
 
         for _, row in self.meta_df.iterrows():
             label, filename = row['label'], row['filename']
+
+            # if not label in ['ci_gen', 'couplet_gen']:  # 只评估诗词和对联
+            #     continue
 
             data = load_json(os.path.join(self.config.data_dir, filename))
 
@@ -522,7 +529,7 @@ class ICL_Evaluator(BenchmarkEvaluator):
                 from transformers import AutoTokenizer
                 logger.info(f"using `Qwen/Qwen2-0.5B-Instruct` tokenizer to estimate length")
                 input("Press Enter to continue...(will start model downloading from huggingface or ctrl-c to modify here to use local model)")
-                tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B-Instruct")
+                tokenizer = AutoTokenizer.from_pretrained("/home/qing/pretrains/Qwen/Qwen2-0.5B-Instruct")
                 self.tokenizer = tokenizer
 
             for s in data:
@@ -567,13 +574,14 @@ def main():
 
     # when API mode enabled 
     parser.add_argument("--port", "-p", type=str, default="8000")
-    parser.add_argument("--host", "-ip", type=str, default="map")
+    parser.add_argument("--host", "-ip", type=str, default="127.0.0.1")
     parser.add_argument("--api_key", "-k", type=str, default="EMPTY") 
     parser.add_argument("--api_base", "-b", type=str, default=None) 
     parser.add_argument("--chat_url", "-c", type=str, default=None) 
 
     # langchain eval llm 
     parser.add_argument("--langchain_eval_llm", "-lc", choices=['qwen2_0.5b', 'qwen2_7b', 'gpt4o-mini'], default='qwen2_0.5b')
+    parser.add_argument("--llm_evaluator_url", "-e", type=str, default="http://192.168.98.6:8002/v1")
 
     # save results
     parser.add_argument("--save_dir", "-s", type=str, default="./results/")

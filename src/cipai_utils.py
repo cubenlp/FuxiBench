@@ -134,6 +134,12 @@ class FormatEvaluator:
             logger.error(f"unknown cipai: {cipai}")
             return False
         
+        # deepseek r1 会有赏析和注
+        if "赏析：" in poem_text:
+            poem_text = poem_text.split("赏析：")[0]
+        if "注：" in poem_text:
+            poem_text = poem_text.split("注：")[0]
+        poem_text = poem_text.strip()
         # ignore title 
         no_title = poem_text[poem_text.find('\n')+1:].strip()
         no_title_author = no_title[no_title.find('\n')+1:].strip()
@@ -157,9 +163,6 @@ class FormatEvaluator:
                 cnt += 1
             else:
                 # logger.error(f"format check failed: {sample}")  
-                # print(sample['output'])
-                # print(self.cipai2format[sample['cipai']] )
-                # print("="*100)
                 print(sample['cipai'])
                 failed_cipai[sample['cipai']] += 1
                 pass 

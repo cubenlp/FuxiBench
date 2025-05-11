@@ -100,12 +100,22 @@ def ci_format_acc(pred, cipai):
     """ 词牌格式检查 """
     return CiFormat.eval_single(cipai=cipai, poem_text=pred)
 
+def couplet_extraction(text):
+    """ 从 text 中提取对联 """
+    pattern = r"下联：(.*?)\n"
+    m = re.search(pattern, text)
+    if m:
+        return m.group(1).strip()
+    else:
+        return text.strip()
 
 def couplet_format_acc(pred, gold):
     """ 对仗检查 
         only word counts
         TODO: pos_tag matching
     """
+    pred = couplet_extraction(pred)
+
     pred_parts = [p.strip() for p in re.split(r'[ \t\n，。？！、,.?!]', pred.strip()) if p.strip() ]
     gold_parts = [p.strip() for p in re.split(r'[ \t\n，。？！、,.?!]', gold.strip()) if p.strip() ]
 
@@ -134,21 +144,29 @@ def extract_choice(response):
         (r'答案(选项)?(是|为)：? ?([ABCD])', 3),
         (r'答案(是|为)选项 ?([ABCD])', 2),
         (r'故?选择?：? ?([ABCD])',1),
-        (r'([ABCD]) ?选?项(是|为)?正确',1),
         (r'正确的?选项(是|为) ?([ABCD])',2),
         (r'答案(应该)?(是|为)([ABCD])',3),
-        (r'选项 ?([ABCD]) ?(是|为)?正确',1),
         (r'选择答案 ?([ABCD])',1),
         (r'答案?：?([ABCD])',1),
         (r'([ABCD])(选?项)?是?符合题意',1),
         (r'答案选项：? ?([ABCD])', 1), # chatglm
         (r'答案(选项)?为(.*?)([ABCD])', 3), # chatgpt
         (r'content=(.*?)([ABCD])(.*?)', 2), # finetuned qwen
+        (r'选项是：?\s*?\*\*([ABCD])\*\*', 1),  # markdown bold 
+        (r'选项是：?\s*?\*\*([ABCD])\.\s?', 1),  # markdown bold dot 
+        (r'选项[是为]?：?\s*?([ABCD])\.?\s?', 1),  # 
+        (r'^\s*?([ABCD])\.?\s*?[\n\S]', 1),  # single line answer at beginning
+        (r'^\s+?([ABCD])\.?\s*?[\n\S]', 1),  # answer at start of line
+        (r'([ABCD]) ?选?项(是|为)?正确',1),
+        (r'选项 ?([ABCD]) ?(是|为)?正确',1),
+        (r'故?选择?：?\s*?(\*\*)?([ABCD])\.?\s?', 2),   # 故选**A. 正虚瘀结证**。
+        (r'\*\*答案是?\*\*：\s*?([ABCD])\.?\s?', 1),   # **答案**：D. 痰湿蕴肺证
 
     ]
     for pattern,idx in patterns:
         m = re.search(pattern, response, re.M)
         if m:
+            logger.debug(pattern)
             answer = m.group(idx)
             assert answer in choices
             return answer
@@ -156,11 +174,12 @@ def extract_choice(response):
     # 2. Recursive match
     patterns = [
         (r'([ABCD])(.*?)当选', 1),
-        (r'([ABCD])(.*?)正确', 1),
+        # (r'([ABCD])(.*?)正确', 1),
     ]
     for pattern,idx in patterns:
         m = re.search(pattern, response, re.M)
         if m:
+            # logger.debug(pattern)
             while m:
                 answer = m.group(idx)
                 m = re.search(pattern, m.group(0)[1:], re.M)
@@ -169,11 +188,12 @@ def extract_choice(response):
 
     # 3. Weak single match
     patterns = [
-        (r'[^不]是：? ?([ABCD])', 1),
+        (r'[^不]是：\s*?([ABCD])', 1),
     ]
     for pattern,idx in patterns:
         m = re.search(pattern, response, re.M)
         if m:
+            # logger.debug(pattern)
             answer = m.group(idx)
             assert answer in choices
             return answer
@@ -194,9 +214,10 @@ def multiple_choice_acc(pred, gold):
     """ 从 llm 输出的pred 字符串中提取 选项，与 gold 对比 """
     try:
         pred = extract_choice(pred)
+        logger.info(f"pred={pred}, gold={gold}")
         return pred.strip() == gold.strip()
     except Exception as e:
-        logger.info(f"extract_choice failed: pred={pred}, gold={gold}")
+        logger.info(f"extract_choice failed:{e} \n pred={pred}, gold={gold}")
         return False
 
 
@@ -228,16 +249,10 @@ def calculate_sacrebleu(reference, generated):
 if __name__ == '__main__':
 
     def test_multiple_choice():
-        generated = "A. asdfa "
+        generated = "正确答案为：\n\n**B. 饮食积滞证**"    
         reference = "A"
+
         print(multiple_choice_acc(generated, reference))
-        data = load_json("./results_reason/qwen-max-batch_evaluated.json")
-        data = [d for d in data if d['label'] == 'tcm_sd']
-        cnt = 0 
-        for d in data:
-            if multiple_choice_acc(d['prediction'], d['output']):
-                cnt += 1
-        print(cnt, len(data))  # 263 1098
 
     test_multiple_choice()
     exit()
