@@ -20,7 +20,7 @@ import pandas as pd
 from langchain_core.prompt_values import StringPromptValue
 
 from src.utils import calculate_rouge_l, calculate_sacrebleu
-from src.utils import multiple_choice_acc, ci_format_acc, couplet_format_acc
+from src.utils import multiple_choice_acc, ci_format_acc, ci_format_multiple_acc, couplet_format_acc
 from src.utils import load_json, save_json 
 
 from src.eval_prompts import CriteriaResultOutputParserZH, sft_prompt, sft_criteria, general_criteria,  general_lacc_prompt
@@ -384,7 +384,7 @@ class BenchmarkEvaluator:
         return V
 
 
-    def __call__(self, data_to_eval=None) :
+    def __call__(self, data_to_eval=None, postfix="_evaluated.json") :
         """
             1. 先试用 prompt 进行 infer 并保存结果
             2. 根据任务名label选择对应的评测指标
@@ -394,16 +394,16 @@ class BenchmarkEvaluator:
 
     
         if os.path.exists(self.save_path):
-            # logger.info(f"Loading existing results from {self.save_path}")
-            # R = load_json(self.save_path)
             logger.info(f"Prediction results file already loaded as self.all_data")
             R = self.all_data
-            if os.path.exists(self.save_path.replace(".json", "_evaluated.json")):
-                logger.info(f"Evaluated results file already exists, loading from {self.save_path.replace('.json', '_evaluated.json')}")
-                R = load_json(self.save_path.replace(".json", "_evaluated.json"))
+            if os.path.exists(self.save_path.replace(".json", postfix)):
+                logger.info(f"Evaluated results file already exists, loading from {self.save_path.replace('.json', postfix)}")
+                R = load_json(self.save_path.replace(".json", postfix))
                 logger.warning("Results will be re-evaluated!")
         else:
             prompts = [s['prompt'] for s in data_to_eval]
+            logger.info(f"Using {self.config.model_name_or_path} to infer {len(prompts)} prompts")
+            logger.info(f"prompts[0]: {prompts[0]}")
             predictions = self.get_prediction(prompts) # LLM infer 返回结果是 List[string]
 
             R = [] 
@@ -419,6 +419,14 @@ class BenchmarkEvaluator:
         C = [] # metric-calculated samples
         # 根据任务名label选择对应的评测指标
         for sample in tqdm(R, desc="Evaluating"):
+
+            # if not sample['label'] in ['ci_gen', 'couplet_gen']:  # 只评估诗词和对联
+            # if not sample['label'] in ['poem_nmt_inv']: 
+            if 'label' not in sample:
+                sample['label'] = 'ci_gen'
+            if not sample['label'] in ['ci_gen']:  
+                continue
+
             # 使用 DataFrame 查找相应的度量标准
             try:
                 metric = self.meta_df.loc[self.meta_df['label'] == sample['label'], 'metric'].iloc[0]
@@ -436,6 +444,7 @@ class BenchmarkEvaluator:
             elif metric == 'cacc':
                 score = couplet_format_acc(pred=sample[self.pred_key], gold=sample[self.gold_key])
             elif metric == 'pacc':
+                # score = ci_format_multiple_acc(pred=sample[self.pred_key], cipai=sample['cipai'])
                 score = ci_format_acc(pred=sample[self.pred_key], cipai=sample['cipai'])
             elif metric == 'lacc':
                 V.append(sample)
@@ -448,11 +457,12 @@ class BenchmarkEvaluator:
 
         # vllm
         # evaluated_V = self.lacc_evaluation(V)
-        evaluated_V = self.lacc_evaluation_api(V)
+        # evaluated_V = self.lacc_evaluation_api(V)
+        evaluated_V = [] # 暂时关闭 lacc 评估, 如果已有结果, 则直接使用
         C.extend(evaluated_V)
 
 
-        evaluated_result_path = self.save_path.replace('.json', '_evaluated.json')
+        evaluated_result_path = self.save_path.replace('.json', postfix)
         # if not os.path.exists(evaluated_result_path):
         save_json(C, evaluated_result_path)
         logger.info(f"Evaluated result saved to {evaluated_result_path}")
@@ -463,7 +473,8 @@ class BenchmarkEvaluator:
 
         for label, scores_list in scores.items():
             avg_score = sum(scores_list) / len(scores_list)
-            avg_score = avg_score if avg_score > 1 else avg_score * 100  # convert to percentage
+            metric = self.meta_df.loc[self.meta_df['label'] == label, 'metric'].iloc[0]
+            avg_score = avg_score if avg_score > 1 or metric =='bleu' else avg_score * 100  # convert to percentage
             num = len(scores_list)
             
             # 查找相应的名称和描述
@@ -520,16 +531,19 @@ class ICL_Evaluator(BenchmarkEvaluator):
         for _, row in self.meta_df.iterrows():
             label, filename = row['label'], row['filename']
 
-            # if not label in ['ci_gen', 'couplet_gen']:  # 只评估诗词和对联
-            #     continue
+            if not label in ['ci_gen']:  # 只评估诗词和对联
+                continue
 
             data = load_json(os.path.join(self.config.data_dir, filename))
 
-            if raw:      # api mode, no tokenizer avaliable, use qwen tokenizer to estimate length
+            if raw and not hasattr(self, 'tokenizer'):      # api mode, no tokenizer avaliable, use qwen tokenizer to estimate length
                 from transformers import AutoTokenizer
-                logger.info(f"using `Qwen/Qwen2-0.5B-Instruct` tokenizer to estimate length")
-                input("Press Enter to continue...(will start model downloading from huggingface or ctrl-c to modify here to use local model)")
-                tokenizer = AutoTokenizer.from_pretrained("/home/qing/pretrains/Qwen/Qwen2-0.5B-Instruct")
+                try:
+                    tokenizer = AutoTokenizer.from_pretrained(self.config.len_estimator)
+                except:
+                    logger.info(f"using `{self.config.len_estimator}` tokenizer to estimate length")
+                    input("Press Enter to continue...(will start model downloading from huggingface or ctrl-c to modify here to use local model)")
+                    tokenizer = AutoTokenizer.from_pretrained(self.config.len_estimator)
                 self.tokenizer = tokenizer
 
             for s in data:
@@ -571,6 +585,7 @@ def main():
     parser.add_argument("--version", "-v", type=str, default="test_version", help="mark the version of the results")
     parser.add_argument("--quantization", "-q", type=str, default=None, help="quantization type")
     parser.add_argument("--fewshot", "-f", type=int, default=0, help="fewshot number")
+    parser.add_argument("--len_estimator", "-le", type=str, default="/sshfs/pretrains/Qwen/Qwen2-0.5B-Instruct", help="length estimation tokenizer")
 
     # when API mode enabled 
     parser.add_argument("--port", "-p", type=str, default="8000")
@@ -581,13 +596,15 @@ def main():
 
     # langchain eval llm 
     parser.add_argument("--langchain_eval_llm", "-lc", choices=['qwen2_0.5b', 'qwen2_7b', 'gpt4o-mini'], default='qwen2_0.5b')
-    parser.add_argument("--llm_evaluator_url", "-e", type=str, default="http://192.168.98.6:8002/v1")
+    parser.add_argument("--llm_evaluator_url", "-e", type=str, default="http://tenqserver:8002/v1")
 
     # save results
     parser.add_argument("--save_dir", "-s", type=str, default="./results/")
     parser.add_argument("--max_length", "-l", type=int, default=1024)
     args = parser.parse_args()
     
+    print("args parsed!")
+
     if not os.path.exists(args.save_dir):
         os.makedirs(args.save_dir)
         logger.info(f"Save results to {args.save_dir}")
@@ -599,7 +616,8 @@ def main():
         evaluator = BenchmarkEvaluator(
             config=args
         )
-    evaluator()
+    # evaluator(postfix="_evaluated_multiple.json")
+    evaluator(postfix="_evaluated.json")
 
 if __name__ == '__main__':
     main()

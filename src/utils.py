@@ -100,6 +100,10 @@ def ci_format_acc(pred, cipai):
     """ 词牌格式检查 """
     return CiFormat.eval_single(cipai=cipai, poem_text=pred)
 
+def ci_format_multiple_acc(pred, cipai):
+    """ 词牌格式检查 """
+    return CiFormat.eval_multiple(cipai=cipai, poem_text=pred)
+
 def couplet_extraction(text):
     """ 从 text 中提取对联 """
     pattern = r"下联：(.*?)\n"
@@ -166,7 +170,7 @@ def extract_choice(response):
     for pattern,idx in patterns:
         m = re.search(pattern, response, re.M)
         if m:
-            logger.debug(pattern)
+            # logger.debug(pattern)
             answer = m.group(idx)
             assert answer in choices
             return answer
@@ -214,7 +218,7 @@ def multiple_choice_acc(pred, gold):
     """ 从 llm 输出的pred 字符串中提取 选项，与 gold 对比 """
     try:
         pred = extract_choice(pred)
-        logger.info(f"pred={pred}, gold={gold}")
+        # logger.info(f"pred={pred}, gold={gold}")
         return pred.strip() == gold.strip()
     except Exception as e:
         logger.info(f"extract_choice failed:{e} \n pred={pred}, gold={gold}")

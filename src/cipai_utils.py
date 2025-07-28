@@ -39,7 +39,7 @@ class PoemFormat:
     desc: str = None 
     candidate_templates: list = None  # 增加多种格律模板
 
-    @property
+
     def standard_format(self, template=None):
         """ repeat 参数的处理 """
         if template is None:
@@ -51,9 +51,10 @@ class PoemFormat:
             return re.split(r'[ \t\n]', template.strip()) * self.repeat
         
 
-    def check_format(self, poem, verbose=False):
+    def check_format(self, poem, template=None, verbose=False):
         """ only consider order and length """
-        gold = [ x.strip() for x in self.standard_format ]
+        template = self.standard_format(template)
+        gold = [ x.strip() for x in template ]
         pred = [ x.strip() for x in re.split(r'[ \t\n，。？！、,.?!]', poem.strip()) if x.strip()] # space or tab to split 
 
         flag = True 
@@ -72,6 +73,7 @@ class PoemFormat:
 
         if not flag and verbose:
             logger.warning(f"{self}")
+            logger.warning(f"{flag}| {verbose}")
             logger.warning(f"gold: {gold}")
             logger.warning(f"pred: {pred}")
             input()
@@ -80,9 +82,13 @@ class PoemFormat:
     # 实现一个函数 宽泛的匹配所有 template 的 format
     def check_format_multiple(self, poem):
         for t in self.candidate_templates:
-            if self.check_format(poem, t):
+            t = "\t".join([ sent for sent in re.split(r'[\t\n]', t['template']) if sent.strip()])
+            if self.check_format(poem, template=t):
                 return True
         return False 
+
+
+    
 
 
 cipai = ['浣溪沙', '鹧鸪天', '菩萨蛮', '蝶恋花', '临江仙', 
@@ -147,6 +153,34 @@ class FormatEvaluator:
         # 三对其一
         return format_template.check_format(poem_text) or format_template.check_format(no_title) or format_template.check_format(no_title_author)
     
+
+    def eval_multiple(self, cipai, poem_text):
+        """ 判断一首诗是否符合格式 
+            返回所有符合的格式
+        """
+        try:
+            format_template = self.cipai2format[cipai]  
+        except:
+            logger.error(f"unknown cipai: {cipai}")
+            return False
+        
+        # deepseek r1 会有赏析和注
+        if "赏析：" in poem_text:
+            poem_text = poem_text.split("赏析：")[0]
+        if "注：" in poem_text:
+            poem_text = poem_text.split("注：")[0]
+        poem_text = poem_text.strip()
+        # ignore title 
+        no_title = poem_text[poem_text.find('\n')+1:].strip()
+        no_title_author = no_title[no_title.find('\n')+1:].strip()
+
+        # 三对其一
+        return format_template.check_format_multiple(poem_text) or format_template.check_format_multiple(no_title) or format_template.check_format_multiple(no_title_author)
+    
+
+        
+
+
     def eval_batch(self, poems):
         """ 
         
