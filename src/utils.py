@@ -95,6 +95,7 @@ class BenchmarkLangchainEvaluator:
 
 from src.cipai_utils import FormatEvaluator
 CiFormat = FormatEvaluator()
+CiFormatTonal = FormatEvaluator(with_tonal=True)
 
 def ci_format_acc(pred, cipai):
     """ 词牌格式检查 """
@@ -103,6 +104,17 @@ def ci_format_acc(pred, cipai):
 def ci_format_multiple_acc(pred, cipai):
     """ 词牌格式检查 """
     return CiFormat.eval_multiple(cipai=cipai, poem_text=pred)
+
+
+def ci_format_tonal_score(pred, cipai):
+    """ 词牌格式检查 """
+    return CiFormatTonal.eval_single(cipai=cipai, poem_text=pred) 
+
+def ci_format_tonal_multiple_score(pred, cipai):
+    """ 词牌格式检查 """
+    return CiFormatTonal.eval_multiple(cipai=cipai, poem_text=pred)
+
+
 
 def couplet_extraction(text):
     """ 从 text 中提取对联 """

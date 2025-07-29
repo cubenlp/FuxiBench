@@ -21,6 +21,7 @@ from langchain_core.prompt_values import StringPromptValue
 
 from src.utils import calculate_rouge_l, calculate_sacrebleu
 from src.utils import multiple_choice_acc, ci_format_acc, ci_format_multiple_acc, couplet_format_acc
+from src.utils import ci_format_tonal_score, ci_format_tonal_multiple_score
 from src.utils import load_json, save_json 
 
 from src.eval_prompts import CriteriaResultOutputParserZH, sft_prompt, sft_criteria, general_criteria,  general_lacc_prompt
@@ -446,6 +447,10 @@ class BenchmarkEvaluator:
             elif metric == 'pacc':
                 # score = ci_format_multiple_acc(pred=sample[self.pred_key], cipai=sample['cipai'])
                 score = ci_format_acc(pred=sample[self.pred_key], cipai=sample['cipai'])
+                tonal_score = ci_format_tonal_score(pred=sample[self.pred_key], cipai=sample['cipai'])
+                tonal_multiple_score = ci_format_tonal_multiple_score(pred=sample[self.pred_key], cipai=sample['cipai'])
+                sample['tonal_score'] = tonal_score
+                sample['tonal_multiple_score'] = tonal_multiple_score
             elif metric == 'lacc':
                 V.append(sample)
                 continue
